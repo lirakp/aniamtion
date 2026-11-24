@@ -1,0 +1,24 @@
+{
+ "groesse": [
+  320,
+  180
+ ],
+ "frames": 16,
+ "fps": 10,
+ "hinweis": "Overlay über der Spielebene; Frames liegen untereinander, Loop nahtlos.",
+ "effekte": {
+  "gluehwuermchen": "Nacht, Wiesen, Waldränder",
+  "regen": "leichter Regen mit Spritzern",
+  "regen_stark": "Gewitter mit Blitz-Aufhellung",
+  "schnee": "Schneefall (Nah- und Fernflocken)",
+  "blaetter": "Herbstlaub im Wind",
+  "pollen_licht": "Sonnenstrahlen mit Staub (Wald, Kirche)",
+  "nebel": "Bodennebel in drei Lagen",
+  "funken": "aufsteigende Funken (Schmiede, Lava)",
+  "asche": "fallende Asche mit Glut",
+  "blasen": "Unterwasser: Blasen + Lichtstrahlen",
+  "magie": "Mana-Funkeln (Magierorte, Portale)",
+  "sternschnuppen": "funkelnde Sterne + Sternschnuppe",
+  "hoehlentropfen": "Tropfen von der Decke"
+ }
+}

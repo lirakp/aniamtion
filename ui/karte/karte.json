@@ -1,0 +1,30 @@
+{
+ "groesse": 12,
+ "reihenfolge": [
+  "spieler",
+  "gilde",
+  "schmiede",
+  "laden",
+  "taverne",
+  "kirche",
+  "brunnen",
+  "rastplatz",
+  "boss",
+  "schatz",
+  "auftrag",
+  "auftrag_fertig",
+  "portal",
+  "tor",
+  "haendler_reise",
+  "gefahr",
+  "markierung",
+  "nebel",
+  "dungeon_D",
+  "dungeon_C",
+  "dungeon_B",
+  "dungeon_A",
+  "dungeon_S",
+  "dungeon_SS"
+ ],
+ "hinweis": "\"nebel\" ist eine Kachel für unerforschte Bereiche."
+}

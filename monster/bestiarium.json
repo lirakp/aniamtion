@@ -1,0 +1,4202 @@
+[
+ {
+  "rang": "D",
+  "name": "Kanalratte",
+  "lebensraum": "Kanalisation der Städte",
+  "merkmal": "Rudel aus Dutzenden, beißt nach Knöcheln",
+  "schwaeche": "Feuer, Licht"
+ },
+ {
+  "rang": "D",
+  "name": "Riesenkakerlake",
+  "lebensraum": "Kanalisation, Keller",
+  "merkmal": "Zäher Panzer, überlebt fast alles",
+  "schwaeche": "Stumpfe Schläge"
+ },
+ {
+  "rang": "D",
+  "name": "Grünschleim",
+  "lebensraum": "Dungeons, feuchte Höhlen",
+  "merkmal": "Zersetzt Leder und Stoff",
+  "schwaeche": "Feuer"
+ },
+ {
+  "rang": "D",
+  "name": "Blauschleim",
+  "lebensraum": "Silberseen, Ufer",
+  "merkmal": "Im Wasser fast unsichtbar",
+  "schwaeche": "Elektro"
+ },
+ {
+  "rang": "D",
+  "name": "Goblin",
+  "lebensraum": "Überall außerhalb der Städte",
+  "merkmal": "Kein Mana-Wissen, lebt kurz, entführt Frauen",
+  "schwaeche": "Ohne Anführer kopflos"
+ },
+ {
+  "rang": "D",
+  "name": "Goblin-Späher",
+  "lebensraum": "Wälder, Hügel",
+  "merkmal": "Flink und feige, warnt die Horde",
+  "schwaeche": "Lärm, Licht"
+ },
+ {
+  "rang": "D",
+  "name": "Kobold",
+  "lebensraum": "Minen im Erzwall und in Kaldrion",
+  "merkmal": "Stiehlt Werkzeug und Lampen",
+  "schwaeche": "Helles Licht"
+ },
+ {
+  "rang": "D",
+  "name": "Höhlenflatterer",
+  "lebensraum": "Höhlen, Dungeons",
+  "merkmal": "Schwarm, beißt im Dunkeln",
+  "schwaeche": "Licht, Lärm"
+ },
+ {
+  "rang": "D",
+  "name": "Moorkröte",
+  "lebensraum": "Moorgrund, Rabenmark",
+  "merkmal": "Giftschleim auf der Haut",
+  "schwaeche": "Feuer"
+ },
+ {
+  "rang": "D",
+  "name": "Stachelratte",
+  "lebensraum": "Felder in Hohenmark",
+  "merkmal": "Stellt Stacheln auf",
+  "schwaeche": "Ungeschützter Bauch"
+ },
+ {
+  "rang": "D",
+  "name": "Hauereber",
+  "lebensraum": "Wälder, Eichenmark",
+  "merkmal": "Blinder Sturmangriff",
+  "schwaeche": "Seitlich ausweichen"
+ },
+ {
+  "rang": "D",
+  "name": "Graswolf",
+  "lebensraum": "Windfelder",
+  "merkmal": "Rudel, legt Mana-Aura an",
+  "schwaeche": "Allein ängstlich"
+ },
+ {
+  "rang": "D",
+  "name": "Nebelfuchs",
+  "lebensraum": "Nebelhain",
+  "merkmal": "Kurze Trugbilder von sich selbst",
+  "schwaeche": "Licht"
+ },
+ {
+  "rang": "D",
+  "name": "Sumpfegel",
+  "lebensraum": "Moorgrund",
+  "merkmal": "Saugt sich unbemerkt fest",
+  "schwaeche": "Salz"
+ },
+ {
+  "rang": "D",
+  "name": "Aaskrähe",
+  "lebensraum": "Schlachtfelder, Galgenhügel",
+  "merkmal": "Schwarm, hackt nach Augen",
+  "schwaeche": "Wind"
+ },
+ {
+  "rang": "D",
+  "name": "Knochenhund",
+  "lebensraum": "Dungeons, Friedhöfe",
+  "merkmal": "Untoter Hund ohne Geruchssinn",
+  "schwaeche": "Stumpfe Waffen"
+ },
+ {
+  "rang": "D",
+  "name": "Skelettkrieger",
+  "lebensraum": "Dungeons",
+  "merkmal": "Kämpft mit rostigen Waffen weiter",
+  "schwaeche": "Stumpfe Waffen, Licht"
+ },
+ {
+  "rang": "D",
+  "name": "Moderleiche",
+  "lebensraum": "Friedhöfe in Rabenmark",
+  "merkmal": "Langsam, aber nie müde",
+  "schwaeche": "Feuer"
+ },
+ {
+  "rang": "D",
+  "name": "Irrlicht",
+  "lebensraum": "Nebelhain, Moore",
+  "merkmal": "Lockt Reisende in den Sumpf",
+  "schwaeche": "Ignorieren"
+ },
+ {
+  "rang": "D",
+  "name": "Pilzling",
+  "lebensraum": "Wälder, feuchte Dungeons",
+  "merkmal": "Stößt Schlafsporen aus",
+  "schwaeche": "Feuer"
+ },
+ {
+  "rang": "D",
+  "name": "Netzspinne",
+  "lebensraum": "Wälder, Dungeons",
+  "merkmal": "Spannt Netze über Wege",
+  "schwaeche": "Feuer"
+ },
+ {
+  "rang": "D",
+  "name": "Sandflohschwarm",
+  "lebensraum": "Rotsand",
+  "merkmal": "Tausende winzige Bisse",
+  "schwaeche": "Wasser"
+ },
+ {
+  "rang": "D",
+  "name": "Dünenechse",
+  "lebensraum": "Rotsand, Oasenbund",
+  "merkmal": "Sehr schnell auf Sand",
+  "schwaeche": "Kälte"
+ },
+ {
+  "rang": "D",
+  "name": "Glutskorpion",
+  "lebensraum": "Rotsand",
+  "merkmal": "Giftstachel, warm wie Glut",
+  "schwaeche": "Eis"
+ },
+ {
+  "rang": "D",
+  "name": "Klippenkrabbe",
+  "lebensraum": "Sturmkap",
+  "merkmal": "Scherenzange am Fels",
+  "schwaeche": "Auf den Rücken drehen"
+ },
+ {
+  "rang": "D",
+  "name": "Raubmöwe",
+  "lebensraum": "Alle Küsten",
+  "merkmal": "Stiehlt Proviant im Flug",
+  "schwaeche": "Lärm"
+ },
+ {
+  "rang": "D",
+  "name": "Salzschnecke",
+  "lebensraum": "Schluchtenland",
+  "merkmal": "Ätzende Schleimspur",
+  "schwaeche": "Wasser"
+ },
+ {
+  "rang": "D",
+  "name": "Wurzelgnom",
+  "lebensraum": "Eichenmark",
+  "merkmal": "Stellt kleine Fallen",
+  "schwaeche": "Feuer"
+ },
+ {
+  "rang": "D",
+  "name": "Moosling",
+  "lebensraum": "Wälder, Dungeons",
+  "merkmal": "Tarnt sich als Stein",
+  "schwaeche": "Feuer"
+ },
+ {
+  "rang": "D",
+  "name": "Steinkäfer",
+  "lebensraum": "Erzwall",
+  "merkmal": "Panzer aus Fels",
+  "schwaeche": "Hitze"
+ },
+ {
+  "rang": "D",
+  "name": "Lehmling",
+  "lebensraum": "Flussufer",
+  "merkmal": "Kleiner Lehmgolem",
+  "schwaeche": "Regen, Wasser"
+ },
+ {
+  "rang": "D",
+  "name": "Aschemotte",
+  "lebensraum": "Glutgrat",
+  "merkmal": "Streut brennenden Staub",
+  "schwaeche": "Wasser"
+ },
+ {
+  "rang": "D",
+  "name": "Funkenkäfer",
+  "lebensraum": "Sturmkap",
+  "merkmal": "Kleine Stromstöße",
+  "schwaeche": "Erde"
+ },
+ {
+  "rang": "D",
+  "name": "Frostmaus",
+  "lebensraum": "Kaldrion",
+  "merkmal": "Biss lässt Haut erfrieren",
+  "schwaeche": "Feuer"
+ },
+ {
+  "rang": "D",
+  "name": "Eishase",
+  "lebensraum": "Kaldrion",
+  "merkmal": "Tritt erstaunlich hart",
+  "schwaeche": "Feuer"
+ },
+ {
+  "rang": "D",
+  "name": "Kriechdorn",
+  "lebensraum": "Dorn-Dungeons",
+  "merkmal": "Wandernde Dornenranke",
+  "schwaeche": "Feuer"
+ },
+ {
+  "rang": "D",
+  "name": "Blutzecke",
+  "lebensraum": "Blut-Dungeons",
+  "merkmal": "Saugt und schwillt an",
+  "schwaeche": "Feuer"
+ },
+ {
+  "rang": "D",
+  "name": "Dämmermaus",
+  "lebensraum": "Nachtklüfte",
+  "merkmal": "Löscht Fackeln",
+  "schwaeche": "Licht"
+ },
+ {
+  "rang": "D",
+  "name": "Grubenwurm",
+  "lebensraum": "Minen",
+  "merkmal": "Gräbt Gänge, Stollen stürzen ein",
+  "schwaeche": "Erschütterung"
+ },
+ {
+  "rang": "D",
+  "name": "Wasserkobold",
+  "lebensraum": "Seen, Brunnen",
+  "merkmal": "Zieht Opfer unter Wasser",
+  "schwaeche": "Elektro"
+ },
+ {
+  "rang": "D",
+  "name": "Fiebermücke",
+  "lebensraum": "Fieberwald",
+  "merkmal": "Schwarm, überträgt Fieber",
+  "schwaeche": "Rauch"
+ },
+ {
+  "rang": "D",
+  "name": "Lianenaffe",
+  "lebensraum": "Fieberwald",
+  "merkmal": "Wirft Früchte, stiehlt Ausrüstung",
+  "schwaeche": "Lärm"
+ },
+ {
+  "rang": "D",
+  "name": "Giftfrosch",
+  "lebensraum": "Fieberwald",
+  "merkmal": "Tödliches Hautgift",
+  "schwaeche": "Nicht berühren"
+ },
+ {
+  "rang": "D",
+  "name": "Riesenmaulwurf",
+  "lebensraum": "Hohenmark, Felder",
+  "merkmal": "Untergräbt Wege und Zäune",
+  "schwaeche": "Licht"
+ },
+ {
+  "rang": "D",
+  "name": "Schädelkrabbe",
+  "lebensraum": "Dungeons",
+  "merkmal": "Krabbe in einem Totenschädel",
+  "schwaeche": "Stumpfe Waffen"
+ },
+ {
+  "rang": "D",
+  "name": "Klagegeist",
+  "lebensraum": "Erinnerungs-Dungeons",
+  "merkmal": "Ruft Namen von Verstorbenen",
+  "schwaeche": "Stille-Zauber"
+ },
+ {
+  "rang": "D",
+  "name": "Erinnerungsfalter",
+  "lebensraum": "Erinnerungs-Dungeons",
+  "merkmal": "Stiehlt kurze Erinnerungen",
+  "schwaeche": "Licht"
+ },
+ {
+  "rang": "D",
+  "name": "Brunnenkröte",
+  "lebensraum": "Dorfbrunnen",
+  "merkmal": "Vergiftet das Wasser",
+  "schwaeche": "Salz"
+ },
+ {
+  "rang": "D",
+  "name": "Panzerassel",
+  "lebensraum": "Keller, Höhlen",
+  "merkmal": "Rollt sich zur Kugel",
+  "schwaeche": "Hebel, Feuer"
+ },
+ {
+  "rang": "D",
+  "name": "Räudenhund",
+  "lebensraum": "Dörfer, Straßen",
+  "merkmal": "Tollwütig",
+  "schwaeche": "Feuer"
+ },
+ {
+  "rang": "D",
+  "name": "Sumpfluchs",
+  "lebensraum": "Moorgrund",
+  "merkmal": "Lauert im Schilf",
+  "schwaeche": "Lärm"
+ },
+ {
+  "rang": "D",
+  "name": "Rammbock-Ziege",
+  "lebensraum": "Erzwall",
+  "merkmal": "Stößt Wanderer von Klippen",
+  "schwaeche": "Seitwärts ausweichen"
+ },
+ {
+  "rang": "D",
+  "name": "Kreischeule",
+  "lebensraum": "Wälder",
+  "merkmal": "Schrei lähmt kurz",
+  "schwaeche": "Ohren verstopfen"
+ },
+ {
+  "rang": "D",
+  "name": "Strandschnapper",
+  "lebensraum": "Küsten",
+  "merkmal": "Riesenmuschel schnappt zu",
+  "schwaeche": "Hebel"
+ },
+ {
+  "rang": "D",
+  "name": "Brennqualle",
+  "lebensraum": "Küstengewässer",
+  "merkmal": "Nesseln brennen tagelang",
+  "schwaeche": "Trockenheit"
+ },
+ {
+  "rang": "D",
+  "name": "Faulblase",
+  "lebensraum": "Moorgrund",
+  "merkmal": "Gasblase, platzt giftig",
+  "schwaeche": "Abstand"
+ },
+ {
+  "rang": "D",
+  "name": "Sandmade",
+  "lebensraum": "Rotsand",
+  "merkmal": "Frißt sich durch Vorräte",
+  "schwaeche": "Wasser"
+ },
+ {
+  "rang": "D",
+  "name": "Stumpfbeißer",
+  "lebensraum": "Eichenmark",
+  "merkmal": "Tarnt sich als Baumstumpf",
+  "schwaeche": "Feuer"
+ },
+ {
+  "rang": "D",
+  "name": "Kistenmaul",
+  "lebensraum": "Dungeons",
+  "merkmal": "Kleine Truhe mit Zähnen",
+  "schwaeche": "Vorher anklopfen"
+ },
+ {
+  "rang": "D",
+  "name": "Kanalkrokodil",
+  "lebensraum": "Kanalisation von Goldwacht",
+  "merkmal": "Junges Krokodil, wächst weiter",
+  "schwaeche": "Kälte"
+ },
+ {
+  "rang": "D",
+  "name": "Kampfhahn",
+  "lebensraum": "Dörfer in Hohenmark",
+  "merkmal": "Greift alles an, was sich bewegt",
+  "schwaeche": "Körnerfutter"
+ },
+ {
+  "rang": "D",
+  "name": "Krümelgeist",
+  "lebensraum": "Erzwall",
+  "merkmal": "Kleiner Erdgeist, wirft Steine",
+  "schwaeche": "Wasser"
+ },
+ {
+  "rang": "D",
+  "name": "Böenkobold",
+  "lebensraum": "Windfelder",
+  "merkmal": "Stößt Reisende um",
+  "schwaeche": "Erde"
+ },
+ {
+  "rang": "D",
+  "name": "Funkengeist",
+  "lebensraum": "Sturmkap bei Gewitter",
+  "merkmal": "Springt von Metall zu Metall",
+  "schwaeche": "Erde"
+ },
+ {
+  "rang": "D",
+  "name": "Pfützling",
+  "lebensraum": "Moorgrund",
+  "merkmal": "Kleiner Wassergeist",
+  "schwaeche": "Elektro"
+ },
+ {
+  "rang": "D",
+  "name": "Glutling",
+  "lebensraum": "Glutgrat",
+  "merkmal": "Kleiner Feuergeist",
+  "schwaeche": "Wasser"
+ },
+ {
+  "rang": "D",
+  "name": "Reifling",
+  "lebensraum": "Kaldrion",
+  "merkmal": "Kleiner Frostgeist",
+  "schwaeche": "Feuer"
+ },
+ {
+  "rang": "D",
+  "name": "Keimling",
+  "lebensraum": "Eichenmark",
+  "merkmal": "Kleiner Pflanzengeist",
+  "schwaeche": "Feuer"
+ },
+ {
+  "rang": "D",
+  "name": "Diebselster",
+  "lebensraum": "Städte",
+  "merkmal": "Stiehlt alles, was glänzt",
+  "schwaeche": "Köder"
+ },
+ {
+  "rang": "D",
+  "name": "Grasotter",
+  "lebensraum": "Windfelder",
+  "merkmal": "Giftbiss aus dem hohen Gras",
+  "schwaeche": "Hohe Stiefel"
+ },
+ {
+  "rang": "D",
+  "name": "Steinviper",
+  "lebensraum": "Erzwall",
+  "merkmal": "Sieht aus wie Geröll",
+  "schwaeche": "Wärme lockt sie"
+ },
+ {
+  "rang": "D",
+  "name": "Schnapphecht",
+  "lebensraum": "Seen",
+  "merkmal": "Reißt Angler ins Wasser",
+  "schwaeche": "Elektro"
+ },
+ {
+  "rang": "D",
+  "name": "Blutwiesel",
+  "lebensraum": "Wälder",
+  "merkmal": "Beißt in die Kehle",
+  "schwaeche": "Licht"
+ },
+ {
+  "rang": "D",
+  "name": "Schilfnatter",
+  "lebensraum": "Moore",
+  "merkmal": "Würgt kleine Beute und Kinder",
+  "schwaeche": "Feuer"
+ },
+ {
+  "rang": "D",
+  "name": "Knochenratte",
+  "lebensraum": "Dungeons",
+  "merkmal": "Untote Ratte",
+  "schwaeche": "Stumpfe Waffen"
+ },
+ {
+  "rang": "D",
+  "name": "Rostfresser",
+  "lebensraum": "Minen, Schmieden",
+  "merkmal": "Frißt Metall",
+  "schwaeche": "Holzwaffen"
+ },
+ {
+  "rang": "D",
+  "name": "Kerzenwicht",
+  "lebensraum": "Kirchen, Krypten",
+  "merkmal": "Lebende Kerzenflamme",
+  "schwaeche": "Wasser"
+ },
+ {
+  "rang": "D",
+  "name": "Grabschaufler",
+  "lebensraum": "Friedhöfe",
+  "merkmal": "Gräbt Leichen aus",
+  "schwaeche": "Licht"
+ },
+ {
+  "rang": "D",
+  "name": "Heuwurm",
+  "lebensraum": "Scheunen in Hohenmark",
+  "merkmal": "Frißt Vorräte",
+  "schwaeche": "Feuer"
+ },
+ {
+  "rang": "D",
+  "name": "Torfmolch",
+  "lebensraum": "Moorgrund",
+  "merkmal": "Taucht im Torf ab",
+  "schwaeche": "Trockenheit"
+ },
+ {
+  "rang": "D",
+  "name": "Distelbock",
+  "lebensraum": "Windfelder",
+  "merkmal": "Fell voller Disteln",
+  "schwaeche": "Feuer"
+ },
+ {
+  "rang": "D",
+  "name": "Zornbienen",
+  "lebensraum": "Wälder",
+  "merkmal": "Verfolgen kilometerweit",
+  "schwaeche": "Rauch"
+ },
+ {
+  "rang": "D",
+  "name": "Glutwespen",
+  "lebensraum": "Glutgrat, Rotsand",
+  "merkmal": "Stich brennt",
+  "schwaeche": "Rauch"
+ },
+ {
+  "rang": "D",
+  "name": "Wanderameisen",
+  "lebensraum": "Fieberwald",
+  "merkmal": "Fressen alles auf ihrem Weg",
+  "schwaeche": "Wasser, Feuer"
+ },
+ {
+  "rang": "D",
+  "name": "Riesenholzwurm",
+  "lebensraum": "Eichenmark",
+  "merkmal": "Zerfrisst Brücken",
+  "schwaeche": "Feuer"
+ },
+ {
+  "rang": "D",
+  "name": "Tangkrabbe",
+  "lebensraum": "Küsten",
+  "merkmal": "Versteckt im Seetang",
+  "schwaeche": "Licht"
+ },
+ {
+  "rang": "D",
+  "name": "Sturmschwalbe",
+  "lebensraum": "Sturmkap",
+  "merkmal": "Schnelle Sturzflüge",
+  "schwaeche": "Netze"
+ },
+ {
+  "rang": "D",
+  "name": "Wüstenhyäne",
+  "lebensraum": "Rotsand",
+  "merkmal": "Lacht vor dem Angriff",
+  "schwaeche": "Feuer"
+ },
+ {
+  "rang": "D",
+  "name": "Oasenkrokodil",
+  "lebensraum": "Oasenbund",
+  "merkmal": "Lauert im Wasserloch",
+  "schwaeche": "Kälte"
+ },
+ {
+  "rang": "D",
+  "name": "Salzkrähe",
+  "lebensraum": "Schluchtenland",
+  "merkmal": "Pickt Salz aus Wunden",
+  "schwaeche": "Wind"
+ },
+ {
+  "rang": "D",
+  "name": "Felsenflitzer",
+  "lebensraum": "Schluchtenland",
+  "merkmal": "Springt von Wand zu Wand",
+  "schwaeche": "Netze"
+ },
+ {
+  "rang": "D",
+  "name": "Kalkspinne",
+  "lebensraum": "Schluchtenland",
+  "merkmal": "Weiß wie Kalkstein",
+  "schwaeche": "Wasser"
+ },
+ {
+  "rang": "D",
+  "name": "Glutkäfer",
+  "lebensraum": "Glutgrat",
+  "merkmal": "Panzer glüht",
+  "schwaeche": "Wasser"
+ },
+ {
+  "rang": "D",
+  "name": "Aschenratte",
+  "lebensraum": "Aschfeld",
+  "merkmal": "Frißt Asche",
+  "schwaeche": "Wasser"
+ },
+ {
+  "rang": "D",
+  "name": "Frostflatterer",
+  "lebensraum": "Kaldrion",
+  "merkmal": "Hängt wie ein Eiszapfen von der Decke",
+  "schwaeche": "Feuer"
+ },
+ {
+  "rang": "D",
+  "name": "Eismade",
+  "lebensraum": "Kaldrion",
+  "merkmal": "Bohrt sich durch Eis",
+  "schwaeche": "Feuer"
+ },
+ {
+  "rang": "D",
+  "name": "Schneegoblin",
+  "lebensraum": "Kaldrion",
+  "merkmal": "Goblin im Pelz",
+  "schwaeche": "Feuer"
+ },
+ {
+  "rang": "D",
+  "name": "Moorgoblin",
+  "lebensraum": "Rabenmark, Moorgrund",
+  "merkmal": "Goblin mit Schilfspeer",
+  "schwaeche": "Feuer"
+ },
+ {
+  "rang": "D",
+  "name": "Sandgoblin",
+  "lebensraum": "Rotsand",
+  "merkmal": "Reitet auf Dünenechsen",
+  "schwaeche": "Wasser"
+ },
+ {
+  "rang": "D",
+  "name": "Dschungelgoblin",
+  "lebensraum": "Fieberwald",
+  "merkmal": "Giftpfeile",
+  "schwaeche": "Lärm"
+ },
+ {
+  "rang": "D",
+  "name": "Goblin-Schamane",
+  "lebensraum": "Goblinlager",
+  "merkmal": "Hält Rauch für Magie und wedelt hoffnungsvoll",
+  "schwaeche": "Auslachen"
+ },
+ {
+  "rang": "D",
+  "name": "Schlammling",
+  "lebensraum": "Flussufer",
+  "merkmal": "Schlammklumpen mit Augen",
+  "schwaeche": "Sonne"
+ },
+ {
+  "rang": "D",
+  "name": "Moosbär-Junges",
+  "lebensraum": "Eichenmark",
+  "merkmal": "Die Mutter ist nie weit",
+  "schwaeche": "Nicht anfassen"
+ },
+ {
+  "rang": "D",
+  "name": "Raubmilan",
+  "lebensraum": "Windfelder",
+  "merkmal": "Holt Lämmer von der Weide",
+  "schwaeche": "Pfeile"
+ },
+ {
+  "rang": "D",
+  "name": "Weidenwicht",
+  "lebensraum": "Flussufer",
+  "merkmal": "Peitscht mit Weidenruten",
+  "schwaeche": "Feuer"
+ },
+ {
+  "rang": "D",
+  "name": "Kürbisgeist",
+  "lebensraum": "Felder zur Ernte",
+  "merkmal": "Erscheint nur im Herbst",
+  "schwaeche": "Licht"
+ },
+ {
+  "rang": "D",
+  "name": "Strohwächter",
+  "lebensraum": "Felder",
+  "merkmal": "Belebte Vogelscheuche",
+  "schwaeche": "Feuer"
+ },
+ {
+  "rang": "D",
+  "name": "Lumpenpuppe",
+  "lebensraum": "Verlassene Häuser",
+  "merkmal": "Kichert nachts",
+  "schwaeche": "Feuer"
+ },
+ {
+  "rang": "D",
+  "name": "Spiegelwicht",
+  "lebensraum": "Erinnerungs-Dungeons",
+  "merkmal": "Zeigt alte Erinnerungen",
+  "schwaeche": "Spiegel zerbrechen"
+ },
+ {
+  "rang": "D",
+  "name": "Tintenschnecke",
+  "lebensraum": "Bibliotheken, Akademie",
+  "merkmal": "Frißt Buchseiten",
+  "schwaeche": "Salz"
+ },
+ {
+  "rang": "D",
+  "name": "Schriftrollenmilbe",
+  "lebensraum": "Bibliotheken",
+  "merkmal": "Macht Zauberbücher unlesbar",
+  "schwaeche": "Trockene Luft"
+ },
+ {
+  "rang": "D",
+  "name": "Schimmelkriecher",
+  "lebensraum": "Keller",
+  "merkmal": "Breitet sich nachts aus",
+  "schwaeche": "Feuer"
+ },
+ {
+  "rang": "D",
+  "name": "Blutfliege",
+  "lebensraum": "Blut-Dungeons",
+  "merkmal": "Riecht Blut über weite Strecken",
+  "schwaeche": "Rauch"
+ },
+ {
+  "rang": "D",
+  "name": "Dornenmaus",
+  "lebensraum": "Dorn-Dungeons",
+  "merkmal": "Fell aus Dornen",
+  "schwaeche": "Feuer"
+ },
+ {
+  "rang": "D",
+  "name": "Fallenkäfer",
+  "lebensraum": "Dungeons",
+  "merkmal": "Löst absichtlich Fallen aus",
+  "schwaeche": "Langsam gehen"
+ },
+ {
+  "rang": "D",
+  "name": "Steinfresser",
+  "lebensraum": "Höhlen",
+  "merkmal": "Frißt Fels, hinterlässt Löcher",
+  "schwaeche": "Lärm"
+ },
+ {
+  "rang": "D",
+  "name": "Lockleuchten",
+  "lebensraum": "Fieberwald",
+  "merkmal": "Glühwürmchen, locken in Fallen",
+  "schwaeche": "Ignorieren"
+ },
+ {
+  "rang": "D",
+  "name": "Moorhenne",
+  "lebensraum": "Moorgrund",
+  "merkmal": "Brütet auf Giftpflanzen",
+  "schwaeche": "Körner"
+ },
+ {
+  "rang": "D",
+  "name": "Nebelkrähe",
+  "lebensraum": "Nebelhain",
+  "merkmal": "Spricht einzelne Worte nach",
+  "schwaeche": "Lärm"
+ },
+ {
+  "rang": "D",
+  "name": "Riesenhirschkäfer",
+  "lebensraum": "Eichenmark",
+  "merkmal": "Zangen brechen Knochen",
+  "schwaeche": "Auf den Rücken drehen"
+ },
+ {
+  "rang": "D",
+  "name": "Wühlmausschwarm",
+  "lebensraum": "Felder",
+  "merkmal": "Ganze Ernten verschwinden",
+  "schwaeche": "Katzen"
+ },
+ {
+  "rang": "D",
+  "name": "Bockschaf",
+  "lebensraum": "Hügel",
+  "merkmal": "Verwildert, rammt alles",
+  "schwaeche": "Feuer"
+ },
+ {
+  "rang": "D",
+  "name": "Riesenflusskrebs",
+  "lebensraum": "Flüsse",
+  "merkmal": "Scheren wie Zangen",
+  "schwaeche": "Kälte"
+ },
+ {
+  "rang": "D",
+  "name": "Giftmolch",
+  "lebensraum": "Seen",
+  "merkmal": "Haut gibt Gift ab",
+  "schwaeche": "Salz"
+ },
+ {
+  "rang": "D",
+  "name": "Grottenolm",
+  "lebensraum": "Nachtklüfte",
+  "merkmal": "Blind, spürt Wärme",
+  "schwaeche": "Kälte"
+ },
+ {
+  "rang": "D",
+  "name": "Tropfsteinwurm",
+  "lebensraum": "Höhlen",
+  "merkmal": "Fällt von der Decke",
+  "schwaeche": "Helm"
+ },
+ {
+  "rang": "D",
+  "name": "Zwielichtkatze",
+  "lebensraum": "Städte nachts",
+  "merkmal": "Unsichtbar im Halbdunkel",
+  "schwaeche": "Licht"
+ },
+ {
+  "rang": "D",
+  "name": "Sackratte",
+  "lebensraum": "Lagerhäuser",
+  "merkmal": "Schleppt Vorräte weg",
+  "schwaeche": "Katzen"
+ },
+ {
+  "rang": "D",
+  "name": "Kletterechse",
+  "lebensraum": "Mauern, Ruinen",
+  "merkmal": "Klebt an Wänden",
+  "schwaeche": "Kälte"
+ },
+ {
+  "rang": "D",
+  "name": "Torfgeist",
+  "lebensraum": "Torfgruben",
+  "merkmal": "Riecht nach Rauch",
+  "schwaeche": "Wasser"
+ },
+ {
+  "rang": "D",
+  "name": "Würgewinde",
+  "lebensraum": "Fieberwald",
+  "merkmal": "Wickelt sich um Beine",
+  "schwaeche": "Feuer"
+ },
+ {
+  "rang": "D",
+  "name": "Schnappblüte",
+  "lebensraum": "Fieberwald",
+  "merkmal": "Lockt mit süßem Duft",
+  "schwaeche": "Feuer"
+ },
+ {
+  "rang": "D",
+  "name": "Stinkkäfer",
+  "lebensraum": "Wälder",
+  "merkmal": "Gestank vertreibt ganze Trupps",
+  "schwaeche": "Wind"
+ },
+ {
+  "rang": "D",
+  "name": "Rußfledermaus",
+  "lebensraum": "Glutgrat",
+  "merkmal": "Fliegt durch Rauch",
+  "schwaeche": "Wasser"
+ },
+ {
+  "rang": "D",
+  "name": "Lavaschnecke",
+  "lebensraum": "Glutgrat",
+  "merkmal": "Hinterlässt glühende Spur",
+  "schwaeche": "Wasser"
+ },
+ {
+  "rang": "D",
+  "name": "Eiskrabbe",
+  "lebensraum": "Küsten von Kaldrion",
+  "merkmal": "Scheren aus Eis",
+  "schwaeche": "Feuer"
+ },
+ {
+  "rang": "D",
+  "name": "Schneewiesel",
+  "lebensraum": "Kaldrion",
+  "merkmal": "Weiß im Schnee",
+  "schwaeche": "Wärme lockt es"
+ },
+ {
+  "rang": "D",
+  "name": "Heulböe",
+  "lebensraum": "Windfelder",
+  "merkmal": "Pfeift so laut, dass Pferde scheuen",
+  "schwaeche": "Erde"
+ },
+ {
+  "rang": "D",
+  "name": "Kiesel",
+  "lebensraum": "Flussbetten",
+  "merkmal": "Winziger Steingolem, wirft sich selbst",
+  "schwaeche": "Wasser"
+ },
+ {
+  "rang": "D",
+  "name": "Salzgeist",
+  "lebensraum": "Schluchtenland",
+  "merkmal": "Trocknet Wunden aus",
+  "schwaeche": "Wasser"
+ },
+ {
+  "rang": "D",
+  "name": "Staubwirbel",
+  "lebensraum": "Rotsand",
+  "merkmal": "Kleiner Wirbelwind mit Willen",
+  "schwaeche": "Erde"
+ },
+ {
+  "rang": "D",
+  "name": "Dattelaffe",
+  "lebensraum": "Oasenbund",
+  "merkmal": "Stiehlt Wasserschläuche",
+  "schwaeche": "Lärm"
+ },
+ {
+  "rang": "D",
+  "name": "Wanderdistel",
+  "lebensraum": "Rotsand",
+  "merkmal": "Rollt mit dem Wind und sticht",
+  "schwaeche": "Feuer"
+ },
+ {
+  "rang": "D",
+  "name": "Klammkröte",
+  "lebensraum": "Schluchtenland",
+  "merkmal": "Klebt an Felswänden",
+  "schwaeche": "Wind"
+ },
+ {
+  "rang": "D",
+  "name": "Brückentroll-Junges",
+  "lebensraum": "Brücken",
+  "merkmal": "Verlangt Wegzoll",
+  "schwaeche": "Sonnenlicht"
+ },
+ {
+  "rang": "D",
+  "name": "Galgenrabe",
+  "lebensraum": "Galgenhügel",
+  "merkmal": "Krächzt bei jedem Tod",
+  "schwaeche": "Wind"
+ },
+ {
+  "rang": "D",
+  "name": "Leuchtaal",
+  "lebensraum": "Silberseen",
+  "merkmal": "Schwache Stromschläge",
+  "schwaeche": "Erde"
+ },
+ {
+  "rang": "D",
+  "name": "Rotkappe",
+  "lebensraum": "Wälder",
+  "merkmal": "Hinterhältiger Wicht mit Messer",
+  "schwaeche": "Eisen"
+ },
+ {
+  "rang": "D",
+  "name": "Leerer Helm",
+  "lebensraum": "Dungeons",
+  "merkmal": "Besessenes Rüstungsteil",
+  "schwaeche": "Stumpfe Waffen"
+ },
+ {
+  "rang": "D",
+  "name": "Pfützenschleim",
+  "lebensraum": "Straßen nach Regen",
+  "merkmal": "Sieht aus wie eine Pfütze",
+  "schwaeche": "Elektro"
+ },
+ {
+  "rang": "C",
+  "name": "Goblin-Hauptmann",
+  "lebensraum": "Goblinlager",
+  "merkmal": "Führt Horden, trägt Beute-Rüstung",
+  "schwaeche": "Ohne ihn zerfällt die Horde"
+ },
+ {
+  "rang": "C",
+  "name": "Hobgoblin",
+  "lebensraum": "Hügel, Wälder",
+  "merkmal": "Größer und klüger als Goblins",
+  "schwaeche": "Feuer"
+ },
+ {
+  "rang": "C",
+  "name": "Ork-Plünderer",
+  "lebensraum": "Grenzland",
+  "merkmal": "Stark, laut, gierig",
+  "schwaeche": "Fallen"
+ },
+ {
+  "rang": "C",
+  "name": "Ork-Wolfsreiter",
+  "lebensraum": "Windfelder",
+  "merkmal": "Reitet Graswolf-Rudel",
+  "schwaeche": "Die Wölfe zuerst"
+ },
+ {
+  "rang": "C",
+  "name": "Graues Leittier",
+  "lebensraum": "Wälder",
+  "merkmal": "Rudelführer mit starker Mana-Aura",
+  "schwaeche": "Ohne ihn flieht das Rudel"
+ },
+ {
+  "rang": "C",
+  "name": "Schwarzbär",
+  "lebensraum": "Eichenmark",
+  "merkmal": "Ein Schlag bricht Schilde",
+  "schwaeche": "Feuer"
+ },
+ {
+  "rang": "C",
+  "name": "Höhlenbär",
+  "lebensraum": "Erzwall",
+  "merkmal": "Im Frühling ausgehungert und wütend",
+  "schwaeche": "Feuer"
+ },
+ {
+  "rang": "C",
+  "name": "Riesenspinne",
+  "lebensraum": "Dungeons, Wälder",
+  "merkmal": "Giftbiss lähmt",
+  "schwaeche": "Feuer"
+ },
+ {
+  "rang": "C",
+  "name": "Riesenskorpion",
+  "lebensraum": "Rotsand",
+  "merkmal": "Panzer hält Pfeile ab",
+  "schwaeche": "Eis, Gelenke"
+ },
+ {
+  "rang": "C",
+  "name": "Waldtroll",
+  "lebensraum": "Wälder",
+  "merkmal": "Kleine Wunden heilen sofort",
+  "schwaeche": "Feuer"
+ },
+ {
+  "rang": "C",
+  "name": "Sumpftroll",
+  "lebensraum": "Moorgrund",
+  "merkmal": "Taucht tagelang ab",
+  "schwaeche": "Feuer"
+ },
+ {
+  "rang": "C",
+  "name": "Ghul",
+  "lebensraum": "Friedhöfe, Dungeons",
+  "merkmal": "Lähmende Krallen",
+  "schwaeche": "Licht"
+ },
+ {
+  "rang": "C",
+  "name": "Wiedergänger",
+  "lebensraum": "Rabenmark",
+  "merkmal": "Kehrt jede Nacht zurück",
+  "schwaeche": "Kopf abtrennen und verbrennen"
+ },
+ {
+  "rang": "C",
+  "name": "Skelett-Bogenschütze",
+  "lebensraum": "Dungeons",
+  "merkmal": "Trifft erstaunlich gut",
+  "schwaeche": "Stumpfe Waffen"
+ },
+ {
+  "rang": "C",
+  "name": "Skelettritter",
+  "lebensraum": "Dungeons",
+  "merkmal": "Volle Rüstung, alte Kampftechnik",
+  "schwaeche": "Hämmer"
+ },
+ {
+  "rang": "C",
+  "name": "Harpyie",
+  "lebensraum": "Klippen am Sturmkap",
+  "merkmal": "Kreischt und packt Beute",
+  "schwaeche": "Pfeile, Wind"
+ },
+ {
+  "rang": "C",
+  "name": "Gnoll",
+  "lebensraum": "Rotsand",
+  "merkmal": "Hyänenmensch, jagt im Rudel",
+  "schwaeche": "Feuer"
+ },
+ {
+  "rang": "C",
+  "name": "Echsenkrieger",
+  "lebensraum": "Moorgrund",
+  "merkmal": "Kämpft am liebsten im Wasser",
+  "schwaeche": "Kälte"
+ },
+ {
+  "rang": "C",
+  "name": "Kobold-Fallensteller",
+  "lebensraum": "Minen",
+  "merkmal": "Ganze Stollen voller Fallen",
+  "schwaeche": "Langsam gehen"
+ },
+ {
+  "rang": "C",
+  "name": "Hornbulle",
+  "lebensraum": "Hohenmark",
+  "merkmal": "Riesenstier, rammt Wagen um",
+  "schwaeche": "Ausweichen"
+ },
+ {
+  "rang": "C",
+  "name": "Riesenkröte",
+  "lebensraum": "Moorgrund",
+  "merkmal": "Verschluckt Menschen ganz",
+  "schwaeche": "Feuer"
+ },
+ {
+  "rang": "C",
+  "name": "Zweikopfnatter",
+  "lebensraum": "Moore",
+  "merkmal": "Zwei Giftköpfe",
+  "schwaeche": "Feuer"
+ },
+ {
+  "rang": "C",
+  "name": "Lianenpython",
+  "lebensraum": "Fieberwald",
+  "merkmal": "Würgt Pferde",
+  "schwaeche": "Klingen"
+ },
+ {
+  "rang": "C",
+  "name": "Flussechse",
+  "lebensraum": "Flüsse im Süden",
+  "merkmal": "Todesrolle unter Wasser",
+  "schwaeche": "Kälte"
+ },
+ {
+  "rang": "C",
+  "name": "Junger Sandwurm",
+  "lebensraum": "Rotsand",
+  "merkmal": "Taucht aus dem Sand auf",
+  "schwaeche": "Fels"
+ },
+ {
+  "rang": "C",
+  "name": "Glutechse",
+  "lebensraum": "Glutgrat",
+  "merkmal": "Speit Funken",
+  "schwaeche": "Wasser"
+ },
+ {
+  "rang": "C",
+  "name": "Frostwolf",
+  "lebensraum": "Kaldrion",
+  "merkmal": "Eisiger Atem, jagt im Rudel",
+  "schwaeche": "Feuer"
+ },
+ {
+  "rang": "C",
+  "name": "Schneeschrat",
+  "lebensraum": "Kaldrion",
+  "merkmal": "Wirft Felsbrocken",
+  "schwaeche": "Feuer"
+ },
+ {
+  "rang": "C",
+  "name": "Kleiner Steingolem",
+  "lebensraum": "Erzwall, Ruinen",
+  "merkmal": "Sehr langsam, sehr hart",
+  "schwaeche": "Wasser, Hämmer"
+ },
+ {
+  "rang": "C",
+  "name": "Junger Eichenwächter",
+  "lebensraum": "Eichenmark",
+  "merkmal": "Von Wurzelgnomen gebaut",
+  "schwaeche": "Feuer"
+ },
+ {
+  "rang": "C",
+  "name": "Sumpfvettel",
+  "lebensraum": "Moorgrund",
+  "merkmal": "Verflucht Reisende mit Pech",
+  "schwaeche": "Licht"
+ },
+ {
+  "rang": "C",
+  "name": "Irrwicht-Schwarm",
+  "lebensraum": "Nebelhain",
+  "merkmal": "Dutzende Irrlichter zugleich",
+  "schwaeche": "Wind"
+ },
+ {
+  "rang": "C",
+  "name": "Klageweib",
+  "lebensraum": "Erinnerungs-Dungeons",
+  "merkmal": "Schrei lässt Ohren bluten",
+  "schwaeche": "Stille-Zauber"
+ },
+ {
+  "rang": "C",
+  "name": "Poltergeist",
+  "lebensraum": "Verlassene Häuser",
+  "merkmal": "Wirft Möbel",
+  "schwaeche": "Licht"
+ },
+ {
+  "rang": "C",
+  "name": "Mimik",
+  "lebensraum": "Dungeons",
+  "merkmal": "Große Truhe mit Zunge",
+  "schwaeche": "Feuer"
+ },
+ {
+  "rang": "C",
+  "name": "Wasserspeier",
+  "lebensraum": "Kirchen, Ruinen",
+  "merkmal": "Tagsüber aus Stein",
+  "schwaeche": "Hämmer"
+ },
+ {
+  "rang": "C",
+  "name": "Riesenfledermaus",
+  "lebensraum": "Höhlen",
+  "merkmal": "Saugt Schlafenden Blut ab",
+  "schwaeche": "Licht"
+ },
+ {
+  "rang": "C",
+  "name": "Keilerbulle",
+  "lebensraum": "Wälder",
+  "merkmal": "Hauer wie Speere",
+  "schwaeche": "Ausweichen"
+ },
+ {
+  "rang": "C",
+  "name": "Felsluchs",
+  "lebensraum": "Schluchtenland",
+  "merkmal": "Springt von Felsen",
+  "schwaeche": "Netze"
+ },
+ {
+  "rang": "C",
+  "name": "Klippenadler",
+  "lebensraum": "Sturmkap",
+  "merkmal": "Trägt Ziegen davon",
+  "schwaeche": "Pfeile"
+ },
+ {
+  "rang": "C",
+  "name": "Junge Seeschlange",
+  "lebensraum": "Küsten",
+  "merkmal": "Kentert kleine Boote",
+  "schwaeche": "Elektro"
+ },
+ {
+  "rang": "C",
+  "name": "Fjordrobbe",
+  "lebensraum": "Sturmkap",
+  "merkmal": "Zerrt Fischer ins Wasser",
+  "schwaeche": "Elektro"
+ },
+ {
+  "rang": "C",
+  "name": "Nixe",
+  "lebensraum": "Silberseen",
+  "merkmal": "Gesang lockt ins Wasser",
+  "schwaeche": "Ohren verstopfen"
+ },
+ {
+  "rang": "C",
+  "name": "Flussgeist",
+  "lebensraum": "Flüsse",
+  "merkmal": "Reißt Furten weg",
+  "schwaeche": "Erde"
+ },
+ {
+  "rang": "C",
+  "name": "Gewitterwicht",
+  "lebensraum": "Sturmkap",
+  "merkmal": "Ruft kleine Blitze herab",
+  "schwaeche": "Erde"
+ },
+ {
+  "rang": "C",
+  "name": "Flammenwicht",
+  "lebensraum": "Glutgrat",
+  "merkmal": "Setzt Wälder in Brand",
+  "schwaeche": "Wasser"
+ },
+ {
+  "rang": "C",
+  "name": "Frostwicht",
+  "lebensraum": "Kaldrion",
+  "merkmal": "Friert Wasserschläuche ein",
+  "schwaeche": "Feuer"
+ },
+ {
+  "rang": "C",
+  "name": "Steinwicht",
+  "lebensraum": "Erzwall",
+  "merkmal": "Lässt Stollen einstürzen",
+  "schwaeche": "Wasser"
+ },
+ {
+  "rang": "C",
+  "name": "Wirbelwicht",
+  "lebensraum": "Windfelder",
+  "merkmal": "Hebt Menschen kurz an",
+  "schwaeche": "Erde"
+ },
+ {
+  "rang": "C",
+  "name": "Rankenwicht",
+  "lebensraum": "Eichenmark",
+  "merkmal": "Lässt Wege zuwachsen",
+  "schwaeche": "Feuer"
+ },
+ {
+  "rang": "C",
+  "name": "Wellenwicht",
+  "lebensraum": "Seen",
+  "merkmal": "Zieht Boote in Strudel",
+  "schwaeche": "Elektro"
+ },
+ {
+  "rang": "C",
+  "name": "Blutfledermaus-Schwarm",
+  "lebensraum": "Blut-Dungeons",
+  "merkmal": "Wird mit jedem Biss stärker",
+  "schwaeche": "Feuer"
+ },
+ {
+  "rang": "C",
+  "name": "Dornenhund",
+  "lebensraum": "Dorn-Dungeons",
+  "merkmal": "Fell aus Dornen, jagt im Rudel",
+  "schwaeche": "Feuer"
+ },
+ {
+  "rang": "C",
+  "name": "Erinnerungsdieb",
+  "lebensraum": "Erinnerungs-Dungeons",
+  "merkmal": "Nimmt Erinnerungen an Kampftechniken",
+  "schwaeche": "Trupp beisammenhalten"
+ },
+ {
+  "rang": "C",
+  "name": "Echo-Wanderer",
+  "lebensraum": "Erinnerungs-Dungeons",
+  "merkmal": "Kopiert Stimmen von Truppmitgliedern",
+  "schwaeche": "Codewörter"
+ },
+ {
+  "rang": "C",
+  "name": "Leere Rüstung",
+  "lebensraum": "Dungeons",
+  "merkmal": "Volle Rüstung ohne Träger",
+  "schwaeche": "Hämmer"
+ },
+ {
+  "rang": "C",
+  "name": "Schwebende Klinge",
+  "lebensraum": "Dungeons",
+  "merkmal": "Fliegendes Schwert",
+  "schwaeche": "Den Griff packen"
+ },
+ {
+  "rang": "C",
+  "name": "Grabwächter",
+  "lebensraum": "Krypten",
+  "merkmal": "Kehrt immer wieder zurück",
+  "schwaeche": "Licht"
+ },
+ {
+  "rang": "C",
+  "name": "Seuchenratte",
+  "lebensraum": "Kanalisation",
+  "merkmal": "So groß wie ein Hund, trägt Krankheit",
+  "schwaeche": "Feuer"
+ },
+ {
+  "rang": "C",
+  "name": "Rattenkönig",
+  "lebensraum": "Kanalisation",
+  "merkmal": "Viele Ratten, verknotete Schwänze, ein Wille",
+  "schwaeche": "Feuer"
+ },
+ {
+  "rang": "C",
+  "name": "Schlammgolem",
+  "lebensraum": "Flussufer",
+  "merkmal": "Verschluckt Waffen",
+  "schwaeche": "Trockenheit"
+ },
+ {
+  "rang": "C",
+  "name": "Moosbär",
+  "lebensraum": "Eichenmark",
+  "merkmal": "Bewachsen, getarnt als Hügel",
+  "schwaeche": "Feuer"
+ },
+ {
+  "rang": "C",
+  "name": "Speerigel",
+  "lebensraum": "Windfelder",
+  "merkmal": "Schießt Stacheln",
+  "schwaeche": "Schilde"
+ },
+ {
+  "rang": "C",
+  "name": "Riesengrabkäfer",
+  "lebensraum": "Felder",
+  "merkmal": "Bricht aus dem Boden",
+  "schwaeche": "Feuer"
+ },
+ {
+  "rang": "C",
+  "name": "Höhlenwurm",
+  "lebensraum": "Höhlen",
+  "merkmal": "Säurespeichel",
+  "schwaeche": "Feuer"
+ },
+ {
+  "rang": "C",
+  "name": "Hornviper",
+  "lebensraum": "Rotsand",
+  "merkmal": "Springt aus dem Sand",
+  "schwaeche": "Kälte"
+ },
+ {
+  "rang": "C",
+  "name": "Oasenschlange",
+  "lebensraum": "Oasenbund",
+  "merkmal": "Vergiftet Wasserlöcher",
+  "schwaeche": "Salz"
+ },
+ {
+  "rang": "C",
+  "name": "Salzgolem",
+  "lebensraum": "Schluchtenland",
+  "merkmal": "Wunden in seiner Nähe brennen",
+  "schwaeche": "Wasser"
+ },
+ {
+  "rang": "C",
+  "name": "Schluchtenläufer",
+  "lebensraum": "Schluchtenland",
+  "merkmal": "Rennvogel mit Hakenschnabel",
+  "schwaeche": "Netze"
+ },
+ {
+  "rang": "C",
+  "name": "Klammspinne",
+  "lebensraum": "Schluchtenland",
+  "merkmal": "Netze über ganze Schluchten",
+  "schwaeche": "Feuer"
+ },
+ {
+  "rang": "C",
+  "name": "Fieberaffe",
+  "lebensraum": "Fieberwald",
+  "merkmal": "Rudel, wirft Giftfrüchte",
+  "schwaeche": "Lärm"
+ },
+ {
+  "rang": "C",
+  "name": "Lauerechse",
+  "lebensraum": "Fieberwald",
+  "merkmal": "Tarnt sich als Ast",
+  "schwaeche": "Kälte"
+ },
+ {
+  "rang": "C",
+  "name": "Dschungelwitwe",
+  "lebensraum": "Fieberwald",
+  "merkmal": "Gift tötet in Stunden",
+  "schwaeche": "Feuer"
+ },
+ {
+  "rang": "C",
+  "name": "Mückenkönigin",
+  "lebensraum": "Fieberwald",
+  "merkmal": "Ruft Mückenschwärme",
+  "schwaeche": "Rauch"
+ },
+ {
+  "rang": "C",
+  "name": "Glutwolf",
+  "lebensraum": "Glutgrat",
+  "merkmal": "Fell aus glimmender Asche",
+  "schwaeche": "Wasser"
+ },
+ {
+  "rang": "C",
+  "name": "Aschenschleim",
+  "lebensraum": "Glutgrat, Aschfeld",
+  "merkmal": "Heiß, frißt Metall",
+  "schwaeche": "Wasser"
+ },
+ {
+  "rang": "C",
+  "name": "Lavakrabbe",
+  "lebensraum": "Küste von Glutgrat",
+  "merkmal": "Panzer aus erstarrter Lava",
+  "schwaeche": "Wasser"
+ },
+ {
+  "rang": "C",
+  "name": "Rauchschlange",
+  "lebensraum": "Glutgrat",
+  "merkmal": "Unsichtbar im Rauch",
+  "schwaeche": "Wind"
+ },
+ {
+  "rang": "C",
+  "name": "Weißer Bär",
+  "lebensraum": "Küsten von Kaldrion",
+  "merkmal": "Riesig, guter Schwimmer",
+  "schwaeche": "Feuer"
+ },
+ {
+  "rang": "C",
+  "name": "Frostspinne",
+  "lebensraum": "Kaldrion",
+  "merkmal": "Netze aus Eis",
+  "schwaeche": "Feuer"
+ },
+ {
+  "rang": "C",
+  "name": "Eisschleim",
+  "lebensraum": "Kaldrion",
+  "merkmal": "Friert, was er berührt",
+  "schwaeche": "Feuer"
+ },
+ {
+  "rang": "C",
+  "name": "Lawinenbock",
+  "lebensraum": "Kaldrion",
+  "merkmal": "Löst Lawinen aus",
+  "schwaeche": "Fallen"
+ },
+ {
+  "rang": "C",
+  "name": "Sturmziege",
+  "lebensraum": "Sturmkap",
+  "merkmal": "Hörner ziehen Blitze an",
+  "schwaeche": "Erde"
+ },
+ {
+  "rang": "C",
+  "name": "Donnerfalke",
+  "lebensraum": "Sturmkap",
+  "merkmal": "Stürzt mit Blitzen herab",
+  "schwaeche": "Erde"
+ },
+ {
+  "rang": "C",
+  "name": "Blitzaal",
+  "lebensraum": "Küsten, Silberseen",
+  "merkmal": "Lähmende Stromstöße",
+  "schwaeche": "Erde"
+ },
+ {
+  "rang": "C",
+  "name": "Fjordkrake",
+  "lebensraum": "Sturmkap",
+  "merkmal": "Zieht Boote unter",
+  "schwaeche": "Elektro"
+ },
+ {
+  "rang": "C",
+  "name": "Riffwächter",
+  "lebensraum": "Küsten",
+  "merkmal": "Körper aus Muscheln",
+  "schwaeche": "Hämmer"
+ },
+ {
+  "rang": "C",
+  "name": "Tangweib",
+  "lebensraum": "Küsten",
+  "merkmal": "Wickelt Schwimmer in Seetang",
+  "schwaeche": "Feuer"
+ },
+ {
+  "rang": "C",
+  "name": "Nebelwolf",
+  "lebensraum": "Nebelhain",
+  "merkmal": "Löst sich im Nebel auf",
+  "schwaeche": "Wind"
+ },
+ {
+  "rang": "C",
+  "name": "Wanderbaum",
+  "lebensraum": "Nebelhain",
+  "merkmal": "Verändert Wege über Nacht",
+  "schwaeche": "Feuer"
+ },
+ {
+  "rang": "C",
+  "name": "Nebelhirsch",
+  "lebensraum": "Nebelhain",
+  "merkmal": "Wer ihm folgt, verirrt sich",
+  "schwaeche": "Nicht folgen"
+ },
+ {
+  "rang": "C",
+  "name": "Moorhund",
+  "lebensraum": "Moorgrund",
+  "merkmal": "Bellt wie ein Mensch",
+  "schwaeche": "Feuer"
+ },
+ {
+  "rang": "C",
+  "name": "Torfgolem",
+  "lebensraum": "Moorgrund",
+  "merkmal": "Riecht furchtbar",
+  "schwaeche": "Langes Feuer"
+ },
+ {
+  "rang": "C",
+  "name": "Sumpfspinne",
+  "lebensraum": "Moorgrund",
+  "merkmal": "Läuft über das Wasser",
+  "schwaeche": "Elektro"
+ },
+ {
+  "rang": "C",
+  "name": "Schilfmann",
+  "lebensraum": "Moorgrund",
+  "merkmal": "Sieht aus wie Schilf",
+  "schwaeche": "Feuer"
+ },
+ {
+  "rang": "C",
+  "name": "Goblin-Reiter",
+  "lebensraum": "Ebenen",
+  "merkmal": "Reitet Wildschweine",
+  "schwaeche": "Speere"
+ },
+ {
+  "rang": "C",
+  "name": "Werratte",
+  "lebensraum": "Städte",
+  "merkmal": "Tags Mensch, nachts Ratte",
+  "schwaeche": "Licht"
+ },
+ {
+  "rang": "C",
+  "name": "Ork-Brecher",
+  "lebensraum": "Grenzland",
+  "merkmal": "Zweihandaxt",
+  "schwaeche": "Schnelle Gegner"
+ },
+ {
+  "rang": "C",
+  "name": "Junger Oger",
+  "lebensraum": "Hügel",
+  "merkmal": "Frißt Vieh und manchmal Hirten",
+  "schwaeche": "Fallen"
+ },
+ {
+  "rang": "C",
+  "name": "Felsenwerfer",
+  "lebensraum": "Hügel",
+  "merkmal": "Kleiner Hügelriese, wirft weit",
+  "schwaeche": "Nahkampf"
+ },
+ {
+  "rang": "C",
+  "name": "Junger Basilisk",
+  "lebensraum": "Höhlen",
+  "merkmal": "Blick macht Glieder steif",
+  "schwaeche": "Spiegel"
+ },
+ {
+  "rang": "C",
+  "name": "Kokatrize",
+  "lebensraum": "Felder, Ruinen",
+  "merkmal": "Biss versteinert langsam",
+  "schwaeche": "Wiesel"
+ },
+ {
+  "rang": "C",
+  "name": "Hippogreif",
+  "lebensraum": "Windfelder",
+  "merkmal": "Scheu, aber gefährlich",
+  "schwaeche": "Gesenkter Blick"
+ },
+ {
+  "rang": "C",
+  "name": "Junger Nachtmahr",
+  "lebensraum": "Straßen bei Nacht",
+  "merkmal": "Hufe aus Rauch",
+  "schwaeche": "Licht"
+ },
+ {
+  "rang": "C",
+  "name": "Dämmerpanther",
+  "lebensraum": "Wälder",
+  "merkmal": "Jagt nur in der Dämmerung",
+  "schwaeche": "Licht"
+ },
+ {
+  "rang": "C",
+  "name": "Klingenkäfer",
+  "lebensraum": "Dungeons",
+  "merkmal": "Flügel scharf wie Klingen",
+  "schwaeche": "Hämmer"
+ },
+ {
+  "rang": "C",
+  "name": "Säurekäfer",
+  "lebensraum": "Dungeons",
+  "merkmal": "Spritzt Säure",
+  "schwaeche": "Schilde"
+ },
+ {
+  "rang": "C",
+  "name": "Säureschleim",
+  "lebensraum": "Dungeons",
+  "merkmal": "Frißt Waffen",
+  "schwaeche": "Feuer"
+ },
+ {
+  "rang": "C",
+  "name": "Blutschleim",
+  "lebensraum": "Blut-Dungeons",
+  "merkmal": "Nimmt Blut auf und wächst",
+  "schwaeche": "Feuer"
+ },
+ {
+  "rang": "C",
+  "name": "Dornranken-Wächter",
+  "lebensraum": "Dorn-Dungeons",
+  "merkmal": "Bewacht Eingänge",
+  "schwaeche": "Feuer"
+ },
+ {
+  "rang": "C",
+  "name": "Dornenkäfer",
+  "lebensraum": "Dorn-Dungeons",
+  "merkmal": "Bohrt sich in Rüstung",
+  "schwaeche": "Feuer"
+ },
+ {
+  "rang": "C",
+  "name": "Blutpilz",
+  "lebensraum": "Blut-Dungeons",
+  "merkmal": "Wächst auf Leichen",
+  "schwaeche": "Feuer"
+ },
+ {
+  "rang": "C",
+  "name": "Glockenwicht",
+  "lebensraum": "Erinnerungs-Dungeons",
+  "merkmal": "Läutet, und alle vergessen kurz ihren Weg",
+  "schwaeche": "Ohren zu"
+ },
+ {
+  "rang": "C",
+  "name": "Wiegengeist",
+  "lebensraum": "Erinnerungs-Dungeons",
+  "merkmal": "Singt Kinderlieder aus fremden Erinnerungen",
+  "schwaeche": "Stille-Zauber"
+ },
+ {
+  "rang": "C",
+  "name": "Grabschwan",
+  "lebensraum": "Friedhofsseen",
+  "merkmal": "Schön anzusehen, beißt tödlich",
+  "schwaeche": "Pfeile"
+ },
+ {
+  "rang": "C",
+  "name": "Kanalschlange",
+  "lebensraum": "Kanalisation",
+  "merkmal": "Riesig und blind",
+  "schwaeche": "Licht"
+ },
+ {
+  "rang": "C",
+  "name": "Sumpfleiche",
+  "lebensraum": "Moorgrund",
+  "merkmal": "Im Moor erhalten, zäh",
+  "schwaeche": "Feuer"
+ },
+ {
+  "rang": "C",
+  "name": "Sandmumie",
+  "lebensraum": "Gräber in Rotsand",
+  "merkmal": "Fluch der Austrocknung",
+  "schwaeche": "Feuer"
+ },
+ {
+  "rang": "C",
+  "name": "Skarabäusschwarm",
+  "lebensraum": "Gräber in Rotsand",
+  "merkmal": "Frißt Fleisch",
+  "schwaeche": "Feuer"
+ },
+ {
+  "rang": "C",
+  "name": "Schakalrudel",
+  "lebensraum": "Rotsand",
+  "merkmal": "Verfolgt Beute tagelang",
+  "schwaeche": "Feuer"
+ },
+ {
+  "rang": "C",
+  "name": "Dünenreiter",
+  "lebensraum": "Rotsand",
+  "merkmal": "Echsenvolk auf Sandechsen",
+  "schwaeche": "Kälte"
+ },
+ {
+  "rang": "C",
+  "name": "Fata",
+  "lebensraum": "Rotsand",
+  "merkmal": "Erschafft Trugbilder von Oasen",
+  "schwaeche": "Nicht folgen"
+ },
+ {
+  "rang": "C",
+  "name": "Felsgeier",
+  "lebensraum": "Schluchtenland",
+  "merkmal": "Wartet, bis Opfer zusammenbrechen",
+  "schwaeche": "Pfeile"
+ },
+ {
+  "rang": "C",
+  "name": "Kristallkäfer",
+  "lebensraum": "Minen im Erzwall",
+  "merkmal": "Panzer aus Kristall",
+  "schwaeche": "Hämmer"
+ },
+ {
+  "rang": "C",
+  "name": "Stollenmaul",
+  "lebensraum": "Alte Minen",
+  "merkmal": "Maul so breit wie ein Stollen",
+  "schwaeche": "Feuer"
+ },
+ {
+  "rang": "C",
+  "name": "Kleiner Erzgolem",
+  "lebensraum": "Minen",
+  "merkmal": "Körper aus Erz",
+  "schwaeche": "Rost, Wasser"
+ },
+ {
+  "rang": "C",
+  "name": "Grubengasgeist",
+  "lebensraum": "Minen",
+  "merkmal": "Explodiert bei Feuer",
+  "schwaeche": "Kein Feuer!"
+ },
+ {
+  "rang": "C",
+  "name": "Bergtroll",
+  "lebensraum": "Erzwall",
+  "merkmal": "Im Sonnenlicht träge",
+  "schwaeche": "Sonne"
+ },
+ {
+  "rang": "C",
+  "name": "Felsenechse",
+  "lebensraum": "Erzwall",
+  "merkmal": "Panzerhaut",
+  "schwaeche": "Kälte"
+ },
+ {
+  "rang": "C",
+  "name": "Riesensteinadler",
+  "lebensraum": "Erzwall",
+  "merkmal": "Packt Ziegen von Felsen",
+  "schwaeche": "Pfeile"
+ },
+ {
+  "rang": "C",
+  "name": "Pilzriese",
+  "lebensraum": "Feuchte Wälder",
+  "merkmal": "Sporen machen wahnsinnig",
+  "schwaeche": "Feuer"
+ },
+ {
+  "rang": "C",
+  "name": "Sporenträger",
+  "lebensraum": "Dungeons",
+  "merkmal": "Mensch, von Pilzen übernommen",
+  "schwaeche": "Feuer"
+ },
+ {
+  "rang": "C",
+  "name": "Blattmantis",
+  "lebensraum": "Fieberwald",
+  "merkmal": "Getarnt als Blatt, Fangarme",
+  "schwaeche": "Feuer"
+ },
+ {
+  "rang": "C",
+  "name": "Riesenhornisse",
+  "lebensraum": "Wälder",
+  "merkmal": "Stich lähmt",
+  "schwaeche": "Rauch"
+ },
+ {
+  "rang": "C",
+  "name": "Feuerameisen-Kolonie",
+  "lebensraum": "Rand von Rotsand",
+  "merkmal": "Brennende Bisse",
+  "schwaeche": "Wasser"
+ },
+ {
+  "rang": "C",
+  "name": "Staubmotte",
+  "lebensraum": "Wälder",
+  "merkmal": "Schuppen machen schläfrig",
+  "schwaeche": "Feuer lockt sie"
+ },
+ {
+  "rang": "C",
+  "name": "Schreckenskrähe",
+  "lebensraum": "Galgenhügel",
+  "merkmal": "Äfft Menschen nach",
+  "schwaeche": "Wind"
+ },
+ {
+  "rang": "C",
+  "name": "Verwilderter Kettenhund",
+  "lebensraum": "Ruinen",
+  "merkmal": "Trägt noch alte Ketten",
+  "schwaeche": "Feuer"
+ },
+ {
+  "rang": "C",
+  "name": "Brückentroll",
+  "lebensraum": "Brücken",
+  "merkmal": "Verlangt Zoll, sonst frißt er",
+  "schwaeche": "Sonne"
+ },
+ {
+  "rang": "C",
+  "name": "Höhlenoktopus",
+  "lebensraum": "Unterirdische Seen",
+  "merkmal": "Greift aus dem Wasser",
+  "schwaeche": "Elektro"
+ },
+ {
+  "rang": "C",
+  "name": "Knochenhecht",
+  "lebensraum": "Silberseen",
+  "merkmal": "Zähne wie Messer",
+  "schwaeche": "Elektro"
+ },
+ {
+  "rang": "C",
+  "name": "Eisenwolf",
+  "lebensraum": "Erzwall",
+  "merkmal": "Fell voller Erzstaub, hart",
+  "schwaeche": "Wasser"
+ },
+ {
+  "rang": "C",
+  "name": "Gewitterschaf",
+  "lebensraum": "Weiden am Sturmkap",
+  "merkmal": "Wolle lädt sich auf",
+  "schwaeche": "Erde"
+ },
+ {
+  "rang": "C",
+  "name": "Ruinenwächter",
+  "lebensraum": "Ruinen von Valmor",
+  "merkmal": "Uralter Wachgolem",
+  "schwaeche": "Hämmer"
+ },
+ {
+  "rang": "C",
+  "name": "Graue Gestalt",
+  "lebensraum": "Rand der Erstarrten Lande",
+  "merkmal": "Mensch, der in der Zeit stehen blieb",
+  "schwaeche": "Lärm"
+ },
+ {
+  "rang": "C",
+  "name": "Ascheläufer",
+  "lebensraum": "Aschfeld",
+  "merkmal": "Verbrannter Krieger, glimmt noch",
+  "schwaeche": "Wasser"
+ },
+ {
+  "rang": "C",
+  "name": "Höllenwelpe",
+  "lebensraum": "Eisernes Dornenreich",
+  "merkmal": "Begleiter der Dämonen",
+  "schwaeche": "Licht"
+ },
+ {
+  "rang": "C",
+  "name": "Imp",
+  "lebensraum": "Dämonengebiet",
+  "merkmal": "Kleiner Dämon, stiehlt und lügt",
+  "schwaeche": "Licht"
+ },
+ {
+  "rang": "C",
+  "name": "Werkstattwicht",
+  "lebensraum": "Werkstätten",
+  "merkmal": "Zerstört Mechanik",
+  "schwaeche": "Licht"
+ },
+ {
+  "rang": "C",
+  "name": "Riesenbücherwurm",
+  "lebensraum": "Bibliothek der Akademie",
+  "merkmal": "Frißt Zauberbücher, Lieblingsplage der Akademie",
+  "schwaeche": "Salz"
+ },
+ {
+  "rang": "B",
+  "name": "Oger",
+  "lebensraum": "Hügel, Grenzland",
+  "merkmal": "Frißt Menschen",
+  "schwaeche": "Fallen, Feuer"
+ },
+ {
+  "rang": "B",
+  "name": "Troll",
+  "lebensraum": "Berge, Wälder",
+  "merkmal": "Regeneriert schnell",
+  "schwaeche": "Feuer"
+ },
+ {
+  "rang": "B",
+  "name": "Minotaurus",
+  "lebensraum": "Labyrinth-Dungeons",
+  "merkmal": "Findet immer den Weg",
+  "schwaeche": "Enge Gänge"
+ },
+ {
+  "rang": "B",
+  "name": "Wyvern",
+  "lebensraum": "Erzwall, Klippen",
+  "merkmal": "Giftstachel am Schwanz",
+  "schwaeche": "Flügel treffen"
+ },
+ {
+  "rang": "B",
+  "name": "Greif",
+  "lebensraum": "Windfelder",
+  "merkmal": "Reißt Pferde",
+  "schwaeche": "Pfeile in die Flügel"
+ },
+ {
+  "rang": "B",
+  "name": "Mantikor",
+  "lebensraum": "Rotsand",
+  "merkmal": "Schwanz schießt Stacheln",
+  "schwaeche": "Schilde"
+ },
+ {
+  "rang": "B",
+  "name": "Basilisk",
+  "lebensraum": "Höhlen",
+  "merkmal": "Blick versteinert langsam",
+  "schwaeche": "Spiegel"
+ },
+ {
+  "rang": "B",
+  "name": "Chimäre",
+  "lebensraum": "Dungeons",
+  "merkmal": "Drei Köpfe, drei Elemente",
+  "schwaeche": "Der mittlere Kopf"
+ },
+ {
+  "rang": "B",
+  "name": "Sumpfhydra",
+  "lebensraum": "Moorgrund",
+  "merkmal": "Fünf Köpfe, wachsen nach",
+  "schwaeche": "Feuer auf die Stümpfe"
+ },
+ {
+  "rang": "B",
+  "name": "Ausgewachsene Fjordkrake",
+  "lebensraum": "Sturmkap",
+  "merkmal": "Zieht Schiffe unter",
+  "schwaeche": "Elektro"
+ },
+ {
+  "rang": "B",
+  "name": "Seeschlange",
+  "lebensraum": "Hohe See",
+  "merkmal": "Umschlingt Schiffe",
+  "schwaeche": "Elektro"
+ },
+ {
+  "rang": "B",
+  "name": "Sandwurm",
+  "lebensraum": "Rotsand",
+  "merkmal": "Verschluckt Karawanen",
+  "schwaeche": "Fels, keine Erschütterung"
+ },
+ {
+  "rang": "B",
+  "name": "Erzbär",
+  "lebensraum": "Erzwall",
+  "merkmal": "Fell voller Erz, fast pfeilfest",
+  "schwaeche": "Feuer"
+ },
+ {
+  "rang": "B",
+  "name": "Junger Frostriese",
+  "lebensraum": "Kaldrion",
+  "merkmal": "Friert Flüsse zu",
+  "schwaeche": "Feuer"
+ },
+ {
+  "rang": "B",
+  "name": "Hügelriese",
+  "lebensraum": "Hügel",
+  "merkmal": "Nutzt entwurzelte Bäume als Keulen",
+  "schwaeche": "Beine"
+ },
+ {
+  "rang": "B",
+  "name": "Steingolem",
+  "lebensraum": "Ruinen",
+  "merkmal": "Unermüdlich",
+  "schwaeche": "Wasser, Rune"
+ },
+ {
+  "rang": "B",
+  "name": "Eisengolem",
+  "lebensraum": "Alte Festungen",
+  "merkmal": "Fast unzerstörbar",
+  "schwaeche": "Rost, Elektro"
+ },
+ {
+  "rang": "B",
+  "name": "Eichenwächter",
+  "lebensraum": "Eichenmark",
+  "merkmal": "Uralter, lebender Baum",
+  "schwaeche": "Feuer"
+ },
+ {
+  "rang": "B",
+  "name": "Werwolf",
+  "lebensraum": "Wälder bei Vollmond",
+  "merkmal": "Wunden heilen sofort",
+  "schwaeche": "Silberwaffen"
+ },
+ {
+  "rang": "B",
+  "name": "Blutsauger",
+  "lebensraum": "Blut-Dungeons",
+  "merkmal": "Menschenähnlich, saugt Blut",
+  "schwaeche": "Licht"
+ },
+ {
+  "rang": "B",
+  "name": "Knochenmagier",
+  "lebensraum": "Dungeons",
+  "merkmal": "Untoter, erweckt Skelette",
+  "schwaeche": "Licht"
+ },
+ {
+  "rang": "B",
+  "name": "Gespensterritter",
+  "lebensraum": "Ruinen",
+  "merkmal": "Stahl geht durch ihn hindurch",
+  "schwaeche": "Licht"
+ },
+ {
+  "rang": "B",
+  "name": "Mumienpriester",
+  "lebensraum": "Gräber in Rotsand",
+  "merkmal": "Fluch der Austrocknung über ganze Gruppen",
+  "schwaeche": "Feuer"
+ },
+ {
+  "rang": "B",
+  "name": "Gnollhäuptling",
+  "lebensraum": "Rotsand",
+  "merkmal": "Führt Gnollrudel",
+  "schwaeche": "Feuer"
+ },
+ {
+  "rang": "B",
+  "name": "Ork-Kriegsherr",
+  "lebensraum": "Grenzland",
+  "merkmal": "Führt Hunderte",
+  "schwaeche": "Duell"
+ },
+ {
+  "rang": "B",
+  "name": "Echsenschamane",
+  "lebensraum": "Moorgrund",
+  "merkmal": "Ruft Sumpfwesen",
+  "schwaeche": "Kälte"
+ },
+ {
+  "rang": "B",
+  "name": "Harpyienkönigin",
+  "lebensraum": "Sturmkap",
+  "merkmal": "Befehligt Harpyien",
+  "schwaeche": "Pfeile"
+ },
+ {
+  "rang": "B",
+  "name": "Nachtmahr",
+  "lebensraum": "Straßen bei Nacht",
+  "merkmal": "Reitet in Träume",
+  "schwaeche": "Licht"
+ },
+ {
+  "rang": "B",
+  "name": "Phasenspinne",
+  "lebensraum": "Dungeons",
+  "merkmal": "Springt durch Wände",
+  "schwaeche": "Licht"
+ },
+ {
+  "rang": "B",
+  "name": "Spinnenmutter",
+  "lebensraum": "Wälder",
+  "merkmal": "Brut aus Hunderten",
+  "schwaeche": "Feuer"
+ },
+ {
+  "rang": "B",
+  "name": "Panzerskorpion",
+  "lebensraum": "Rotsand",
+  "merkmal": "Panzer wie Plattenrüstung",
+  "schwaeche": "Eis"
+ },
+ {
+  "rang": "B",
+  "name": "Säbelzahntiger",
+  "lebensraum": "Schluchtenland",
+  "merkmal": "Sprung aus dem Hinterhalt",
+  "schwaeche": "Netze"
+ },
+ {
+  "rang": "B",
+  "name": "Flussdrache",
+  "lebensraum": "Flüsse",
+  "merkmal": "Riesenkrokodil, wird für einen Drachen gehalten",
+  "schwaeche": "Kälte"
+ },
+ {
+  "rang": "B",
+  "name": "Dschungelwyrm",
+  "lebensraum": "Fieberwald",
+  "merkmal": "Flügellose Riesenschlange",
+  "schwaeche": "Klingen"
+ },
+ {
+  "rang": "B",
+  "name": "Krötenkönig",
+  "lebensraum": "Moorgrund",
+  "merkmal": "Gift tötet in Minuten",
+  "schwaeche": "Feuer"
+ },
+ {
+  "rang": "B",
+  "name": "Glutsalamander",
+  "lebensraum": "Glutgrat",
+  "merkmal": "Lebt in Lava",
+  "schwaeche": "Wasser"
+ },
+ {
+  "rang": "B",
+  "name": "Feuerelementar",
+  "lebensraum": "Glutgrat",
+  "merkmal": "Lebende Flamme",
+  "schwaeche": "Wasser"
+ },
+ {
+  "rang": "B",
+  "name": "Eiselementar",
+  "lebensraum": "Kaldrion",
+  "merkmal": "Lebendes Eis",
+  "schwaeche": "Feuer"
+ },
+ {
+  "rang": "B",
+  "name": "Erdelementar",
+  "lebensraum": "Erzwall",
+  "merkmal": "Lebender Fels",
+  "schwaeche": "Wasser"
+ },
+ {
+  "rang": "B",
+  "name": "Windelementar",
+  "lebensraum": "Windfelder",
+  "merkmal": "Lebender Sturm",
+  "schwaeche": "Erde"
+ },
+ {
+  "rang": "B",
+  "name": "Wasserelementar",
+  "lebensraum": "Silberseen",
+  "merkmal": "Lebende Welle",
+  "schwaeche": "Elektro"
+ },
+ {
+  "rang": "B",
+  "name": "Blitzelementar",
+  "lebensraum": "Sturmkap",
+  "merkmal": "Lebender Blitz",
+  "schwaeche": "Erde"
+ },
+ {
+  "rang": "B",
+  "name": "Wurzelriese",
+  "lebensraum": "Eichenmark",
+  "merkmal": "Lebendes Dickicht",
+  "schwaeche": "Feuer"
+ },
+ {
+  "rang": "B",
+  "name": "Steinflügler",
+  "lebensraum": "Kathedralen",
+  "merkmal": "Dutzende Wasserspeier zugleich",
+  "schwaeche": "Hämmer"
+ },
+ {
+  "rang": "B",
+  "name": "Hausmimik",
+  "lebensraum": "Verlassene Dörfer",
+  "merkmal": "Ein ganzes Haus mit Maul",
+  "schwaeche": "Nicht hineingehen"
+ },
+ {
+  "rang": "B",
+  "name": "Grabgolem",
+  "lebensraum": "Königsgräber",
+  "merkmal": "Erwacht bei Grabraub",
+  "schwaeche": "Nichts stehlen"
+ },
+ {
+  "rang": "B",
+  "name": "Großer Höhlenoktopus",
+  "lebensraum": "Unterirdische Seen",
+  "merkmal": "Zieht Trupps ins Wasser",
+  "schwaeche": "Elektro"
+ },
+ {
+  "rang": "B",
+  "name": "Dornenbestie",
+  "lebensraum": "Dorn-Dungeons",
+  "merkmal": "Bär aus Dornen",
+  "schwaeche": "Feuer"
+ },
+ {
+  "rang": "B",
+  "name": "Blutwolf",
+  "lebensraum": "Blut-Dungeons",
+  "merkmal": "Rudel, stärker mit jedem Biss",
+  "schwaeche": "Feuer"
+ },
+ {
+  "rang": "B",
+  "name": "Erinnerungsfresser",
+  "lebensraum": "Erinnerungs-Dungeons",
+  "merkmal": "Frißt Erinnerungen ganz",
+  "schwaeche": "Stille-Zauber"
+ },
+ {
+  "rang": "B",
+  "name": "Echo-Ritter",
+  "lebensraum": "Erinnerungs-Dungeons",
+  "merkmal": "Kämpft wie ein gefallener Abenteurer",
+  "schwaeche": "Dessen alte Schwäche"
+ },
+ {
+  "rang": "B",
+  "name": "Nebelbestie",
+  "lebensraum": "Nebelhain",
+  "merkmal": "Unsichtbar im Nebel",
+  "schwaeche": "Wind"
+ },
+ {
+  "rang": "B",
+  "name": "Irrwurzel",
+  "lebensraum": "Nebelhain",
+  "merkmal": "Riesige Wurzel, versetzt Wege",
+  "schwaeche": "Feuer"
+ },
+ {
+  "rang": "B",
+  "name": "Moorwächter",
+  "lebensraum": "Moorgrund",
+  "merkmal": "Uralte Moorleiche mit Krone",
+  "schwaeche": "Feuer"
+ },
+ {
+  "rang": "B",
+  "name": "Sumpfriese",
+  "lebensraum": "Moorgrund",
+  "merkmal": "Halb im Moor versunken",
+  "schwaeche": "Feuer"
+ },
+ {
+  "rang": "B",
+  "name": "Salzwurm",
+  "lebensraum": "Schluchtenland",
+  "merkmal": "Wühlt durch Salz",
+  "schwaeche": "Wasser"
+ },
+ {
+  "rang": "B",
+  "name": "Schluchtenroc",
+  "lebensraum": "Schluchtenland",
+  "merkmal": "Junger Riesenvogel",
+  "schwaeche": "Pfeile"
+ },
+ {
+  "rang": "B",
+  "name": "Kristallgolem",
+  "lebensraum": "Minen im Erzwall",
+  "merkmal": "Bricht Licht zu Strahlen",
+  "schwaeche": "Hämmer"
+ },
+ {
+  "rang": "B",
+  "name": "Stollenwyrm",
+  "lebensraum": "Minen",
+  "merkmal": "Frißt Erzadern",
+  "schwaeche": "Feuer"
+ },
+ {
+  "rang": "B",
+  "name": "Gewittergreif",
+  "lebensraum": "Sturmkap",
+  "merkmal": "Fliegt mit Blitzen",
+  "schwaeche": "Erde"
+ },
+ {
+  "rang": "B",
+  "name": "Junger Donnervogel",
+  "lebensraum": "Sturmkap",
+  "merkmal": "Ruft Gewitter",
+  "schwaeche": "Erde"
+ },
+ {
+  "rang": "B",
+  "name": "Seehexe",
+  "lebensraum": "Küsten",
+  "merkmal": "Ruft Stürme",
+  "schwaeche": "Feuer"
+ },
+ {
+  "rang": "B",
+  "name": "Zahnhai",
+  "lebensraum": "Küsten",
+  "merkmal": "Riecht Blut über Meilen",
+  "schwaeche": "Elektro"
+ },
+ {
+  "rang": "B",
+  "name": "Eiswurm",
+  "lebensraum": "Kaldrion",
+  "merkmal": "Bohrt Tunnel ins Eis",
+  "schwaeche": "Feuer"
+ },
+ {
+  "rang": "B",
+  "name": "Yeti",
+  "lebensraum": "Kaldrion",
+  "merkmal": "Unsichtbar im Schneesturm",
+  "schwaeche": "Feuer"
+ },
+ {
+  "rang": "B",
+  "name": "Schneegreif",
+  "lebensraum": "Kaldrion",
+  "merkmal": "Weißes Gefieder",
+  "schwaeche": "Feuer"
+ },
+ {
+  "rang": "B",
+  "name": "Lavagolem",
+  "lebensraum": "Glutgrat",
+  "merkmal": "Glühender Körper",
+  "schwaeche": "Wasser"
+ },
+ {
+  "rang": "B",
+  "name": "Aschenwyvern",
+  "lebensraum": "Glutgrat",
+  "merkmal": "Atmet Asche",
+  "schwaeche": "Wasser"
+ },
+ {
+  "rang": "B",
+  "name": "Glutpanther",
+  "lebensraum": "Glutgrat",
+  "merkmal": "Fell brennt",
+  "schwaeche": "Wasser"
+ },
+ {
+  "rang": "B",
+  "name": "Aschegeist",
+  "lebensraum": "Aschfeld",
+  "merkmal": "Erinnert sich an den Brand",
+  "schwaeche": "Wasser"
+ },
+ {
+  "rang": "B",
+  "name": "Grauer Ritter",
+  "lebensraum": "Erstarrte Lande",
+  "merkmal": "Ritter Valmors, in der Zeit gefangen",
+  "schwaeche": "Erinnerung an seinen Namen"
+ },
+ {
+  "rang": "B",
+  "name": "Dämonensoldat",
+  "lebensraum": "Eisernes Dornenreich",
+  "merkmal": "Diszipliniert, gut gerüstet",
+  "schwaeche": "Licht"
+ },
+ {
+  "rang": "B",
+  "name": "Höllenhund",
+  "lebensraum": "Eisernes Dornenreich",
+  "merkmal": "Feueratem",
+  "schwaeche": "Wasser"
+ },
+ {
+  "rang": "B",
+  "name": "Dämonenreiter",
+  "lebensraum": "Eisernes Dornenreich",
+  "merkmal": "Reitet Höllenhunde",
+  "schwaeche": "Licht"
+ },
+ {
+  "rang": "B",
+  "name": "Wüstengolem",
+  "lebensraum": "Rotsand",
+  "merkmal": "Sand formt ihn immer neu",
+  "schwaeche": "Wasser"
+ },
+ {
+  "rang": "B",
+  "name": "Junge Sphinx",
+  "lebensraum": "Ruinen in Rotsand",
+  "merkmal": "Stellt Rätsel, frißt Falschantworter",
+  "schwaeche": "Die richtige Antwort"
+ },
+ {
+  "rang": "B",
+  "name": "Oasenhydra",
+  "lebensraum": "Oasenbund",
+  "merkmal": "Drei Köpfe im Wasserloch",
+  "schwaeche": "Feuer"
+ },
+ {
+  "rang": "B",
+  "name": "Trugbildbestie",
+  "lebensraum": "Rotsand",
+  "merkmal": "Ganze Karawanen laufen in die Irre",
+  "schwaeche": "Nicht folgen"
+ },
+ {
+  "rang": "B",
+  "name": "Riesenpython",
+  "lebensraum": "Fieberwald",
+  "merkmal": "Verschluckt Menschen",
+  "schwaeche": "Klingen"
+ },
+ {
+  "rang": "B",
+  "name": "Brüllaffen-König",
+  "lebensraum": "Fieberwald",
+  "merkmal": "Herrscht über Affenhorden",
+  "schwaeche": "Lärm"
+ },
+ {
+  "rang": "B",
+  "name": "Fleischblüte",
+  "lebensraum": "Fieberwald",
+  "merkmal": "Riesige fleischfressende Pflanze",
+  "schwaeche": "Feuer"
+ },
+ {
+  "rang": "B",
+  "name": "Sporenmutter",
+  "lebensraum": "Feuchte Dungeons",
+  "merkmal": "Erschafft Sporenträger",
+  "schwaeche": "Feuer"
+ },
+ {
+  "rang": "B",
+  "name": "Hornissenkönigin",
+  "lebensraum": "Wälder",
+  "merkmal": "Ganze Schwärme",
+  "schwaeche": "Rauch"
+ },
+ {
+  "rang": "B",
+  "name": "Seeleiche",
+  "lebensraum": "Küsten",
+  "merkmal": "Ertrunkener Kapitän",
+  "schwaeche": "Licht"
+ },
+ {
+  "rang": "B",
+  "name": "Knochenkoloss",
+  "lebensraum": "Schlachtfelder",
+  "merkmal": "Aus hundert Skeletten gebaut",
+  "schwaeche": "Hämmer"
+ },
+ {
+  "rang": "B",
+  "name": "Glockengeist",
+  "lebensraum": "Verfallene Kirchen",
+  "merkmal": "Läutet zum Tod",
+  "schwaeche": "Stille-Zauber"
+ },
+ {
+  "rang": "B",
+  "name": "Grimoire-Biest",
+  "lebensraum": "Keller der Akademie",
+  "merkmal": "Zauberbuch mit Zähnen, zaubert zufällig",
+  "schwaeche": "Feuer"
+ },
+ {
+  "rang": "B",
+  "name": "Bruchklang-Wesen",
+  "lebensraum": "Keller der Akademie (offiziell nicht)",
+  "merkmal": "Aus einem missglückten Bruchklang entstanden",
+  "schwaeche": "Gegensätze trennen"
+ },
+ {
+  "rang": "B",
+  "name": "Staubestie",
+  "lebensraum": "Überall",
+  "merkmal": "Rasend vor Manastau",
+  "schwaeche": "Mana abziehen"
+ },
+ {
+  "rang": "B",
+  "name": "Berserker-Keiler",
+  "lebensraum": "Wälder",
+  "merkmal": "Hat an ein Attribut verloren und rast",
+  "schwaeche": "Abwarten"
+ },
+ {
+  "rang": "B",
+  "name": "Weißer Wolf",
+  "lebensraum": "Kaldrion",
+  "merkmal": "Rudelführer mit Eisaura",
+  "schwaeche": "Feuer"
+ },
+ {
+  "rang": "B",
+  "name": "Goblinkönig",
+  "lebensraum": "Große Goblinhöhlen",
+  "merkmal": "Hunderte Goblins, alle paar Jahre ein neuer König",
+  "schwaeche": "Abwarten"
+ },
+ {
+  "rang": "B",
+  "name": "Trollmutter",
+  "lebensraum": "Berge",
+  "merkmal": "Beschützt ihre Brut",
+  "schwaeche": "Feuer"
+ },
+ {
+  "rang": "B",
+  "name": "Zweiköpfiger Oger",
+  "lebensraum": "Hügel",
+  "merkmal": "Die Köpfe streiten ständig",
+  "schwaeche": "Gegeneinander ausspielen"
+ },
+ {
+  "rang": "B",
+  "name": "Inselkröte",
+  "lebensraum": "Küsten",
+  "merkmal": "Wird für eine Insel gehalten",
+  "schwaeche": "Beine"
+ },
+ {
+  "rang": "B",
+  "name": "Klippenwyrm",
+  "lebensraum": "Sturmkap",
+  "merkmal": "Nistet in Steilwänden",
+  "schwaeche": "Pfeile"
+ },
+ {
+  "rang": "B",
+  "name": "Flautegeist",
+  "lebensraum": "Windfelder",
+  "merkmal": "Raubt jeden Wind, Albtraum der Windfalken",
+  "schwaeche": "Erde"
+ },
+ {
+  "rang": "B",
+  "name": "Dürregeist",
+  "lebensraum": "Oasenbund",
+  "merkmal": "Lässt Oasen austrocknen",
+  "schwaeche": "Wasser"
+ },
+ {
+  "rang": "B",
+  "name": "Schwarzwasser-Nix",
+  "lebensraum": "Rabenmark",
+  "merkmal": "Zieht Reiter ins Moor",
+  "schwaeche": "Elektro"
+ },
+ {
+  "rang": "B",
+  "name": "Krähenmutter",
+  "lebensraum": "Rabenmark",
+  "merkmal": "Steuert tausend Krähen",
+  "schwaeche": "Wind"
+ },
+ {
+  "rang": "A",
+  "name": "Junger Glutdrache",
+  "lebensraum": "Glutgrat",
+  "merkmal": "Feueratem schmilzt Rüstung",
+  "schwaeche": "Eis"
+ },
+ {
+  "rang": "A",
+  "name": "Junger Frostdrache",
+  "lebensraum": "Kaldrion",
+  "merkmal": "Eisatem",
+  "schwaeche": "Feuer"
+ },
+ {
+  "rang": "A",
+  "name": "Junger Sturmdrache",
+  "lebensraum": "Sturmkap",
+  "merkmal": "Blitzatem",
+  "schwaeche": "Erde"
+ },
+ {
+  "rang": "A",
+  "name": "Junger Walddrache",
+  "lebensraum": "Eichenmark",
+  "merkmal": "Atem aus Sporen und Ranken",
+  "schwaeche": "Feuer"
+ },
+ {
+  "rang": "A",
+  "name": "Junger Seedrache",
+  "lebensraum": "Hohe See",
+  "merkmal": "Wasserstrahl bricht Schiffe",
+  "schwaeche": "Elektro"
+ },
+ {
+  "rang": "A",
+  "name": "Junger Erddrache",
+  "lebensraum": "Erzwall",
+  "merkmal": "Flügellos, gräbt",
+  "schwaeche": "Wasser"
+ },
+ {
+  "rang": "A",
+  "name": "Junger Winddrache",
+  "lebensraum": "Windfelder",
+  "merkmal": "Schneller als jeder Pfeil",
+  "schwaeche": "Erde"
+ },
+ {
+  "rang": "A",
+  "name": "Roc",
+  "lebensraum": "Schluchtenland",
+  "merkmal": "Trägt Rinder davon",
+  "schwaeche": "Pfeile"
+ },
+ {
+  "rang": "A",
+  "name": "Junger Behemoth",
+  "lebensraum": "Ebenen",
+  "merkmal": "Bricht Festungsmauern",
+  "schwaeche": "Fallen"
+ },
+ {
+  "rang": "A",
+  "name": "Krake",
+  "lebensraum": "Hohe See",
+  "merkmal": "Versenkt Kriegsschiffe",
+  "schwaeche": "Elektro"
+ },
+ {
+  "rang": "A",
+  "name": "Tiefseeschlange",
+  "lebensraum": "Hohe See",
+  "merkmal": "Länger als drei Schiffe",
+  "schwaeche": "Elektro"
+ },
+ {
+  "rang": "A",
+  "name": "Frostriese",
+  "lebensraum": "Kaldrion",
+  "merkmal": "Friert ganze Täler",
+  "schwaeche": "Feuer"
+ },
+ {
+  "rang": "A",
+  "name": "Feuerriese",
+  "lebensraum": "Glutgrat",
+  "merkmal": "Schmiedet mit Lava",
+  "schwaeche": "Wasser"
+ },
+ {
+  "rang": "A",
+  "name": "Sturmriese",
+  "lebensraum": "Sturmkap",
+  "merkmal": "Wirft Blitze",
+  "schwaeche": "Erde"
+ },
+ {
+  "rang": "A",
+  "name": "Felsriese",
+  "lebensraum": "Erzwall",
+  "merkmal": "Wird für einen Berg gehalten",
+  "schwaeche": "Wasser"
+ },
+ {
+  "rang": "A",
+  "name": "Große Hydra",
+  "lebensraum": "Sümpfe",
+  "merkmal": "Neun Köpfe",
+  "schwaeche": "Feuer"
+ },
+ {
+  "rang": "A",
+  "name": "Lich",
+  "lebensraum": "Alte Gräber",
+  "merkmal": "Untoter Erzmagier",
+  "schwaeche": "Seine Seelenvase"
+ },
+ {
+  "rang": "A",
+  "name": "Todesritter",
+  "lebensraum": "Ruinen",
+  "merkmal": "Ritter mit Fluchklinge",
+  "schwaeche": "Licht"
+ },
+ {
+  "rang": "A",
+  "name": "Vampirfürst",
+  "lebensraum": "Rabenmark",
+  "merkmal": "Herrscht über Blutsauger",
+  "schwaeche": "Licht"
+ },
+ {
+  "rang": "A",
+  "name": "Großes Klageweib",
+  "lebensraum": "Erinnerungs-Dungeons",
+  "merkmal": "Ihr Schrei tötet",
+  "schwaeche": "Stille-Zauber"
+ },
+ {
+  "rang": "A",
+  "name": "Knochendrache",
+  "lebensraum": "Schlachtfelder",
+  "merkmal": "Untoter Drache",
+  "schwaeche": "Licht, Hämmer"
+ },
+ {
+  "rang": "A",
+  "name": "Wurzelkönig",
+  "lebensraum": "Eichenmark",
+  "merkmal": "Ältester Baum, befiehlt den Wald",
+  "schwaeche": "Feuer"
+ },
+ {
+  "rang": "A",
+  "name": "Sphinx",
+  "lebensraum": "Rotsand",
+  "merkmal": "Wer falsch antwortet, stirbt",
+  "schwaeche": "Die richtige Antwort"
+ },
+ {
+  "rang": "A",
+  "name": "Lamia",
+  "lebensraum": "Ruinen in Rotsand",
+  "merkmal": "Halb Schlange, hypnotisiert",
+  "schwaeche": "Augen schließen"
+ },
+ {
+  "rang": "A",
+  "name": "Steinblick-Gorgone",
+  "lebensraum": "Ruinen",
+  "merkmal": "Blick versteinert sofort",
+  "schwaeche": "Spiegel"
+ },
+ {
+  "rang": "A",
+  "name": "Zyklop",
+  "lebensraum": "Inseln",
+  "merkmal": "Ein Auge, enorme Kraft",
+  "schwaeche": "Das Auge"
+ },
+ {
+  "rang": "A",
+  "name": "Minotaurenfürst",
+  "lebensraum": "Labyrinth-Dungeons",
+  "merkmal": "Führt Minotauren",
+  "schwaeche": "Enge Gänge"
+ },
+ {
+  "rang": "A",
+  "name": "Ork-Großkhan",
+  "lebensraum": "Grenzland",
+  "merkmal": "Tausende Orks folgen ihm",
+  "schwaeche": "Duell um die Ehre"
+ },
+ {
+  "rang": "A",
+  "name": "Goblin-Unsterblicher",
+  "lebensraum": "Versteckt",
+  "merkmal": "Der einzige Goblin, der Mana nutzen gelernt hat",
+  "schwaeche": "Seine Eitelkeit"
+ },
+ {
+  "rang": "A",
+  "name": "Trollkönig",
+  "lebensraum": "Berge",
+  "merkmal": "Regeneriert fast alles",
+  "schwaeche": "Feuer"
+ },
+ {
+  "rang": "A",
+  "name": "Werwolf-Alpha",
+  "lebensraum": "Wälder",
+  "merkmal": "Führt ein ganzes Rudel",
+  "schwaeche": "Silberwaffen"
+ },
+ {
+  "rang": "A",
+  "name": "Junger Phönix",
+  "lebensraum": "Glutgrat",
+  "merkmal": "Ersteht aus der Asche",
+  "schwaeche": "Wasser vor der Wiedergeburt"
+ },
+ {
+  "rang": "A",
+  "name": "Donnervogel",
+  "lebensraum": "Sturmkap",
+  "merkmal": "Gewitter folgen ihm",
+  "schwaeche": "Erde"
+ },
+ {
+  "rang": "A",
+  "name": "Frostschwinge",
+  "lebensraum": "Kaldrion",
+  "merkmal": "Riesiger Eisvogel",
+  "schwaeche": "Feuer"
+ },
+ {
+  "rang": "A",
+  "name": "Mantikorfürst",
+  "lebensraum": "Rotsand",
+  "merkmal": "Stacheln mit Lähmgift",
+  "schwaeche": "Schilde"
+ },
+ {
+  "rang": "A",
+  "name": "Chimärenkönig",
+  "lebensraum": "Dungeons",
+  "merkmal": "Fünf Köpfe",
+  "schwaeche": "Der mittlere Kopf"
+ },
+ {
+  "rang": "A",
+  "name": "Greifenkönig",
+  "lebensraum": "Gipfel über den Windfeldern",
+  "merkmal": "Herr der Greife",
+  "schwaeche": "Flügel"
+ },
+ {
+  "rang": "A",
+  "name": "Ur-Basilisk",
+  "lebensraum": "Tiefe Höhlen",
+  "merkmal": "Blick versteinert sofort",
+  "schwaeche": "Spiegel"
+ },
+ {
+  "rang": "A",
+  "name": "Sandwurm-Mutter",
+  "lebensraum": "Rotsand",
+  "merkmal": "Gebiert Sandwürmer",
+  "schwaeche": "Fels"
+ },
+ {
+  "rang": "A",
+  "name": "Salztitan",
+  "lebensraum": "Schluchtenland",
+  "merkmal": "Riese aus Salz",
+  "schwaeche": "Wasser"
+ },
+ {
+  "rang": "A",
+  "name": "Moorkönig",
+  "lebensraum": "Moorgrund",
+  "merkmal": "Herrscher der Moorleichen",
+  "schwaeche": "Feuer"
+ },
+ {
+  "rang": "A",
+  "name": "Nebelfürst",
+  "lebensraum": "Nebelhain",
+  "merkmal": "Ist der Nebel selbst",
+  "schwaeche": "Wind"
+ },
+ {
+  "rang": "A",
+  "name": "Irrlichtkönigin",
+  "lebensraum": "Nebelhain",
+  "merkmal": "Tausend Irrlichter",
+  "schwaeche": "Ignorieren"
+ },
+ {
+  "rang": "A",
+  "name": "Eisenkoloss",
+  "lebensraum": "Alte Festungen",
+  "merkmal": "Golem von Turmhöhe",
+  "schwaeche": "Rost, Elektro"
+ },
+ {
+  "rang": "A",
+  "name": "Kristallwyrm",
+  "lebensraum": "Tiefen des Erzwalls",
+  "merkmal": "Atem aus Kristallsplittern",
+  "schwaeche": "Hämmer"
+ },
+ {
+  "rang": "A",
+  "name": "Lavawurm",
+  "lebensraum": "Glutgrat",
+  "merkmal": "Schwimmt in Lava",
+  "schwaeche": "Wasser"
+ },
+ {
+  "rang": "A",
+  "name": "Aschenkoloss",
+  "lebensraum": "Aschfeld",
+  "merkmal": "Riese aus Asche",
+  "schwaeche": "Wasser"
+ },
+ {
+  "rang": "A",
+  "name": "Dämonengeneral",
+  "lebensraum": "Eisernes Dornenreich",
+  "merkmal": "Befehligt Legionen",
+  "schwaeche": "Licht"
+ },
+ {
+  "rang": "A",
+  "name": "Höllenbestie",
+  "lebensraum": "Eisernes Dornenreich",
+  "merkmal": "Dämonische Riesenbestie",
+  "schwaeche": "Licht"
+ },
+ {
+  "rang": "A",
+  "name": "Blutfürst",
+  "lebensraum": "Blut-Dungeons",
+  "merkmal": "Herr eines Blut-Dungeons",
+  "schwaeche": "Feuer"
+ },
+ {
+  "rang": "A",
+  "name": "Dornentitan",
+  "lebensraum": "Dorn-Dungeons",
+  "merkmal": "Riese aus Dornen",
+  "schwaeche": "Feuer"
+ },
+ {
+  "rang": "A",
+  "name": "Erinnerungsweber",
+  "lebensraum": "Erinnerungs-Dungeons",
+  "merkmal": "Webt falsche Erinnerungen",
+  "schwaeche": "Codewörter"
+ },
+ {
+  "rang": "A",
+  "name": "Stillstandswächter",
+  "lebensraum": "Erstarrte Lande",
+  "merkmal": "Hält alles in der Zeit fest",
+  "schwaeche": "Bewegung"
+ },
+ {
+  "rang": "A",
+  "name": "Wächter von Valmor",
+  "lebensraum": "Ruinen von Valmor",
+  "merkmal": "Uralter Königsgolem",
+  "schwaeche": "Rune"
+ },
+ {
+  "rang": "A",
+  "name": "Bruchklang-Koloss",
+  "lebensraum": "Orte großer Bruchklänge",
+  "merkmal": "Zwei Elemente in einem Körper",
+  "schwaeche": "Gegensätze trennen"
+ },
+ {
+  "rang": "A",
+  "name": "Geisterschiff",
+  "lebensraum": "Hohe See",
+  "merkmal": "Ganze untote Mannschaft",
+  "schwaeche": "Licht"
+ },
+ {
+  "rang": "A",
+  "name": "Seeschlangenkönigin",
+  "lebensraum": "Hohe See",
+  "merkmal": "Mutter der Seeschlangen",
+  "schwaeche": "Elektro"
+ },
+ {
+  "rang": "A",
+  "name": "Korallenkoloss",
+  "lebensraum": "Riffe",
+  "merkmal": "Körper aus Korallen",
+  "schwaeche": "Hämmer"
+ },
+ {
+  "rang": "A",
+  "name": "Sturmhai",
+  "lebensraum": "Sturmkap",
+  "merkmal": "Schwimmt mit Blitzen",
+  "schwaeche": "Erde"
+ },
+ {
+  "rang": "A",
+  "name": "Wolkenwal",
+  "lebensraum": "Himmel über den Windfeldern",
+  "merkmal": "Friedlich, solange man ihn nicht angreift",
+  "schwaeche": "Erde"
+ },
+ {
+  "rang": "A",
+  "name": "Gletscherwurm",
+  "lebensraum": "Kaldrion",
+  "merkmal": "Bewegt Gletscher",
+  "schwaeche": "Feuer"
+ },
+ {
+  "rang": "A",
+  "name": "Lawinenriese",
+  "lebensraum": "Kaldrion",
+  "merkmal": "Löst Lawinen aus",
+  "schwaeche": "Feuer"
+ },
+ {
+  "rang": "A",
+  "name": "Frostwolf-Mutter",
+  "lebensraum": "Kaldrion",
+  "merkmal": "Rudel aus hundert Frostwölfen",
+  "schwaeche": "Feuer"
+ },
+ {
+  "rang": "A",
+  "name": "Fieberfürst",
+  "lebensraum": "Fieberwald",
+  "merkmal": "Bringt Seuchen",
+  "schwaeche": "Feuer"
+ },
+ {
+  "rang": "A",
+  "name": "Dschungelkoloss",
+  "lebensraum": "Fieberwald",
+  "merkmal": "Riesiger Gorilla",
+  "schwaeche": "Feuer"
+ },
+ {
+  "rang": "A",
+  "name": "Sporenkönigin",
+  "lebensraum": "Fieberwald",
+  "merkmal": "Ein ganzer Pilzwald",
+  "schwaeche": "Feuer"
+ },
+ {
+  "rang": "A",
+  "name": "Würgebaum",
+  "lebensraum": "Fieberwald",
+  "merkmal": "Erstickt ganze Dörfer",
+  "schwaeche": "Feuer"
+ },
+ {
+  "rang": "A",
+  "name": "Sandsturmgeist",
+  "lebensraum": "Rotsand",
+  "merkmal": "Ist der Sandsturm",
+  "schwaeche": "Windstille"
+ },
+ {
+  "rang": "A",
+  "name": "Oasenwächter",
+  "lebensraum": "Oasenbund",
+  "merkmal": "Uralter Wassergeist",
+  "schwaeche": "Elektro"
+ },
+ {
+  "rang": "A",
+  "name": "Grabkönig",
+  "lebensraum": "Königsgräber",
+  "merkmal": "Herrscher der Toten",
+  "schwaeche": "Licht"
+ },
+ {
+  "rang": "A",
+  "name": "Mumienkönig",
+  "lebensraum": "Rotsand",
+  "merkmal": "Verflucht ganze Karawanen",
+  "schwaeche": "Feuer"
+ },
+ {
+  "rang": "A",
+  "name": "Riesenskarabäus",
+  "lebensraum": "Rotsand",
+  "merkmal": "Frißt Gräber leer",
+  "schwaeche": "Feuer"
+ },
+ {
+  "rang": "A",
+  "name": "Junger Sumpfdrache",
+  "lebensraum": "Moorgrund",
+  "merkmal": "Säureatem",
+  "schwaeche": "Feuer"
+ },
+ {
+  "rang": "A",
+  "name": "Schwarzwasserhydra",
+  "lebensraum": "Moor von Rabenmark",
+  "merkmal": "Hydra aus dem Moor",
+  "schwaeche": "Feuer"
+ },
+ {
+  "rang": "A",
+  "name": "Krähenkönig",
+  "lebensraum": "Rabenmark",
+  "merkmal": "Spricht mit Krähenschwärmen",
+  "schwaeche": "Wind"
+ },
+ {
+  "rang": "A",
+  "name": "Moorwolf-Alpha",
+  "lebensraum": "Rabenmark",
+  "merkmal": "Riesenwolf",
+  "schwaeche": "Feuer"
+ },
+ {
+  "rang": "A",
+  "name": "Bergwyrm",
+  "lebensraum": "Kaldrion",
+  "merkmal": "Flügellos, gräbt",
+  "schwaeche": "Feuer"
+ },
+ {
+  "rang": "A",
+  "name": "Runengolem",
+  "lebensraum": "Zwergenbingen",
+  "merkmal": "Von Zwergen gebaut, außer Kontrolle",
+  "schwaeche": "Rune"
+ },
+ {
+  "rang": "A",
+  "name": "Geweihter Hirsch",
+  "lebensraum": "Eschenwacht",
+  "merkmal": "Geweih aus Ästen, heilt den Wald",
+  "schwaeche": "Feuer"
+ },
+ {
+  "rang": "A",
+  "name": "Klingenwolf",
+  "lebensraum": "Dungeons",
+  "merkmal": "Klingen statt Fell",
+  "schwaeche": "Hämmer"
+ },
+ {
+  "rang": "A",
+  "name": "Phasenbestie",
+  "lebensraum": "Dungeons",
+  "merkmal": "Wechselt zwischen hier und nirgends",
+  "schwaeche": "Licht"
+ },
+ {
+  "rang": "A",
+  "name": "Spiegelbestie",
+  "lebensraum": "Erinnerungs-Dungeons",
+  "merkmal": "Kopiert Kämpfer",
+  "schwaeche": "Ungewöhnlich kämpfen"
+ },
+ {
+  "rang": "A",
+  "name": "Mimikkönig",
+  "lebensraum": "Große Dungeons",
+  "merkmal": "Ein ganzer Schatzraum ist ein Maul",
+  "schwaeche": "Nicht stehlen"
+ },
+ {
+  "rang": "A",
+  "name": "Flammenschädel",
+  "lebensraum": "Dungeons",
+  "merkmal": "Schwebt und speit Feuer",
+  "schwaeche": "Wasser"
+ },
+ {
+  "rang": "A",
+  "name": "Gewitterkoloss",
+  "lebensraum": "Sturmkap",
+  "merkmal": "Wolke mit Körper",
+  "schwaeche": "Erde"
+ },
+ {
+  "rang": "A",
+  "name": "Seehexenkönigin",
+  "lebensraum": "Küsten",
+  "merkmal": "Ruft Stürme über ganze Flotten",
+  "schwaeche": "Feuer"
+ },
+ {
+  "rang": "A",
+  "name": "Treibgutriese",
+  "lebensraum": "Küsten",
+  "merkmal": "Riese aus Schiffswracks",
+  "schwaeche": "Feuer"
+ },
+ {
+  "rang": "A",
+  "name": "Windwyrm",
+  "lebensraum": "Windfelder",
+  "merkmal": "Reitet Stürme",
+  "schwaeche": "Erde"
+ },
+ {
+  "rang": "A",
+  "name": "Graswurm",
+  "lebensraum": "Windfelder",
+  "merkmal": "Riesenwurm unter der Steppe",
+  "schwaeche": "Keine Erschütterung"
+ },
+ {
+  "rang": "A",
+  "name": "Erntefresser",
+  "lebensraum": "Hohenmark",
+  "merkmal": "Frißt ganze Ernten",
+  "schwaeche": "Feuer"
+ },
+ {
+  "rang": "A",
+  "name": "Hügelkönig",
+  "lebensraum": "Solmara",
+  "merkmal": "Ältester Hügelriese",
+  "schwaeche": "Beine"
+ },
+ {
+  "rang": "A",
+  "name": "Arenabestie",
+  "lebensraum": "Kolosseum, gefangen",
+  "merkmal": "Für die Krönungsspiele gezüchtet",
+  "schwaeche": "Keine bekannt"
+ },
+ {
+  "rang": "A",
+  "name": "Verwilderter Inquisitionsgolem",
+  "lebensraum": "Kirchenruinen",
+  "merkmal": "Kirchliche Kriegsmaschine",
+  "schwaeche": "Rune"
+ },
+ {
+  "rang": "A",
+  "name": "Seelenfresser",
+  "lebensraum": "Dungeons",
+  "merkmal": "Frißt die Seele, lässt den Körper",
+  "schwaeche": "Licht"
+ },
+ {
+  "rang": "A",
+  "name": "Albtraumkönig",
+  "lebensraum": "Träume",
+  "merkmal": "Tötet im Schlaf",
+  "schwaeche": "Wach bleiben, Albtraum der Faultiere"
+ },
+ {
+  "rang": "A",
+  "name": "Riesenspinnenkönigin",
+  "lebensraum": "Tiefe Höhlen",
+  "merkmal": "Netze über ganze Täler",
+  "schwaeche": "Feuer"
+ },
+ {
+  "rang": "A",
+  "name": "Schwarmkönigin",
+  "lebensraum": "Fieberwald",
+  "merkmal": "Milliarden Insekten",
+  "schwaeche": "Rauch"
+ },
+ {
+  "rang": "A",
+  "name": "Schildkrötenkoloss",
+  "lebensraum": "Küsten",
+  "merkmal": "Trägt eine Insel samt Dorf",
+  "schwaeche": "Beine"
+ },
+ {
+  "rang": "A",
+  "name": "Gletscherelementar",
+  "lebensraum": "Kaldrion",
+  "merkmal": "Eis, das sich bewegt",
+  "schwaeche": "Feuer"
+ },
+ {
+  "rang": "A",
+  "name": "Vulkanelementar",
+  "lebensraum": "Glutgrat",
+  "merkmal": "Ein Stück lebender Vulkan",
+  "schwaeche": "Wasser"
+ },
+ {
+  "rang": "S",
+  "name": "Ausgewachsener Glutdrache",
+  "lebensraum": "Glutgrat",
+  "merkmal": "Verbrennt Städte",
+  "schwaeche": "Eis"
+ },
+ {
+  "rang": "S",
+  "name": "Ausgewachsener Frostdrache",
+  "lebensraum": "Kaldrion",
+  "merkmal": "Friert Seen und Armeen ein",
+  "schwaeche": "Feuer"
+ },
+ {
+  "rang": "S",
+  "name": "Ausgewachsener Sturmdrache",
+  "lebensraum": "Sturmkap",
+  "merkmal": "Gewitter über ganzen Provinzen",
+  "schwaeche": "Erde"
+ },
+ {
+  "rang": "S",
+  "name": "Ausgewachsener Walddrache",
+  "lebensraum": "Eichenmark",
+  "merkmal": "Wälder wachsen über Städte",
+  "schwaeche": "Feuer"
+ },
+ {
+  "rang": "S",
+  "name": "Ausgewachsener Seedrache",
+  "lebensraum": "Hohe See",
+  "merkmal": "Versenkt Flotten",
+  "schwaeche": "Elektro"
+ },
+ {
+  "rang": "S",
+  "name": "Ausgewachsener Erddrache",
+  "lebensraum": "Erzwall",
+  "merkmal": "Erdbeben",
+  "schwaeche": "Wasser"
+ },
+ {
+  "rang": "S",
+  "name": "Ausgewachsener Winddrache",
+  "lebensraum": "Windfelder",
+  "merkmal": "Tornados",
+  "schwaeche": "Erde"
+ },
+ {
+  "rang": "S",
+  "name": "Behemoth",
+  "lebensraum": "Ebenen",
+  "merkmal": "Zertrampelt Dörfer",
+  "schwaeche": "Die Gelenke"
+ },
+ {
+  "rang": "S",
+  "name": "Leviathan",
+  "lebensraum": "Hohe See",
+  "merkmal": "Größer als jede Insel",
+  "schwaeche": "Elektro"
+ },
+ {
+  "rang": "S",
+  "name": "Uralter Krake",
+  "lebensraum": "Tiefsee",
+  "merkmal": "Zieht Häfen ins Meer",
+  "schwaeche": "Elektro"
+ },
+ {
+  "rang": "S",
+  "name": "Lindwurm",
+  "lebensraum": "Berge",
+  "merkmal": "Uralter flügelloser Drache",
+  "schwaeche": "Feuer"
+ },
+ {
+  "rang": "S",
+  "name": "Schattenschleim",
+  "lebensraum": "S- und SS-Dungeons",
+  "merkmal": "Aus seinem Schleim wird die Schattenhaut",
+  "schwaeche": "Licht, Eis"
+ },
+ {
+  "rang": "S",
+  "name": "Phönix",
+  "lebensraum": "Glutgrat",
+  "merkmal": "Unsterblich durch Wiedergeburt",
+  "schwaeche": "Wasser, solange er Asche ist"
+ },
+ {
+  "rang": "S",
+  "name": "Bergtitan",
+  "lebensraum": "Erzwall",
+  "merkmal": "Wird für einen Berg gehalten",
+  "schwaeche": "Wasser"
+ },
+ {
+  "rang": "S",
+  "name": "Frosttitan",
+  "lebensraum": "Kaldrion",
+  "merkmal": "Bringt ewigen Winter",
+  "schwaeche": "Feuer"
+ },
+ {
+  "rang": "S",
+  "name": "Feuertitan",
+  "lebensraum": "Glutgrat",
+  "merkmal": "Lässt Vulkane ausbrechen",
+  "schwaeche": "Wasser"
+ },
+ {
+  "rang": "S",
+  "name": "Sturmtitan",
+  "lebensraum": "Sturmkap",
+  "merkmal": "Lebt im Auge eines Sturms",
+  "schwaeche": "Erde"
+ },
+ {
+  "rang": "S",
+  "name": "Lichkönig",
+  "lebensraum": "Alte Gräber",
+  "merkmal": "Befiehlt Armeen von Toten",
+  "schwaeche": "Seine Seelenvase"
+ },
+ {
+  "rang": "S",
+  "name": "Vampirkönig",
+  "lebensraum": "Rabenmark",
+  "merkmal": "Eine halbe Provinz ist ihm hörig",
+  "schwaeche": "Licht"
+ },
+ {
+  "rang": "S",
+  "name": "Todesdrache",
+  "lebensraum": "Schlachtfelder",
+  "merkmal": "Untoter Großdrache",
+  "schwaeche": "Licht"
+ },
+ {
+  "rang": "S",
+  "name": "Hydrenmutter",
+  "lebensraum": "Sümpfe",
+  "merkmal": "Hundert Köpfe",
+  "schwaeche": "Feuer"
+ },
+ {
+  "rang": "S",
+  "name": "Ur-Greif",
+  "lebensraum": "Gipfel",
+  "merkmal": "Größer als ein Haus",
+  "schwaeche": "Flügel"
+ },
+ {
+  "rang": "S",
+  "name": "Roc-König",
+  "lebensraum": "Schluchtenland",
+  "merkmal": "Verdunkelt den Himmel",
+  "schwaeche": "Pfeile"
+ },
+ {
+  "rang": "S",
+  "name": "Sandwurm-Ahne",
+  "lebensraum": "Rotsand",
+  "merkmal": "Verschluckt Oasen",
+  "schwaeche": "Fels"
+ },
+ {
+  "rang": "S",
+  "name": "Salzfürst",
+  "lebensraum": "Schluchtenland",
+  "merkmal": "Lässt Blut zu Salz werden",
+  "schwaeche": "Wasser"
+ },
+ {
+  "rang": "S",
+  "name": "Der Weiße Nebel",
+  "lebensraum": "Nebelhain",
+  "merkmal": "Ganze Dörfer verschwinden darin",
+  "schwaeche": "Wind"
+ },
+ {
+  "rang": "S",
+  "name": "Das Schwarze Moor",
+  "lebensraum": "Moorgrund",
+  "merkmal": "Ein lebendes Moor",
+  "schwaeche": "Feuer"
+ },
+ {
+  "rang": "S",
+  "name": "Fiebermutter",
+  "lebensraum": "Fieberwald",
+  "merkmal": "Eine Seuche mit Körper",
+  "schwaeche": "Feuer"
+ },
+ {
+  "rang": "S",
+  "name": "Wurzelfürst",
+  "lebensraum": "Eichenmark",
+  "merkmal": "Wurzeln unter dem ganzen Staat",
+  "schwaeche": "Feuer"
+ },
+ {
+  "rang": "S",
+  "name": "Feldherr der Verlorenen Königin",
+  "lebensraum": "Eisernes Dornenreich",
+  "merkmal": "Führt ihre Armeen",
+  "schwaeche": "Licht"
+ },
+ {
+  "rang": "S",
+  "name": "Dornenkoloss",
+  "lebensraum": "Dorn-Dungeons",
+  "merkmal": "Wächter der Dornenprinzessin",
+  "schwaeche": "Feuer"
+ },
+ {
+  "rang": "S",
+  "name": "Blutkönig",
+  "lebensraum": "Blut-Dungeons",
+  "merkmal": "Herr der größten Blut-Dungeons",
+  "schwaeche": "Feuer"
+ },
+ {
+  "rang": "S",
+  "name": "Erinnerungsfürst",
+  "lebensraum": "Erinnerungs-Dungeons",
+  "merkmal": "Lässt einen Trupp sich selbst vergessen",
+  "schwaeche": "Stille-Zauber, Codewörter"
+ },
+ {
+  "rang": "S",
+  "name": "Zeitwächter von Valmor",
+  "lebensraum": "Erstarrte Lande",
+  "merkmal": "Hält die Zeit an",
+  "schwaeche": "Unbekannt"
+ },
+ {
+  "rang": "S",
+  "name": "Bruchklang-Titan",
+  "lebensraum": "Krater",
+  "merkmal": "Aus einem großen Bruchklang entstanden",
+  "schwaeche": "Gegensätze trennen"
+ },
+ {
+  "rang": "S",
+  "name": "Kristallkoloss",
+  "lebensraum": "Tiefen des Erzwalls",
+  "merkmal": "Bricht Licht zu tödlichen Strahlen",
+  "schwaeche": "Hämmer"
+ },
+ {
+  "rang": "S",
+  "name": "Gletscherwyrm",
+  "lebensraum": "Kaldrion",
+  "merkmal": "Uralter Eiswurm",
+  "schwaeche": "Feuer"
+ },
+ {
+  "rang": "S",
+  "name": "Lavakoloss",
+  "lebensraum": "Glutgrat",
+  "merkmal": "Bewegt sich wie ein Lavastrom",
+  "schwaeche": "Wasser"
+ },
+ {
+  "rang": "S",
+  "name": "Himmelswal",
+  "lebensraum": "Hoch über Velmora",
+  "merkmal": "So groß wie eine Stadt, friedlich, wird trotzdem bejagt",
+  "schwaeche": "Unbekannt"
+ },
+ {
+  "rang": "S",
+  "name": "Donnerkönig",
+  "lebensraum": "Sturmkap",
+  "merkmal": "Ruft Orkane",
+  "schwaeche": "Erde"
+ },
+ {
+  "rang": "S",
+  "name": "Spiegelfürst",
+  "lebensraum": "Erinnerungs-Dungeons",
+  "merkmal": "Kopiert ganze Trupps",
+  "schwaeche": "Ungewöhnlich kämpfen"
+ },
+ {
+  "rang": "S",
+  "name": "Seelenernter",
+  "lebensraum": "Dungeons",
+  "merkmal": "Sammelt Seelen",
+  "schwaeche": "Licht"
+ },
+ {
+  "rang": "S",
+  "name": "Albtraumfürst",
+  "lebensraum": "Träume",
+  "merkmal": "Ganze Städte schlafen nicht mehr",
+  "schwaeche": "Wach bleiben"
+ },
+ {
+  "rang": "S",
+  "name": "Geisterflotte",
+  "lebensraum": "Hohe See",
+  "merkmal": "Hundert untote Schiffe",
+  "schwaeche": "Licht"
+ },
+ {
+  "rang": "S",
+  "name": "Riffkönig",
+  "lebensraum": "Riffe",
+  "merkmal": "Riffe wachsen, wo er will",
+  "schwaeche": "Hämmer"
+ },
+ {
+  "rang": "S",
+  "name": "Uralte Sphinx",
+  "lebensraum": "Rotsand",
+  "merkmal": "Kennt die Antwort auf alles",
+  "schwaeche": "Ein Rätsel, das sie nicht kennt"
+ },
+ {
+  "rang": "S",
+  "name": "Klingensturm",
+  "lebensraum": "Dungeons",
+  "merkmal": "Tausend schwebende Klingen",
+  "schwaeche": "Den Kern finden"
+ },
+ {
+  "rang": "S",
+  "name": "Mimikfestung",
+  "lebensraum": "Ruinen",
+  "merkmal": "Eine ganze Burg ist ein Maul",
+  "schwaeche": "Nicht hineingehen"
+ },
+ {
+  "rang": "S",
+  "name": "Stau-Koloss",
+  "lebensraum": "Überall möglich",
+  "merkmal": "Hat sich jahrelang aufgestaut und explodiert",
+  "schwaeche": "Mana abziehen"
+ },
+ {
+  "rang": "S",
+  "name": "Der Drachenrest",
+  "lebensraum": "Solmar",
+  "merkmal": "Überrest des SS-Drachen aus dem Kolosseum, nie ganz gestorben",
+  "schwaeche": "Unbekannt"
+ },
+ {
+  "rang": "SS",
+  "name": "Glutvater",
+  "lebensraum": "Unter Glutgrat",
+  "merkmal": "Urdrache des Feuers, schuf die Vulkaninsel",
+  "schwaeche": "Unbekannt"
+ },
+ {
+  "rang": "SS",
+  "name": "Frostmutter",
+  "lebensraum": "Ewiges Eis",
+  "merkmal": "Urdrache des Eises, hält den Norden gefroren",
+  "schwaeche": "Feuer"
+ },
+ {
+  "rang": "SS",
+  "name": "Urdrache des Sturms",
+  "lebensraum": "Über den Meeren",
+  "merkmal": "Ein Sturm, der nie endet",
+  "schwaeche": "Erde"
+ },
+ {
+  "rang": "SS",
+  "name": "Urdrache der Erde",
+  "lebensraum": "Unter dem Erzwall",
+  "merkmal": "Wenn er sich dreht, bebt die Welt",
+  "schwaeche": "Wasser"
+ },
+ {
+  "rang": "SS",
+  "name": "Urdrache des Wassers",
+  "lebensraum": "Tiefsee",
+  "merkmal": "Bringt Fluten",
+  "schwaeche": "Elektro"
+ },
+ {
+  "rang": "SS",
+  "name": "Urdrache des Windes",
+  "lebensraum": "Himmel über den Windfeldern",
+  "merkmal": "Ein Flügelschlag, ein Orkan",
+  "schwaeche": "Erde"
+ },
+ {
+  "rang": "SS",
+  "name": "Urdrache der Wälder",
+  "lebensraum": "Eichenmark",
+  "merkmal": "Der älteste Wald der Welt",
+  "schwaeche": "Feuer"
+ },
+ {
+  "rang": "SS",
+  "name": "Nachtfrostdrache",
+  "lebensraum": "Unbekannt",
+  "merkmal": "Dunkel- und Eismagie, die Art des Kolosseumsdrachen",
+  "schwaeche": "Feuer, Licht"
+ },
+ {
+  "rang": "SS",
+  "name": "Weltenschlange",
+  "lebensraum": "Ozean",
+  "merkmal": "Umschlingt Inseln",
+  "schwaeche": "Unbekannt"
+ },
+ {
+  "rang": "SS",
+  "name": "Uralter Leviathan",
+  "lebensraum": "Tiefsee",
+  "merkmal": "Kann Küsten verschlingen",
+  "schwaeche": "Elektro"
+ },
+ {
+  "rang": "SS",
+  "name": "Ur-Behemoth",
+  "lebensraum": "Ebenen",
+  "merkmal": "Ein Schritt, ein Erdbeben",
+  "schwaeche": "Unbekannt"
+ },
+ {
+  "rang": "SS",
+  "name": "Der Erste Tote",
+  "lebensraum": "Vergessene Gräber",
+  "merkmal": "Der erste Untote der Welt",
+  "schwaeche": "Seine Seelenvase"
+ },
+ {
+  "rang": "SS",
+  "name": "Die Rote Nacht",
+  "lebensraum": "Unbekannt",
+  "merkmal": "Ein Blutmond folgt ihr",
+  "schwaeche": "Licht"
+ },
+ {
+  "rang": "SS",
+  "name": "Ur-Phönix",
+  "lebensraum": "Himmel",
+  "merkmal": "Seine Wiedergeburt verbrennt Länder",
+  "schwaeche": "Unbekannt"
+ },
+ {
+  "rang": "SS",
+  "name": "Schattenschleim-Mutter",
+  "lebensraum": "SS-Dungeons",
+  "merkmal": "Mutter aller Schattenschleime",
+  "schwaeche": "Licht"
+ },
+ {
+  "rang": "SS",
+  "name": "Dornenwyrm",
+  "lebensraum": "Dorn-Dungeons",
+  "merkmal": "Größter Wächter der Dornenprinzessin",
+  "schwaeche": "Feuer"
+ },
+ {
+  "rang": "SS",
+  "name": "Blutflut",
+  "lebensraum": "Blut-Dungeons",
+  "merkmal": "Ein Dungeon, der lebt",
+  "schwaeche": "Feuer"
+ },
+ {
+  "rang": "SS",
+  "name": "Erinnerungsschlund",
+  "lebensraum": "Erinnerungs-Dungeons",
+  "merkmal": "Frißt die Erinnerung ganzer Städte",
+  "schwaeche": "Unbekannt"
+ },
+ {
+  "rang": "SS",
+  "name": "Zeitlose Bestie",
+  "lebensraum": "Erstarrte Lande",
+  "merkmal": "Existiert in allen Zeiten zugleich",
+  "schwaeche": "Unbekannt"
+ },
+ {
+  "rang": "SS",
+  "name": "Bruchklang-Ur",
+  "lebensraum": "Großer Krater",
+  "merkmal": "Gegensätze aller Elemente in einem Körper",
+  "schwaeche": "Unbekannt"
+ },
+ {
+  "rang": "SS",
+  "name": "Himmelsfresser",
+  "lebensraum": "Über den Wolken",
+  "merkmal": "Verdunkelt die Sonne tagelang",
+  "schwaeche": "Unbekannt"
+ },
+ {
+  "rang": "SS",
+  "name": "Der Gefallene",
+  "lebensraum": "Krater",
+  "merkmal": "Kam vom Himmel",
+  "schwaeche": "Unbekannt"
+ },
+ {
+  "rang": "SS",
+  "name": "Tiefenkönig",
+  "lebensraum": "Unter den Nachtklüften",
+  "merkmal": "Herrscher der Tiefe",
+  "schwaeche": "Licht"
+ },
+ {
+  "rang": "SS",
+  "name": "Nachtklüfte-Wyrm",
+  "lebensraum": "Nachtklüfte",
+  "merkmal": "Lauert in den leeren Höhlenstädten",
+  "schwaeche": "Licht"
+ },
+ {
+  "rang": "SS",
+  "name": "Höllentitan",
+  "lebensraum": "Eisernes Dornenreich",
+  "merkmal": "Dämonischer Riese",
+  "schwaeche": "Licht"
+ },
+ {
+  "rang": "SS",
+  "name": "Dämonenkoloss",
+  "lebensraum": "Eisernes Dornenreich",
+  "merkmal": "Lebende Belagerungsmaschine",
+  "schwaeche": "Licht"
+ },
+ {
+  "rang": "SS",
+  "name": "Hydrenkönig",
+  "lebensraum": "Moorgrund",
+  "merkmal": "Die Zahl seiner Köpfe kennt niemand",
+  "schwaeche": "Feuer"
+ },
+ {
+  "rang": "SS",
+  "name": "Seelenschlund",
+  "lebensraum": "Unbekannt",
+  "merkmal": "Ein Loch, das Seelen frißt",
+  "schwaeche": "Licht"
+ },
+ {
+  "rang": "SS",
+  "name": "Die Fäule",
+  "lebensraum": "Wälder",
+  "merkmal": "Lässt ganze Wälder verfaulen",
+  "schwaeche": "Feuer"
+ },
+ {
+  "rang": "SS",
+  "name": "Ewiger Sandsturm",
+  "lebensraum": "Rotsand",
+  "merkmal": "Ein Sturm mit eigenem Willen",
+  "schwaeche": "Windstille"
+ },
+ {
+  "rang": "SS",
+  "name": "Salzmeer-Titan",
+  "lebensraum": "Schluchtenland",
+  "merkmal": "Hat das Meer der Schluchten ausgetrunken",
+  "schwaeche": "Wasser"
+ },
+ {
+  "rang": "SS",
+  "name": "Gletschertitan",
+  "lebensraum": "Ewiges Eis",
+  "merkmal": "Ganze Gebirge sind sein Körper",
+  "schwaeche": "Feuer"
+ },
+ {
+  "rang": "SS",
+  "name": "Der Erwachende",
+  "lebensraum": "Glutgrat",
+  "merkmal": "Schläft im Vulkan",
+  "schwaeche": "Wasser"
+ },
+ {
+  "rang": "SS",
+  "name": "Der Ewige Blitz",
+  "lebensraum": "Sturmkap",
+  "merkmal": "Blitze aus klarem Himmel",
+  "schwaeche": "Erde"
+ },
+ {
+  "rang": "SS",
+  "name": "Das Weiße Nichts",
+  "lebensraum": "Nebelhain",
+  "merkmal": "Wer darin ist, existiert nicht mehr",
+  "schwaeche": "Wind"
+ },
+ {
+  "rang": "SS",
+  "name": "Fieberkönigin",
+  "lebensraum": "Fieberwald",
+  "merkmal": "Eine Seuche mit Bewusstsein",
+  "schwaeche": "Feuer"
+ },
+ {
+  "rang": "SS",
+  "name": "Schwarmgott",
+  "lebensraum": "Fieberwald",
+  "merkmal": "Alle Insekten eines Kontinents",
+  "schwaeche": "Unbekannt"
+ },
+ {
+  "rang": "SS",
+  "name": "Krakenkönig",
+  "lebensraum": "Tiefsee",
+  "merkmal": "Arme so lang wie Flüsse",
+  "schwaeche": "Elektro"
+ },
+ {
+  "rang": "SS",
+  "name": "Geisterkaiser",
+  "lebensraum": "Hohe See",
+  "merkmal": "Befiehlt alle Ertrunkenen",
+  "schwaeche": "Licht"
+ },
+ {
+  "rang": "SS",
+  "name": "Wandernder Schlund",
+  "lebensraum": "Überall",
+  "merkmal": "Ein Dungeon auf Beinen",
+  "schwaeche": "Unbekannt"
+ },
+ {
+  "rang": "SS",
+  "name": "Spiegelgott",
+  "lebensraum": "Erinnerungs-Dungeons",
+  "merkmal": "Kopiert jeden Kämpfer der Welt",
+  "schwaeche": "Unbekannt"
+ },
+ {
+  "rang": "SS",
+  "name": "Der Tausendklingen",
+  "lebensraum": "Uralte Schlachtfelder",
+  "merkmal": "Alle Waffen der Gefallenen",
+  "schwaeche": "Den Kern finden"
+ },
+ {
+  "rang": "SS",
+  "name": "Der Große Goblin",
+  "lebensraum": "Unbekannt",
+  "merkmal": "Eine Horde aus Millionen Goblins, nur durch ihre Masse SS",
+  "schwaeche": "Lebt nur zwei Jahre, das Problem löst sich oft von selbst"
+ },
+ {
+  "rang": "SS",
+  "name": "Die Mana-Flut",
+  "lebensraum": "Wo sich Mana staut",
+  "merkmal": "Explosion eines Wesens mit SS-Stau",
+  "schwaeche": "Mana abziehen"
+ },
+ {
+  "rang": "SS",
+  "name": "Himmelswal-Mutter",
+  "lebensraum": "Unbekannt",
+  "merkmal": "Ihr Schatten bedeckt ganze Staaten",
+  "schwaeche": "Unbekannt"
+ },
+ {
+  "rang": "SS",
+  "name": "Erdenfresser",
+  "lebensraum": "Unter Velmora",
+  "merkmal": "Frißt Land von unten",
+  "schwaeche": "Unbekannt"
+ },
+ {
+  "rang": "SS",
+  "name": "Der Rostlose",
+  "lebensraum": "Tiefen des Erzwalls",
+  "merkmal": "Frißt die Erzadern ganzer Gebirge",
+  "schwaeche": "Wasser"
+ },
+ {
+  "rang": "SS",
+  "name": "Glutwurm-Ahne",
+  "lebensraum": "Glutgrat",
+  "merkmal": "Ursprung aller Lavawürmer",
+  "schwaeche": "Wasser"
+ },
+ {
+  "rang": "SS",
+  "name": "Urschleim",
+  "lebensraum": "Tiefste Dungeons",
+  "merkmal": "Aus ihm sollen alle Schleime stammen",
+  "schwaeche": "Feuer"
+ },
+ {
+  "rang": "SS",
+  "name": "Weltenbaum-Wächter",
+  "lebensraum": "Unbekannt",
+  "merkmal": "Hüter eines Baumes, den niemand gefunden hat",
+  "schwaeche": "Unbekannt"
+ }
+]

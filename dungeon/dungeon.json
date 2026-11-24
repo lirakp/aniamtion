@@ -1,0 +1,754 @@
+{
+ "fallen": {
+  "stachelfalle": {
+   "titel": "Stachelfalle",
+   "animationen": {
+    "idle": {
+     "bilder": 1,
+     "bild": [
+      32,
+      44
+     ]
+    },
+    "ausloesen": {
+     "bilder": 8,
+     "bild": [
+      32,
+      44
+     ]
+    }
+   }
+  },
+  "pfeilfalle": {
+   "titel": "Pfeilfalle (Wand)",
+   "animationen": {
+    "idle": {
+     "bilder": 1,
+     "bild": [
+      32,
+      32
+     ]
+    },
+    "ausloesen": {
+     "bilder": 6,
+     "bild": [
+      32,
+      32
+     ]
+    }
+   }
+  },
+  "pfeil": {
+   "titel": "Pfeil (Geschoss)",
+   "animationen": {
+    "flug": {
+     "bilder": 2,
+     "bild": [
+      20,
+      7
+     ]
+    }
+   }
+  },
+  "druckplatte": {
+   "titel": "Druckplatte",
+   "animationen": {
+    "idle": {
+     "bilder": 1,
+     "bild": [
+      32,
+      32
+     ]
+    },
+    "ausloesen": {
+     "bilder": 4,
+     "bild": [
+      32,
+      32
+     ]
+    }
+   }
+  },
+  "fallgrube": {
+   "titel": "Fallgrube",
+   "animationen": {
+    "oeffnen": {
+     "bilder": 8,
+     "bild": [
+      32,
+      32
+     ]
+    },
+    "schliessen": {
+     "bilder": 8,
+     "bild": [
+      32,
+      32
+     ]
+    }
+   }
+  },
+  "pendelklinge": {
+   "titel": "Pendelklinge",
+   "animationen": {
+    "schwingen": {
+     "bilder": 8,
+     "bild": [
+      40,
+      48
+     ]
+    }
+   }
+  },
+  "feuerduese": {
+   "titel": "Feuerdüse",
+   "animationen": {
+    "bereit": {
+     "bilder": 1,
+     "bild": [
+      32,
+      56
+     ]
+    },
+    "ausloesen": {
+     "bilder": 8,
+     "bild": [
+      32,
+      56
+     ]
+    }
+   }
+  },
+  "giftgas": {
+   "titel": "Giftgas",
+   "animationen": {
+    "stroemen": {
+     "bilder": 8,
+     "bild": [
+      32,
+      40
+     ]
+    }
+   }
+  },
+  "felsbrocken": {
+   "titel": "Rollender Felsbrocken",
+   "animationen": {
+    "rollen": {
+     "bilder": 4,
+     "bild": [
+      32,
+      32
+     ]
+    }
+   }
+  },
+  "saegeblatt": {
+   "titel": "Sägeblatt",
+   "animationen": {
+    "laufen": {
+     "bilder": 8,
+     "bild": [
+      32,
+      32
+     ]
+    }
+   }
+  },
+  "baerenfalle": {
+   "titel": "Bärenfalle",
+   "animationen": {
+    "offen": {
+     "bilder": 1,
+     "bild": [
+      32,
+      32
+     ]
+    },
+    "zuschnappen": {
+     "bilder": 4,
+     "bild": [
+      32,
+      32
+     ]
+    }
+   }
+  },
+  "fallgatter": {
+   "titel": "Fallgatter",
+   "animationen": {
+    "offen": {
+     "bilder": 1,
+     "bild": [
+      32,
+      48
+     ]
+    },
+    "fallen": {
+     "bilder": 5,
+     "bild": [
+      32,
+      48
+     ]
+    }
+   }
+  },
+  "dornenfalle": {
+   "titel": "Dornenfalle (Dorn-Dungeon)",
+   "animationen": {
+    "idle": {
+     "bilder": 1,
+     "bild": [
+      32,
+      44
+     ]
+    },
+    "ausloesen": {
+     "bilder": 8,
+     "bild": [
+      32,
+      44
+     ]
+    }
+   }
+  },
+  "blutfalle": {
+   "titel": "Blutfalle (Blut-Dungeon)",
+   "animationen": {
+    "idle": {
+     "bilder": 4,
+     "bild": [
+      32,
+      44
+     ]
+    },
+    "ausloesen": {
+     "bilder": 8,
+     "bild": [
+      32,
+      44
+     ]
+    }
+   }
+  },
+  "runenfalle": {
+   "titel": "Runenfalle (Erinnerungs-Dungeon)",
+   "animationen": {
+    "idle": {
+     "bilder": 4,
+     "bild": [
+      32,
+      44
+     ]
+    },
+    "ausloesen": {
+     "bilder": 8,
+     "bild": [
+      32,
+      44
+     ]
+    }
+   }
+  },
+  "einsturz": {
+   "titel": "Einstürzende Decke",
+   "animationen": {
+    "warnung": {
+     "bilder": 4,
+     "bild": [
+      32,
+      64
+     ]
+    },
+    "einsturz": {
+     "bilder": 8,
+     "bild": [
+      32,
+      64
+     ]
+    }
+   }
+  },
+  "flutraum": {
+   "titel": "Flutraum",
+   "animationen": {
+    "fluten": {
+     "bilder": 8,
+     "bild": [
+      32,
+      40
+     ]
+    },
+    "voll": {
+     "bilder": 4,
+     "bild": [
+      32,
+      40
+     ]
+    }
+   }
+  },
+  "mimikboden": {
+   "titel": "Mimik-Boden",
+   "animationen": {
+    "atmen": {
+     "bilder": 4,
+     "bild": [
+      32,
+      40
+     ]
+    },
+    "zuschnappen": {
+     "bilder": 8,
+     "bild": [
+      32,
+      40
+     ]
+    }
+   }
+  }
+ },
+ "truhen": {
+  "holz": {
+   "titel": "Holztruhe",
+   "animationen": {
+    "zu": {
+     "bilder": 1,
+     "bild": [
+      32,
+      40
+     ]
+    },
+    "verschlossen": {
+     "bilder": 4,
+     "bild": [
+      32,
+      40
+     ]
+    },
+    "oeffnen": {
+     "bilder": 6,
+     "bild": [
+      32,
+      40
+     ]
+    },
+    "offen": {
+     "bilder": 4,
+     "bild": [
+      32,
+      40
+     ]
+    },
+    "leer": {
+     "bilder": 1,
+     "bild": [
+      32,
+      40
+     ]
+    }
+   }
+  },
+  "eisen": {
+   "titel": "Eisentruhe",
+   "animationen": {
+    "zu": {
+     "bilder": 1,
+     "bild": [
+      32,
+      40
+     ]
+    },
+    "verschlossen": {
+     "bilder": 4,
+     "bild": [
+      32,
+      40
+     ]
+    },
+    "oeffnen": {
+     "bilder": 6,
+     "bild": [
+      32,
+      40
+     ]
+    },
+    "offen": {
+     "bilder": 4,
+     "bild": [
+      32,
+      40
+     ]
+    },
+    "leer": {
+     "bilder": 1,
+     "bild": [
+      32,
+      40
+     ]
+    }
+   }
+  },
+  "gold": {
+   "titel": "Goldtruhe",
+   "animationen": {
+    "zu": {
+     "bilder": 1,
+     "bild": [
+      32,
+      40
+     ]
+    },
+    "verschlossen": {
+     "bilder": 4,
+     "bild": [
+      32,
+      40
+     ]
+    },
+    "oeffnen": {
+     "bilder": 6,
+     "bild": [
+      32,
+      40
+     ]
+    },
+    "offen": {
+     "bilder": 4,
+     "bild": [
+      32,
+      40
+     ]
+    },
+    "leer": {
+     "bilder": 1,
+     "bild": [
+      32,
+      40
+     ]
+    }
+   }
+  },
+  "dorn": {
+   "titel": "Dorntruhe",
+   "animationen": {
+    "zu": {
+     "bilder": 1,
+     "bild": [
+      32,
+      40
+     ]
+    },
+    "verschlossen": {
+     "bilder": 4,
+     "bild": [
+      32,
+      40
+     ]
+    },
+    "oeffnen": {
+     "bilder": 6,
+     "bild": [
+      32,
+      40
+     ]
+    },
+    "offen": {
+     "bilder": 4,
+     "bild": [
+      32,
+      40
+     ]
+    },
+    "leer": {
+     "bilder": 1,
+     "bild": [
+      32,
+      40
+     ]
+    }
+   }
+  },
+  "blut": {
+   "titel": "Bluttruhe",
+   "animationen": {
+    "zu": {
+     "bilder": 1,
+     "bild": [
+      32,
+      40
+     ]
+    },
+    "verschlossen": {
+     "bilder": 4,
+     "bild": [
+      32,
+      40
+     ]
+    },
+    "oeffnen": {
+     "bilder": 6,
+     "bild": [
+      32,
+      40
+     ]
+    },
+    "offen": {
+     "bilder": 4,
+     "bild": [
+      32,
+      40
+     ]
+    },
+    "leer": {
+     "bilder": 1,
+     "bild": [
+      32,
+      40
+     ]
+    }
+   }
+  },
+  "erinnerung": {
+   "titel": "Erinnerungstruhe",
+   "animationen": {
+    "zu": {
+     "bilder": 1,
+     "bild": [
+      32,
+      40
+     ]
+    },
+    "verschlossen": {
+     "bilder": 4,
+     "bild": [
+      32,
+      40
+     ]
+    },
+    "oeffnen": {
+     "bilder": 6,
+     "bild": [
+      32,
+      40
+     ]
+    },
+    "offen": {
+     "bilder": 4,
+     "bild": [
+      32,
+      40
+     ]
+    },
+    "leer": {
+     "bilder": 1,
+     "bild": [
+      32,
+      40
+     ]
+    }
+   }
+  }
+ },
+ "details": {
+  "blut_tropfen": {
+   "titel": "Tropfendes Blut",
+   "bilder": 8,
+   "bild": [
+    16,
+    40
+   ],
+   "schleife": true
+  },
+  "wasser_tropfen": {
+   "titel": "Tropfendes Wasser",
+   "bilder": 8,
+   "bild": [
+    16,
+    40
+   ],
+   "schleife": true
+  },
+  "blut_rinnt": {
+   "titel": "Blut rinnt die Wand herab",
+   "bilder": 8,
+   "bild": [
+    16,
+    32
+   ],
+   "schleife": true
+  },
+  "blutlache": {
+   "titel": "Blutlache",
+   "bilder": 4,
+   "bild": [
+    28,
+    14
+   ],
+   "schleife": true
+  },
+  "kerzen": {
+   "titel": "Kerzen",
+   "bilder": 4,
+   "bild": [
+    20,
+    20
+   ],
+   "schleife": true
+  },
+  "kette": {
+   "titel": "Hängende Kette",
+   "bilder": 6,
+   "bild": [
+    20,
+    40
+   ],
+   "schleife": true
+  },
+  "kaefig": {
+   "titel": "Hängender Käfig",
+   "bilder": 6,
+   "bild": [
+    20,
+    40
+   ],
+   "schleife": true
+  },
+  "spinnweben": {
+   "titel": "Spinnweben",
+   "bilder": 4,
+   "bild": [
+    20,
+    20
+   ],
+   "schleife": true
+  },
+  "fliegen": {
+   "titel": "Fliegen über Knochen",
+   "bilder": 4,
+   "bild": [
+    24,
+    24
+   ],
+   "schleife": true
+  },
+  "pilze": {
+   "titel": "Leuchtpilze",
+   "bilder": 6,
+   "bild": [
+    20,
+    20
+   ],
+   "schleife": true
+  },
+  "mana_kristall": {
+   "titel": "Mana-Kristall",
+   "bilder": 6,
+   "bild": [
+    20,
+    28
+   ],
+   "schleife": true
+  },
+  "glut": {
+   "titel": "Glut",
+   "bilder": 4,
+   "bild": [
+    20,
+    14
+   ],
+   "schleife": true
+  },
+  "staub": {
+   "titel": "Schwebender Staub",
+   "bilder": 8,
+   "bild": [
+    32,
+    32
+   ],
+   "schleife": true
+  },
+  "bodennebel": {
+   "titel": "Bodennebel",
+   "bilder": 8,
+   "bild": [
+    48,
+    16
+   ],
+   "schleife": true
+  },
+  "lavablasen": {
+   "titel": "Lava-Blasen",
+   "bilder": 6,
+   "bild": [
+    28,
+    14
+   ],
+   "schleife": true
+  },
+  "schaedel_augen": {
+   "titel": "Schädel mit glühenden Augen",
+   "bilder": 6,
+   "bild": [
+    16,
+    16
+   ],
+   "schleife": true
+  },
+  "geisterbild": {
+   "titel": "Geisterbild: Erinnerung",
+   "bilder": 8,
+   "bild": [
+    30,
+    34
+   ],
+   "schleife": true
+  },
+  "geisterbild_schrei": {
+   "titel": "Geisterbild: schreiendes Opfer",
+   "bilder": 8,
+   "bild": [
+    30,
+    34
+   ],
+   "schleife": true
+  },
+  "geisterbild_schrei_2": {
+   "titel": "Geisterbild: schreiendes Opfer 2 (Fuchs)",
+   "bilder": 8,
+   "bild": [
+    30,
+    34
+   ],
+   "schleife": true
+  },
+  "geisterbild_krieger": {
+   "titel": "Geisterbild: Krieger in der Schleife",
+   "bilder": 8,
+   "bild": [
+    30,
+    34
+   ],
+   "schleife": true
+  },
+  "blutmond_lichtstrahl": {
+   "titel": "Blutmond-Licht (Fenster)",
+   "bilder": 8,
+   "bild": [
+    48,
+    64
+   ],
+   "schleife": true
+  },
+  "blutmond_schimmer": {
+   "titel": "Blutmond-Schimmer (Overlay)",
+   "bilder": 8,
+   "bild": [
+    64,
+    64
+   ],
+   "schleife": true
+  }
+ },
+ "hinweis": "Alle Bilder liegen nebeneinander. Fallen: idle/bereit/offen = Ruhezustand, ausloesen/zuschnappen/fallen = einmal abspielen, schwingen/rollen/laufen/stroemen = Schleife. Truhen: zu -> oeffnen -> offen (Schleife) -> leer; verschlossen = Rütteln bei verschlossener Truhe. Empfohlen: 100-130 ms pro Bild."
+}

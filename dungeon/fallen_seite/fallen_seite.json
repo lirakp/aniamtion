@@ -1,0 +1,219 @@
+{
+ "hinweis": "Seitenansicht; unterste 16 px = Bodenblock. Pendelklinge, Pfeilfalle, Felsbrocken, Fallgatter und Einsturz liegen in dungeon/fallen.",
+ "fallen": {
+  "stachelfalle": {
+   "titel": "Stachelfalle",
+   "animationen": {
+    "idle": {
+     "bilder": 1,
+     "bild": [
+      32,
+      40
+     ]
+    },
+    "ausloesen": {
+     "bilder": 8,
+     "bild": [
+      32,
+      40
+     ]
+    }
+   }
+  },
+  "druckplatte": {
+   "titel": "Druckplatte",
+   "animationen": {
+    "idle": {
+     "bilder": 1,
+     "bild": [
+      32,
+      24
+     ]
+    },
+    "ausloesen": {
+     "bilder": 4,
+     "bild": [
+      32,
+      24
+     ]
+    }
+   }
+  },
+  "einbruch": {
+   "titel": "Einbrechender Boden",
+   "animationen": {
+    "idle": {
+     "bilder": 1,
+     "bild": [
+      48,
+      48
+     ]
+    },
+    "einbrechen": {
+     "bilder": 8,
+     "bild": [
+      48,
+      48
+     ]
+    }
+   }
+  },
+  "saegeblatt": {
+   "titel": "Sägeblatt im Boden",
+   "animationen": {
+    "laufen": {
+     "bilder": 8,
+     "bild": [
+      40,
+      32
+     ]
+    }
+   }
+  },
+  "baerenfalle": {
+   "titel": "Bärenfalle",
+   "animationen": {
+    "offen": {
+     "bilder": 1,
+     "bild": [
+      32,
+      28
+     ]
+    },
+    "zuschnappen": {
+     "bilder": 4,
+     "bild": [
+      32,
+      28
+     ]
+    }
+   }
+  },
+  "giftgas": {
+   "titel": "Giftgas",
+   "animationen": {
+    "stroemen": {
+     "bilder": 8,
+     "bild": [
+      32,
+      48
+     ]
+    }
+   }
+  },
+  "feuerduese": {
+   "titel": "Feuerdüse",
+   "animationen": {
+    "bereit": {
+     "bilder": 1,
+     "bild": [
+      32,
+      56
+     ]
+    },
+    "ausloesen": {
+     "bilder": 8,
+     "bild": [
+      32,
+      56
+     ]
+    }
+   }
+  },
+  "dornenfalle": {
+   "titel": "Dornenfalle (Dorn-Dungeon)",
+   "animationen": {
+    "idle": {
+     "bilder": 1,
+     "bild": [
+      32,
+      48
+     ]
+    },
+    "ausloesen": {
+     "bilder": 8,
+     "bild": [
+      32,
+      48
+     ]
+    }
+   }
+  },
+  "blutfalle": {
+   "titel": "Blutfalle (Blut-Dungeon)",
+   "animationen": {
+    "idle": {
+     "bilder": 4,
+     "bild": [
+      32,
+      48
+     ]
+    },
+    "ausloesen": {
+     "bilder": 8,
+     "bild": [
+      32,
+      48
+     ]
+    }
+   }
+  },
+  "runenfalle": {
+   "titel": "Runenfalle (Erinnerungs-Dungeon)",
+   "animationen": {
+    "idle": {
+     "bilder": 4,
+     "bild": [
+      32,
+      56
+     ]
+    },
+    "ausloesen": {
+     "bilder": 8,
+     "bild": [
+      32,
+      56
+     ]
+    }
+   }
+  },
+  "flutraum": {
+   "titel": "Flutraum",
+   "animationen": {
+    "fluten": {
+     "bilder": 8,
+     "bild": [
+      48,
+      56
+     ]
+    },
+    "voll": {
+     "bilder": 4,
+     "bild": [
+      48,
+      56
+     ]
+    }
+   }
+  },
+  "mimikboden": {
+   "titel": "Mimik-Boden",
+   "animationen": {
+    "atmen": {
+     "bilder": 4,
+     "bild": [
+      32,
+      40
+     ]
+    },
+    "zuschnappen": {
+     "bilder": 8,
+     "bild": [
+      32,
+      40
+     ]
+    }
+   }
+  }
+ }
+}

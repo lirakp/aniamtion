@@ -1,0 +1,58 @@
+{
+  "wasserfall": {
+    "bild": [
+      70,
+      88
+    ],
+    "bilder": 8,
+    "ms_pro_bild": 110,
+    "kollision": {
+      "x": 2,
+      "y": 52,
+      "w": 66,
+      "h": 34
+    },
+    "sortier_y": 84,
+    "hinweis": "Felsen + Becken sind fest; Figuren laufen davor (y-Sortierung)."
+  },
+  "dungeon_tuer": {
+    "bild": [
+      64,
+      80
+    ],
+    "animationen": {
+      "idle_zu": 8,
+      "auf": 6,
+      "idle_offen": 8,
+      "zu": 6
+    },
+    "ms_pro_bild": 120,
+    "kollision_rahmen": [
+      {
+        "x": 10,
+        "y": 60,
+        "w": 8,
+        "h": 14
+      },
+      {
+        "x": 46,
+        "y": 60,
+        "w": 8,
+        "h": 14
+      }
+    ],
+    "kollision_tuer_zu": {
+      "x": 18,
+      "y": 60,
+      "w": 28,
+      "h": 14
+    },
+    "eingang_trigger": {
+      "x": 20,
+      "y": 66,
+      "w": 24,
+      "h": 8
+    },
+    "sortier_y": 74
+  }
+}

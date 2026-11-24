@@ -1,0 +1,74 @@
+{
+ "zelle": [
+  26,
+  26
+ ],
+ "blick": "rechts (für links horizontal spiegeln)",
+ "animationen": {
+  "stehen": {
+   "bilder": 6,
+   "schleife": true
+  },
+  "rennen": {
+   "bilder": 8,
+   "schleife": true
+  },
+  "sprung_start": {
+   "bilder": 2,
+   "schleife": false
+  },
+  "sprung_auf": {
+   "bilder": 2,
+   "schleife": true
+  },
+  "scheitel": {
+   "bilder": 1,
+   "schleife": false
+  },
+  "fallen": {
+   "bilder": 2,
+   "schleife": true
+  },
+  "landen": {
+   "bilder": 3,
+   "schleife": false
+  },
+  "dash": {
+   "bilder": 4,
+   "schleife": false
+  },
+  "wand_rutschen": {
+   "bilder": 2,
+   "schleife": true
+  },
+  "wandsprung": {
+   "bilder": 3,
+   "schleife": false
+  },
+  "klettern": {
+   "bilder": 4,
+   "schleife": true
+  },
+  "ducken": {
+   "bilder": 2,
+   "schleife": true
+  },
+  "angriff_oben": {
+   "bilder": 4,
+   "schleife": false
+  },
+  "angriff_unten": {
+   "bilder": 4,
+   "schleife": false
+  },
+  "angriff_vorne": {
+   "bilder": 4,
+   "schleife": false
+  },
+  "rueckstoss": {
+   "bilder": 3,
+   "schleife": false
+  }
+ },
+ "ablauf": "Sprung: sprung_start -> sprung_auf (Schleife, solange steigend) -> scheitel -> fallen (Schleife) -> landen. Wand: wand_rutschen (Schleife) -> wandsprung (Bild ist vom Wand weg gedreht: beim Abspringen Blickrichtung umkehren). angriff_unten = Pogo-Schlag in der Luft."
+}

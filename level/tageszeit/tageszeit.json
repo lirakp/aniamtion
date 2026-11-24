@@ -1,0 +1,149 @@
+{
+ "hinweis": "Ebenen (außer Himmel) mit der Tönung multiplizieren, Stärke = Mischanteil. Himmel zwischen den 4 Phasen überblenden: morgen 5–8, tag 8–17, abend 17–21, nacht 21–5. Bei lichter_an Fenster/Laternen einschalten.",
+ "stunden": [
+  {
+   "stunde": 0,
+   "toenung": "#2a2a5a",
+   "staerke": 0.68,
+   "lichter_an": true
+  },
+  {
+   "stunde": 1,
+   "toenung": "#2a2a5a",
+   "staerke": 0.665,
+   "lichter_an": true
+  },
+  {
+   "stunde": 2,
+   "toenung": "#2a2a5a",
+   "staerke": 0.65,
+   "lichter_an": true
+  },
+  {
+   "stunde": 3,
+   "toenung": "#2a2a5a",
+   "staerke": 0.635,
+   "lichter_an": true
+  },
+  {
+   "stunde": 4,
+   "toenung": "#2a2a5a",
+   "staerke": 0.62,
+   "lichter_an": true
+  },
+  {
+   "stunde": 5,
+   "toenung": "#855a62",
+   "staerke": 0.46,
+   "lichter_an": true
+  },
+  {
+   "stunde": 6,
+   "toenung": "#e08a6a",
+   "staerke": 0.3,
+   "lichter_an": true
+  },
+  {
+   "stunde": 7,
+   "toenung": "#efb999",
+   "staerke": 0.19,
+   "lichter_an": false
+  },
+  {
+   "stunde": 8,
+   "toenung": "#ffe8c8",
+   "staerke": 0.08,
+   "lichter_an": false
+  },
+  {
+   "stunde": 9,
+   "toenung": "#ffedd5",
+   "staerke": 0.06,
+   "lichter_an": false
+  },
+  {
+   "stunde": 10,
+   "toenung": "#fff3e3",
+   "staerke": 0.04,
+   "lichter_an": false
+  },
+  {
+   "stunde": 11,
+   "toenung": "#fff9f1",
+   "staerke": 0.02,
+   "lichter_an": false
+  },
+  {
+   "stunde": 12,
+   "toenung": "#ffffff",
+   "staerke": 0.0,
+   "lichter_an": false
+  },
+  {
+   "stunde": 13,
+   "toenung": "#fff7ec",
+   "staerke": 0.024,
+   "lichter_an": false
+  },
+  {
+   "stunde": 14,
+   "toenung": "#ffefd9",
+   "staerke": 0.048,
+   "lichter_an": false
+  },
+  {
+   "stunde": 15,
+   "toenung": "#ffe7c6",
+   "staerke": 0.072,
+   "lichter_an": false
+  },
+  {
+   "stunde": 16,
+   "toenung": "#ffdfb3",
+   "staerke": 0.096,
+   "lichter_an": false
+  },
+  {
+   "stunde": 17,
+   "toenung": "#ffd8a0",
+   "staerke": 0.12,
+   "lichter_an": false
+  },
+  {
+   "stunde": 18,
+   "toenung": "#efa475",
+   "staerke": 0.235,
+   "lichter_an": true
+  },
+  {
+   "stunde": 19,
+   "toenung": "#e0704a",
+   "staerke": 0.35,
+   "lichter_an": true
+  },
+  {
+   "stunde": 20,
+   "toenung": "#914c6a",
+   "staerke": 0.417,
+   "lichter_an": true
+  },
+  {
+   "stunde": 21,
+   "toenung": "#54346f",
+   "staerke": 0.527,
+   "lichter_an": true
+  },
+  {
+   "stunde": 22,
+   "toenung": "#2a2a5a",
+   "staerke": 0.68,
+   "lichter_an": true
+  },
+  {
+   "stunde": 23,
+   "toenung": "#2a2a5a",
+   "staerke": 0.68,
+   "lichter_an": true
+  }
+ ]
+}

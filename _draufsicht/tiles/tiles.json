@@ -1,0 +1,162 @@
+{
+ "kachelgroesse": 16,
+ "autotiling": "Wang-Ecken: Index = NW*1 + NE*2 + SW*4 + SE*8 (Bit = oberes Terrain an dieser Ecke); 4x4-Feld in Index-Reihenfolge",
+ "uebergaenge": {
+  "gras_weg": {
+   "titel": "Weg auf Gras",
+   "bilder": 1,
+   "feld": [
+    4,
+    4
+   ]
+  },
+  "gras_sand": {
+   "titel": "Sand auf Gras",
+   "bilder": 1,
+   "feld": [
+    4,
+    4
+   ]
+  },
+  "gras_pflaster": {
+   "titel": "Pflaster auf Gras",
+   "bilder": 1,
+   "feld": [
+    4,
+    4
+   ]
+  },
+  "gras_wasser": {
+   "titel": "Wasser auf Gras (animiert)",
+   "bilder": 4,
+   "feld": [
+    4,
+    4
+   ]
+  },
+  "sand_wasser": {
+   "titel": "Wasser auf Sand (animiert)",
+   "bilder": 4,
+   "feld": [
+    4,
+    4
+   ]
+  },
+  "holz_teppich": {
+   "titel": "Teppich auf Holzboden",
+   "bilder": 1,
+   "feld": [
+    4,
+    4
+   ]
+  },
+  "dungeon_physisch_wand": {
+   "titel": "Dungeon physisch: Wand über Boden",
+   "bilder": 1,
+   "feld": [
+    4,
+    4
+   ]
+  },
+  "dungeon_dorn_wand": {
+   "titel": "Dungeon dorn: Wand über Boden",
+   "bilder": 1,
+   "feld": [
+    4,
+    4
+   ]
+  },
+  "dungeon_blut_wand": {
+   "titel": "Dungeon blut: Wand über Boden",
+   "bilder": 1,
+   "feld": [
+    4,
+    4
+   ]
+  },
+  "dungeon_erinnerung_wand": {
+   "titel": "Dungeon erinnerung: Wand über Boden",
+   "bilder": 1,
+   "feld": [
+    4,
+    4
+   ]
+  }
+ },
+ "einzeln": {
+  "dungeon_physisch_wandfront": {
+   "titel": "Dungeon physisch: Wandfront",
+   "varianten": [
+    "normal",
+    "fackelhalter",
+    "riss",
+    "typisch",
+    "gitterfenster",
+    "spinnweben"
+   ],
+   "hinweis": "unter eine Wand-Oberseite legen, wenn darunter Boden liegt"
+  },
+  "dungeon_dorn_wandfront": {
+   "titel": "Dungeon dorn: Wandfront",
+   "varianten": [
+    "normal",
+    "fackelhalter",
+    "riss",
+    "typisch",
+    "gitterfenster",
+    "spinnweben"
+   ],
+   "hinweis": "unter eine Wand-Oberseite legen, wenn darunter Boden liegt"
+  },
+  "dungeon_blut_wandfront": {
+   "titel": "Dungeon blut: Wandfront",
+   "varianten": [
+    "normal",
+    "fackelhalter",
+    "riss",
+    "typisch",
+    "gitterfenster",
+    "spinnweben"
+   ],
+   "hinweis": "unter eine Wand-Oberseite legen, wenn darunter Boden liegt"
+  },
+  "dungeon_erinnerung_wandfront": {
+   "titel": "Dungeon erinnerung: Wandfront",
+   "varianten": [
+    "normal",
+    "fackelhalter",
+    "riss",
+    "typisch",
+    "gitterfenster",
+    "spinnweben"
+   ],
+   "hinweis": "unter eine Wand-Oberseite legen, wenn darunter Boden liegt"
+  },
+  "innenwand": {
+   "titel": "Innenwand",
+   "varianten": [
+    "normal",
+    "fenster",
+    "bild",
+    "regal"
+   ]
+  },
+  "klippe": {
+   "titel": "Klippe",
+   "layout": "3 Spalten (links, mitte, rechts) x 2 Zeilen (Oberkante mit Gras, Felswand)"
+  },
+  "deko": {
+   "titel": "Deko",
+   "varianten": [
+    "grasbuschel",
+    "blumen",
+    "steine",
+    "pilz",
+    "schilf",
+    "busch",
+    "ast",
+    "knochen"
+   ]
+  }
+ }
+}

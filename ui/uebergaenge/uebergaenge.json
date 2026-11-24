@@ -1,0 +1,16 @@
+{
+ "groesse": [
+  320,
+  180
+ ],
+ "frames": 12,
+ "hinweis": "Frames 0→11 = Szene zudecken; rückwärts abspielen = aufdecken. Szene wechseln, wenn Frame 11 erreicht ist.",
+ "arten": {
+  "iris": "Kreis schließt sich (Tür/Szenenwechsel)",
+  "blende": "Schwarzblende",
+  "pixel": "Pixel-Auflösung (Kampf beginnt)",
+  "vorhang": "Bühnenvorhang (Kapitelwechsel)",
+  "blaetter": "Blätterwirbel (Reise über die Karte)",
+  "magie": "Magiewirbel (Teleport/Portal)"
+ }
+}

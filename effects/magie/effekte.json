@@ -1,0 +1,121 @@
+{
+ "elemente": [
+  "feuer",
+  "eis",
+  "wasser",
+  "erde",
+  "dendro",
+  "wind",
+  "elektro",
+  "schatten",
+  "licht"
+ ],
+ "effekte": {
+  "geschoss": {
+   "bilder": 4,
+   "groesse": [
+    18,
+    14
+   ]
+  },
+  "einschlag": {
+   "bilder": 6,
+   "groesse": [
+    28,
+    28
+   ]
+  },
+  "kreis": {
+   "bilder": 8,
+   "groesse": [
+    44,
+    20
+   ]
+  },
+  "aura": {
+   "bilder": 6,
+   "groesse": [
+    26,
+    30
+   ]
+  },
+  "strahl": {
+   "bilder": 4,
+   "groesse": [
+    16,
+    10
+   ]
+  },
+  "saeule": {
+   "bilder": 6,
+   "groesse": [
+    28,
+    56
+   ]
+  }
+ },
+ "bruchklang": [
+  "feuer_eis",
+  "licht_schatten",
+  "erde_wind",
+  "wasser_elektro"
+ ],
+ "kreise": {
+  "heilung": [
+   "licht",
+   "wasser"
+  ],
+  "dampfstoss": [
+   "feuer",
+   "wasser"
+  ],
+  "stille": [
+   "wind",
+   "schatten"
+  ],
+  "dornenwall": [
+   "erde",
+   "dendro"
+  ],
+  "kettenblitz": [
+   "wind",
+   "elektro"
+  ],
+  "sumpfgrab": [
+   "wasser",
+   "erde",
+   "dendro"
+  ],
+  "bannlicht": [
+   "licht",
+   "wind",
+   "feuer"
+  ],
+  "frostgewitter": [
+   "eis",
+   "wind",
+   "elektro"
+  ],
+  "laeuterung": [
+   "licht",
+   "wasser",
+   "erde",
+   "dendro"
+  ],
+  "aschesturm": [
+   "feuer",
+   "wind",
+   "erde",
+   "schatten"
+  ],
+  "seelenmagie": [
+   "licht",
+   "schatten"
+  ],
+  "teleport": [
+   "licht",
+   "elektro"
+  ]
+ },
+ "hinweis": "Geschoss/Strahl fliegen nach rechts. Kreis liegt unter den Füßen. Aura-Zelle 26x30 passt mittig über eine Figur (Füße unten). Säule fällt von oben auf den Zielpunkt (unten Mitte)."
+}

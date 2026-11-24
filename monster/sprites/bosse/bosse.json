@@ -1,0 +1,305 @@
+{
+ "hinweis": "Blick nach rechts. \"bruellen\" = Phasenwechsel (Boss wird wütend, rote Aura). \"benommen\" = Schwachstelle nach genug Treffern. Bodenpunkt = Füße/Mitte.",
+ "bosse": {
+  "Glutvater": {
+   "datei": "glutvater.png",
+   "bild": [
+    443,
+    178
+   ],
+   "bodenpunkt": [
+    162,
+    173
+   ],
+   "animationen": {
+    "idle": 6,
+    "bewegen": 8,
+    "angriff_nah": 8,
+    "angriff_spezial": 10,
+    "bruellen": 8,
+    "benommen": 6,
+    "treffer": 3,
+    "tod": 12
+   },
+   "element": "feuer",
+   "lebensraum": "Unter Glutgrat",
+   "merkmal": "Urdrache des Feuers, schuf die Vulkaninsel",
+   "schwaeche": "Unbekannt"
+  },
+  "Frostmutter": {
+   "datei": "frostmutter.png",
+   "bild": [
+    443,
+    178
+   ],
+   "bodenpunkt": [
+    162,
+    173
+   ],
+   "animationen": {
+    "idle": 6,
+    "bewegen": 8,
+    "angriff_nah": 8,
+    "angriff_spezial": 10,
+    "bruellen": 8,
+    "benommen": 6,
+    "treffer": 3,
+    "tod": 12
+   },
+   "element": "eis",
+   "lebensraum": "Ewiges Eis",
+   "merkmal": "Urdrache des Eises, hält den Norden gefroren",
+   "schwaeche": "Feuer"
+  },
+  "Der Erste Tote": {
+   "datei": "der_erste_tote.png",
+   "bild": [
+    288,
+    187
+   ],
+   "bodenpunkt": [
+    102,
+    182
+   ],
+   "animationen": {
+    "idle": 6,
+    "bewegen": 8,
+    "angriff_nah": 8,
+    "angriff_spezial": 10,
+    "bruellen": 8,
+    "benommen": 6,
+    "treffer": 3,
+    "tod": 12
+   },
+   "element": "schatten",
+   "lebensraum": "Vergessene Gräber",
+   "merkmal": "Der erste Untote der Welt",
+   "schwaeche": "Seine Seelenvase"
+  },
+  "Hydrenkönig": {
+   "datei": "hydrenkoenig.png",
+   "bild": [
+    365,
+    184
+   ],
+   "bodenpunkt": [
+    162,
+    179
+   ],
+   "animationen": {
+    "idle": 6,
+    "bewegen": 8,
+    "angriff_nah": 8,
+    "angriff_spezial": 10,
+    "bruellen": 8,
+    "benommen": 6,
+    "treffer": 3,
+    "tod": 12
+   },
+   "element": "arkan",
+   "lebensraum": "Moorgrund",
+   "merkmal": "Die Zahl seiner Köpfe kennt niemand",
+   "schwaeche": "Feuer"
+  },
+  "Geisterkaiser": {
+   "datei": "geisterkaiser.png",
+   "bild": [
+    291,
+    185
+   ],
+   "bodenpunkt": [
+    96,
+    180
+   ],
+   "animationen": {
+    "idle": 6,
+    "bewegen": 8,
+    "angriff_nah": 8,
+    "angriff_spezial": 10,
+    "bruellen": 8,
+    "benommen": 6,
+    "treffer": 3,
+    "tod": 12
+   },
+   "element": "wasser",
+   "lebensraum": "Hohe See",
+   "merkmal": "Befiehlt alle Ertrunkenen",
+   "schwaeche": "Licht"
+  },
+  "Krakenkönig": {
+   "datei": "krakenkoenig.png",
+   "bild": [
+    420,
+    179
+   ],
+   "bodenpunkt": [
+    112,
+    174
+   ],
+   "animationen": {
+    "idle": 6,
+    "bewegen": 8,
+    "angriff_nah": 8,
+    "angriff_spezial": 10,
+    "bruellen": 8,
+    "benommen": 6,
+    "treffer": 3,
+    "tod": 12
+   },
+   "element": "wasser",
+   "lebensraum": "Tiefsee",
+   "merkmal": "Arme so lang wie Flüsse",
+   "schwaeche": "Elektro"
+  },
+  "Schattenschleim-Mutter": {
+   "datei": "schattenschleim_mutter.png",
+   "bild": [
+    356,
+    187
+   ],
+   "bodenpunkt": [
+    123,
+    182
+   ],
+   "animationen": {
+    "idle": 6,
+    "bewegen": 8,
+    "angriff_nah": 8,
+    "angriff_spezial": 10,
+    "bruellen": 8,
+    "benommen": 6,
+    "treffer": 3,
+    "tod": 12
+   },
+   "element": "schatten",
+   "lebensraum": "SS-Dungeons",
+   "merkmal": "Mutter aller Schattenschleime",
+   "schwaeche": "Licht"
+  },
+  "Höllentitan": {
+   "datei": "hoellentitan.png",
+   "bild": [
+    288,
+    180
+   ],
+   "bodenpunkt": [
+    102,
+    175
+   ],
+   "animationen": {
+    "idle": 6,
+    "bewegen": 8,
+    "angriff_nah": 8,
+    "angriff_spezial": 10,
+    "bruellen": 8,
+    "benommen": 6,
+    "treffer": 3,
+    "tod": 12
+   },
+   "element": "feuer",
+   "lebensraum": "Eisernes Dornenreich",
+   "merkmal": "Dämonischer Riese",
+   "schwaeche": "Licht"
+  },
+  "Weltenbaum-Wächter": {
+   "datei": "weltenbaum_waechter.png",
+   "bild": [
+    300,
+    180
+   ],
+   "bodenpunkt": [
+    90,
+    175
+   ],
+   "animationen": {
+    "idle": 6,
+    "bewegen": 8,
+    "angriff_nah": 8,
+    "angriff_spezial": 10,
+    "bruellen": 8,
+    "benommen": 6,
+    "treffer": 3,
+    "tod": 12
+   },
+   "element": "arkan",
+   "lebensraum": "Unbekannt",
+   "merkmal": "Hüter eines Baumes, den niemand gefunden hat",
+   "schwaeche": "Unbekannt"
+  },
+  "Ur-Phönix": {
+   "datei": "ur_phoenix.png",
+   "bild": [
+    357,
+    180
+   ],
+   "bodenpunkt": [
+    138,
+    175
+   ],
+   "animationen": {
+    "idle": 6,
+    "bewegen": 8,
+    "angriff_nah": 8,
+    "angriff_spezial": 10,
+    "bruellen": 8,
+    "benommen": 6,
+    "treffer": 3,
+    "tod": 12
+   },
+   "element": "feuer",
+   "lebensraum": "Himmel",
+   "merkmal": "Seine Wiedergeburt verbrennt Länder",
+   "schwaeche": "Unbekannt"
+  },
+  "Gletschertitan": {
+   "datei": "gletschertitan.png",
+   "bild": [
+    288,
+    180
+   ],
+   "bodenpunkt": [
+    102,
+    175
+   ],
+   "animationen": {
+    "idle": 6,
+    "bewegen": 8,
+    "angriff_nah": 8,
+    "angriff_spezial": 10,
+    "bruellen": 8,
+    "benommen": 6,
+    "treffer": 3,
+    "tod": 12
+   },
+   "element": "eis",
+   "lebensraum": "Ewiges Eis",
+   "merkmal": "Ganze Gebirge sind sein Körper",
+   "schwaeche": "Feuer"
+  },
+  "Erinnerungsschlund": {
+   "datei": "erinnerungsschlund.png",
+   "bild": [
+    351,
+    180
+   ],
+   "bodenpunkt": [
+    132,
+    175
+   ],
+   "animationen": {
+    "idle": 6,
+    "bewegen": 8,
+    "angriff_nah": 8,
+    "angriff_spezial": 10,
+    "bruellen": 8,
+    "benommen": 6,
+    "treffer": 3,
+    "tod": 12
+   },
+   "element": "arkan",
+   "lebensraum": "Erinnerungs-Dungeons",
+   "merkmal": "Frißt die Erinnerung ganzer Städte",
+   "schwaeche": "Unbekannt"
+  }
+ }
+}

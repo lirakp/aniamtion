@@ -1,0 +1,4592 @@
+{
+ "Dampfstoß": {
+  "datei": "feuer/dampfstoss.png",
+  "kapitel": "Feuer",
+  "stufe": "Zweiklang",
+  "elemente": "Feuer + Wasser",
+  "wirkung": "Kochender Dampfstrahl, verbrüht und nimmt die Sicht.",
+  "form": "strahl",
+  "variante": "dampf",
+  "bilder": 10,
+  "bild": [
+   64,
+   48
+  ],
+  "anker": "linie",
+  "schleife_ab": null
+ },
+ "Glutranke": {
+  "datei": "feuer/glutranke.png",
+  "kapitel": "Feuer",
+  "stufe": "Zweiklang",
+  "elemente": "Feuer + Dendro",
+  "wirkung": "Brennende Ranke peitscht und setzt das Ziel in Brand.",
+  "form": "ranke",
+  "variante": "peitsche",
+  "bilder": 10,
+  "bild": [
+   64,
+   48
+  ],
+  "anker": "ziel",
+  "schleife_ab": null
+ },
+ "Flammenwirbel": {
+  "datei": "feuer/flammenwirbel.png",
+  "kapitel": "Feuer",
+  "stufe": "Zweiklang",
+  "elemente": "Feuer + Wind",
+  "wirkung": "Feuerwind kreist um den Zaubernden, Schild und Waffe zugleich.",
+  "form": "wirbel",
+  "variante": "umkreis",
+  "bilder": 10,
+  "bild": [
+   64,
+   48
+  ],
+  "anker": "flaeche",
+  "schleife_ab": 3
+ },
+ "Lavafaust": {
+  "datei": "feuer/lavafaust.png",
+  "kapitel": "Feuer",
+  "stufe": "Zweiklang",
+  "elemente": "Feuer + Erde",
+  "wirkung": "Faust aus glühendem Gestein, zerschlägt Schilde.",
+  "form": "geschoss",
+  "variante": "faust",
+  "bilder": 10,
+  "bild": [
+   64,
+   48
+  ],
+  "anker": "linie",
+  "schleife_ab": null
+ },
+ "Funkenregen": {
+  "datei": "feuer/funkenregen.png",
+  "kapitel": "Feuer",
+  "stufe": "Zweiklang",
+  "elemente": "Feuer + Elektro",
+  "wirkung": "Prasselnde Funken blenden und erhitzen Metallrüstung.",
+  "form": "regen",
+  "variante": "funken",
+  "bilder": 10,
+  "bild": [
+   64,
+   48
+  ],
+  "anker": "flaeche",
+  "schleife_ab": null
+ },
+ "Höllenglut": {
+  "datei": "feuer/hoellenglut.png",
+  "kapitel": "Feuer",
+  "stufe": "Zweiklang",
+  "elemente": "Feuer + Schatten",
+  "wirkung": "Schwarze Flamme, die kein Wasser löscht.",
+  "form": "geschoss",
+  "variante": "flamme",
+  "bilder": 10,
+  "bild": [
+   64,
+   48
+  ],
+  "anker": "linie",
+  "schleife_ab": null
+ },
+ "Sonnenlanze": {
+  "datei": "feuer/sonnenlanze.png",
+  "kapitel": "Feuer",
+  "stufe": "Zweiklang",
+  "elemente": "Feuer + Licht",
+  "wirkung": "Gebündelter Lichtstrahl, brennt Löcher in Untote.",
+  "form": "strahl",
+  "variante": "lanze",
+  "bilder": 10,
+  "bild": [
+   64,
+   48
+  ],
+  "anker": "linie",
+  "schleife_ab": null
+ },
+ "Siedendes Blut": {
+  "datei": "feuer/siedendes_blut.png",
+  "kapitel": "Feuer",
+  "stufe": "Zweiklang",
+  "elemente": "Feuer + Wasser",
+  "wirkung": "Erhitzt das Blut des Ziels und schwächt es von innen.",
+  "form": "fluch",
+  "variante": "blut",
+  "bilder": 10,
+  "bild": [
+   64,
+   48
+  ],
+  "anker": "ziel",
+  "schleife_ab": null
+ },
+ "Aschenschleier": {
+  "datei": "feuer/aschenschleier.png",
+  "kapitel": "Feuer",
+  "stufe": "Zweiklang",
+  "elemente": "Feuer + Schatten",
+  "wirkung": "Rauchwolke aus Asche verbirgt einen ganzen Trupp.",
+  "form": "wolke",
+  "variante": "rauch",
+  "bilder": 10,
+  "bild": [
+   64,
+   48
+  ],
+  "anker": "flaeche",
+  "schleife_ab": 4
+ },
+ "Frostbrand": {
+  "datei": "feuer/frostbrand.png",
+  "kapitel": "Feuer",
+  "stufe": "Zweiklang · Bruchklang",
+  "elemente": "Feuer + Eis",
+  "wirkung": "Flamme und Frost prallen aufeinander; Explosion mit unberechenbarer Reichweite.",
+  "form": "explosion",
+  "variante": "",
+  "bilder": 10,
+  "bild": [
+   64,
+   48
+  ],
+  "anker": "flaeche",
+  "schleife_ab": null
+ },
+ "Vulkanherz": {
+  "datei": "feuer/vulkanherz.png",
+  "kapitel": "Feuer",
+  "stufe": "Dreiklang",
+  "elemente": "Feuer + Erde + Wasser",
+  "wirkung": "Kochender Schlamm bricht aus dem Boden.",
+  "form": "boden",
+  "variante": "schlamm",
+  "bilder": 10,
+  "bild": [
+   80,
+   56
+  ],
+  "anker": "flaeche",
+  "schleife_ab": 4
+ },
+ "Feuersturm": {
+  "datei": "feuer/feuersturm.png",
+  "kapitel": "Feuer",
+  "stufe": "Dreiklang",
+  "elemente": "Feuer + Wind + Elektro",
+  "wirkung": "Flammensturm mit Blitzen, verwüstet ganze Hallen.",
+  "form": "wirbel",
+  "variante": "",
+  "bilder": 10,
+  "bild": [
+   80,
+   56
+  ],
+  "anker": "flaeche",
+  "schleife_ab": 3
+ },
+ "Phönixflamme": {
+  "datei": "feuer/phoenixflamme.png",
+  "kapitel": "Feuer",
+  "stufe": "Dreiklang",
+  "elemente": "Feuer + Licht + Dendro",
+  "wirkung": "Heilendes Feuer brennt Gift und Fäulnis aus Wunden.",
+  "form": "heilung",
+  "variante": "feuer",
+  "bilder": 10,
+  "bild": [
+   80,
+   56
+  ],
+  "anker": "ziel",
+  "schleife_ab": null
+ },
+ "Schwarzbrand": {
+  "datei": "feuer/schwarzbrand.png",
+  "kapitel": "Feuer",
+  "stufe": "Dreiklang",
+  "elemente": "Feuer + Schatten + Wind",
+  "wirkung": "Unsichtbare Hitzewelle; Opfer verbrennen ohne sichtbare Flamme.",
+  "form": "welle",
+  "variante": "hitze",
+  "bilder": 10,
+  "bild": [
+   80,
+   56
+  ],
+  "anker": "linie",
+  "schleife_ab": null
+ },
+ "Glutwald": {
+  "datei": "feuer/glutwald.png",
+  "kapitel": "Feuer",
+  "stufe": "Dreiklang",
+  "elemente": "Feuer + Dendro + Erde",
+  "wirkung": "Bäume aus glühender Kohle bilden eine Barrikade.",
+  "form": "wall",
+  "variante": "baeume",
+  "bilder": 10,
+  "bild": [
+   80,
+   56
+  ],
+  "anker": "ziel",
+  "schleife_ab": 5
+ },
+ "Sonnenwächter": {
+  "datei": "feuer/sonnenwaechter.png",
+  "kapitel": "Feuer",
+  "stufe": "Dreiklang",
+  "elemente": "Feuer + Licht + Erde",
+  "wirkung": "Glühender Steinkoloss kämpft einige Minuten an der Seite des Zaubernden.",
+  "form": "beschwoerung",
+  "variante": "golem",
+  "bilder": 10,
+  "bild": [
+   80,
+   56
+  ],
+  "anker": "ziel",
+  "schleife_ab": null
+ },
+ "Blitzschmelze": {
+  "datei": "feuer/blitzschmelze.png",
+  "kapitel": "Feuer",
+  "stufe": "Dreiklang",
+  "elemente": "Feuer + Elektro + Erde",
+  "wirkung": "Schmilzt Erz und Metall in Sekunden; Klingen werden weich.",
+  "form": "waffe",
+  "variante": "schmelze",
+  "bilder": 10,
+  "bild": [
+   80,
+   56
+  ],
+  "anker": "zaubernder",
+  "schleife_ab": null
+ },
+ "Rauchgeister": {
+  "datei": "feuer/rauchgeister.png",
+  "kapitel": "Feuer",
+  "stufe": "Dreiklang",
+  "elemente": "Feuer + Schatten + Dendro",
+  "wirkung": "Brennende Schattengestalten jagen ein einzelnes Ziel.",
+  "form": "beschwoerung",
+  "variante": "gestalten",
+  "bilder": 10,
+  "bild": [
+   80,
+   56
+  ],
+  "anker": "ziel",
+  "schleife_ab": null
+ },
+ "Dampfkessel": {
+  "datei": "feuer/dampfkessel.png",
+  "kapitel": "Feuer",
+  "stufe": "Dreiklang",
+  "elemente": "Feuer + Wasser + Wind",
+  "wirkung": "Druckwelle aus heißem Dampf schleudert Gegner davon.",
+  "form": "ring",
+  "variante": "druck",
+  "bilder": 10,
+  "bild": [
+   80,
+   56
+  ],
+  "anker": "zaubernder",
+  "schleife_ab": null
+ },
+ "Ascheregen": {
+  "datei": "feuer/ascheregen.png",
+  "kapitel": "Feuer",
+  "stufe": "Dreiklang",
+  "elemente": "Feuer + Erde + Schatten",
+  "wirkung": "Glühende Asche fällt vom Himmel und brennt durch Leder.",
+  "form": "regen",
+  "variante": "asche",
+  "bilder": 10,
+  "bild": [
+   80,
+   56
+  ],
+  "anker": "flaeche",
+  "schleife_ab": null
+ },
+ "Aschesturm": {
+  "datei": "feuer/aschesturm.png",
+  "kapitel": "Feuer",
+  "stufe": "Vierklang · Bruchklang",
+  "elemente": "Feuer + Wind + Erde + Schatten",
+  "wirkung": "Sturm aus glühender Asche und Dunkelheit, verschlingt ein Schlachtfeld.",
+  "form": "wirbel",
+  "variante": "gross",
+  "bilder": 10,
+  "bild": [
+   96,
+   64
+  ],
+  "anker": "flaeche",
+  "schleife_ab": 3
+ },
+ "Sonnenfall": {
+  "datei": "feuer/sonnenfall.png",
+  "kapitel": "Feuer",
+  "stufe": "Vierklang",
+  "elemente": "Feuer + Licht + Wind + Elektro",
+  "wirkung": "Säule aus Licht und Feuer vom Himmel, löscht Dungeon-Brut aus.",
+  "form": "saeule",
+  "variante": "",
+  "bilder": 10,
+  "bild": [
+   96,
+   64
+  ],
+  "anker": "ziel",
+  "schleife_ab": null
+ },
+ "Weltenbrand": {
+  "datei": "feuer/weltenbrand.png",
+  "kapitel": "Feuer",
+  "stufe": "Vierklang",
+  "elemente": "Feuer + Erde + Dendro + Schatten",
+  "wirkung": "Feuer kriecht unterirdisch und verbrennt die Wurzeln ganzer Wälder.",
+  "form": "beben",
+  "variante": "feuer",
+  "bilder": 10,
+  "bild": [
+   96,
+   64
+  ],
+  "anker": "flaeche",
+  "schleife_ab": null
+ },
+ "Lebensfeuer": {
+  "datei": "feuer/lebensfeuer.png",
+  "kapitel": "Feuer",
+  "stufe": "Vierklang",
+  "elemente": "Feuer + Licht + Dendro + Wasser",
+  "wirkung": "Heilt Verbrannte und lässt Asche wieder zu fruchtbarem Boden werden.",
+  "form": "heilung",
+  "variante": "feuer",
+  "bilder": 10,
+  "bild": [
+   96,
+   64
+  ],
+  "anker": "ziel",
+  "schleife_ab": null
+ },
+ "Gewitterofen": {
+  "datei": "feuer/gewitterofen.png",
+  "kapitel": "Feuer",
+  "stufe": "Vierklang",
+  "elemente": "Feuer + Elektro + Wind + Dendro",
+  "wirkung": "Flächenfeuer mit Blitzschlägen und brennendem Pollen.",
+  "form": "regen",
+  "variante": "blitze",
+  "bilder": 10,
+  "bild": [
+   96,
+   64
+  ],
+  "anker": "flaeche",
+  "schleife_ab": null
+ },
+ "Glutmeer": {
+  "datei": "feuer/glutmeer.png",
+  "kapitel": "Feuer",
+  "stufe": "Vierklang",
+  "elemente": "Feuer + Wasser + Erde + Schatten",
+  "wirkung": "Lavasee, unter dessen Oberfläche Schattenhände greifen.",
+  "form": "boden",
+  "variante": "haende",
+  "bilder": 10,
+  "bild": [
+   96,
+   64
+  ],
+  "anker": "flaeche",
+  "schleife_ab": 4
+ },
+ "Drachenatem": {
+  "datei": "feuer/drachenatem.png",
+  "kapitel": "Feuer",
+  "stufe": "Vierklang",
+  "elemente": "Feuer + Wind + Schatten + Dendro",
+  "wirkung": "Kegel aus schwarzem Feuer, 50 Schritt weit.",
+  "form": "kegel",
+  "variante": "",
+  "bilder": 10,
+  "bild": [
+   96,
+   64
+  ],
+  "anker": "linie",
+  "schleife_ab": null
+ },
+ "Götterschmiede": {
+  "datei": "feuer/goetterschmiede.png",
+  "kapitel": "Feuer",
+  "stufe": "Vierklang",
+  "elemente": "Feuer + Erde + Elektro + Licht",
+  "wirkung": "Schmiedet für eine Stunde eine Waffe mit der Kraft von Rang-S-Ausrüstung.",
+  "form": "waffe",
+  "variante": "",
+  "bilder": 10,
+  "bild": [
+   96,
+   64
+  ],
+  "anker": "zaubernder",
+  "schleife_ab": null
+ },
+ "Ewige Glut": {
+  "datei": "feuer/ewige_glut.png",
+  "kapitel": "Feuer",
+  "stufe": "Vierklang",
+  "elemente": "Feuer + Erde + Dendro + Licht",
+  "wirkung": "Flamme, die einen Ort jahrelang wärmt und vor Kälte und Brut schützt.",
+  "form": "feld",
+  "variante": "flamme",
+  "bilder": 10,
+  "bild": [
+   96,
+   64
+  ],
+  "anker": "flaeche",
+  "schleife_ab": 3
+ },
+ "Sternenbruch": {
+  "datei": "feuer/sternenbruch.png",
+  "kapitel": "Feuer",
+  "stufe": "Vierklang · Bruchklang",
+  "elemente": "Feuer + Eis + Licht + Elektro",
+  "wirkung": "Gegensätze reißen auf; zerstört alles im Umkreis, oft auch den Zaubernden.",
+  "form": "explosion",
+  "variante": "gross",
+  "bilder": 10,
+  "bild": [
+   96,
+   64
+  ],
+  "anker": "flaeche",
+  "schleife_ab": null
+ },
+ "Frostlanze": {
+  "datei": "eis/frostlanze.png",
+  "kapitel": "Eis",
+  "stufe": "Zweiklang",
+  "elemente": "Eis + Wasser",
+  "wirkung": "Speer aus Eis, der die Wunde gefrieren lässt.",
+  "form": "geschoss",
+  "variante": "lanze",
+  "bilder": 10,
+  "bild": [
+   64,
+   48
+  ],
+  "anker": "linie",
+  "schleife_ab": null
+ },
+ "Eisgarten": {
+  "datei": "eis/eisgarten.png",
+  "kapitel": "Eis",
+  "stufe": "Zweiklang",
+  "elemente": "Eis + Dendro",
+  "wirkung": "Gefrorene Pflanzen mit messerscharfen Blättern als Falle.",
+  "form": "wachstum",
+  "variante": "eis",
+  "bilder": 10,
+  "bild": [
+   64,
+   48
+  ],
+  "anker": "flaeche",
+  "schleife_ab": 7
+ },
+ "Schneesturm": {
+  "datei": "eis/schneesturm.png",
+  "kapitel": "Eis",
+  "stufe": "Zweiklang",
+  "elemente": "Eis + Wind",
+  "wirkung": "Kalter Sturm, der jede Sicht raubt.",
+  "form": "wolke",
+  "variante": "sturm",
+  "bilder": 10,
+  "bild": [
+   64,
+   48
+  ],
+  "anker": "flaeche",
+  "schleife_ab": 4
+ },
+ "Gletscherwall": {
+  "datei": "eis/gletscherwall.png",
+  "kapitel": "Eis",
+  "stufe": "Zweiklang",
+  "elemente": "Eis + Erde",
+  "wirkung": "Mauer aus Eis und Fels.",
+  "form": "wall",
+  "variante": "eis",
+  "bilder": 10,
+  "bild": [
+   64,
+   48
+  ],
+  "anker": "ziel",
+  "schleife_ab": 5
+ },
+ "Frostfunke": {
+  "datei": "eis/frostfunke.png",
+  "kapitel": "Eis",
+  "stufe": "Zweiklang",
+  "elemente": "Eis + Elektro",
+  "wirkung": "Leitende Eisnadeln tragen Blitze ins Ziel.",
+  "form": "geschoss",
+  "variante": "nadeln",
+  "bilder": 10,
+  "bild": [
+   64,
+   48
+  ],
+  "anker": "linie",
+  "schleife_ab": null
+ },
+ "Grabfrost": {
+  "datei": "eis/grabfrost.png",
+  "kapitel": "Eis",
+  "stufe": "Zweiklang",
+  "elemente": "Eis + Schatten",
+  "wirkung": "Kälte, die Angst einflößt und Glieder lähmt.",
+  "form": "fluch",
+  "variante": "",
+  "bilder": 10,
+  "bild": [
+   64,
+   48
+  ],
+  "anker": "ziel",
+  "schleife_ab": null
+ },
+ "Prismenschild": {
+  "datei": "eis/prismenschild.png",
+  "kapitel": "Eis",
+  "stufe": "Zweiklang",
+  "elemente": "Eis + Licht",
+  "wirkung": "Eisschild, der Lichtzauber bricht und zurückwirft.",
+  "form": "kuppel",
+  "variante": "schild",
+  "bilder": 10,
+  "bild": [
+   64,
+   48
+  ],
+  "anker": "zaubernder",
+  "schleife_ab": 4
+ },
+ "Raureif": {
+  "datei": "eis/raureif.png",
+  "kapitel": "Eis",
+  "stufe": "Zweiklang",
+  "elemente": "Eis + Wind",
+  "wirkung": "Eisiger Hauch macht Bögen und Sehnen spröde.",
+  "form": "kegel",
+  "variante": "",
+  "bilder": 10,
+  "bild": [
+   64,
+   48
+  ],
+  "anker": "linie",
+  "schleife_ab": null
+ },
+ "Eisspiegel": {
+  "datei": "eis/eisspiegel.png",
+  "kapitel": "Eis",
+  "stufe": "Zweiklang",
+  "elemente": "Eis + Wasser",
+  "wirkung": "Gefrorene Wasserfläche zeigt, was am anderen Ufer geschieht.",
+  "form": "feld",
+  "variante": "spiegel",
+  "bilder": 10,
+  "bild": [
+   64,
+   48
+  ],
+  "anker": "flaeche",
+  "schleife_ab": 3
+ },
+ "Kältebiss": {
+  "datei": "eis/kaeltebiss.png",
+  "kapitel": "Eis",
+  "stufe": "Zweiklang",
+  "elemente": "Eis + Schatten",
+  "wirkung": "Unsichtbarer Frost beißt aus dem Schatten des Ziels.",
+  "form": "fluch",
+  "variante": "biss",
+  "bilder": 10,
+  "bild": [
+   64,
+   48
+  ],
+  "anker": "ziel",
+  "schleife_ab": null
+ },
+ "Frostgewitter": {
+  "datei": "eis/frostgewitter.png",
+  "kapitel": "Eis",
+  "stufe": "Dreiklang",
+  "elemente": "Eis + Wind + Elektro",
+  "wirkung": "Hagelsturm mit Blitzen über einer ganzen Fläche.",
+  "form": "regen",
+  "variante": "hagel",
+  "bilder": 10,
+  "bild": [
+   80,
+   56
+  ],
+  "anker": "flaeche",
+  "schleife_ab": null
+ },
+ "Eissarg": {
+  "datei": "eis/eissarg.png",
+  "kapitel": "Eis",
+  "stufe": "Dreiklang",
+  "elemente": "Eis + Wasser + Schatten",
+  "wirkung": "Schließt ein Ziel in schwarzes Eis; es überlebt darin tagelang.",
+  "form": "gefaengnis",
+  "variante": "sarg",
+  "bilder": 10,
+  "bild": [
+   80,
+   56
+  ],
+  "anker": "ziel",
+  "schleife_ab": null
+ },
+ "Kristallwald": {
+  "datei": "eis/kristallwald.png",
+  "kapitel": "Eis",
+  "stufe": "Dreiklang",
+  "elemente": "Eis + Erde + Dendro",
+  "wirkung": "Wald aus Eiskristallen, verlangsamt alle darin.",
+  "form": "wachstum",
+  "variante": "kristall",
+  "bilder": 10,
+  "bild": [
+   80,
+   56
+  ],
+  "anker": "flaeche",
+  "schleife_ab": 7
+ },
+ "Polarlicht": {
+  "datei": "eis/polarlicht.png",
+  "kapitel": "Eis",
+  "stufe": "Dreiklang",
+  "elemente": "Eis + Licht + Wind",
+  "wirkung": "Schimmernder Himmel, unter dem Untote erstarren.",
+  "form": "himmel",
+  "variante": "polarlicht",
+  "bilder": 10,
+  "bild": [
+   80,
+   56
+  ],
+  "anker": "flaeche",
+  "schleife_ab": 4
+ },
+ "Lawine": {
+  "datei": "eis/lawine.png",
+  "kapitel": "Eis",
+  "stufe": "Dreiklang · Bruchklang",
+  "elemente": "Eis + Erde + Wind",
+  "wirkung": "Löst eine Lawine aus, oft auch über dem Zaubernden.",
+  "form": "welle",
+  "variante": "lawine",
+  "bilder": 10,
+  "bild": [
+   80,
+   56
+  ],
+  "anker": "linie",
+  "schleife_ab": null
+ },
+ "Frostblut": {
+  "datei": "eis/frostblut.png",
+  "kapitel": "Eis",
+  "stufe": "Dreiklang",
+  "elemente": "Eis + Wasser + Dendro",
+  "wirkung": "Verlangsamt den Herzschlag und bewahrt Schwerverletzte vor dem Verbluten.",
+  "form": "heilung",
+  "variante": "",
+  "bilder": 10,
+  "bild": [
+   80,
+   56
+  ],
+  "anker": "ziel",
+  "schleife_ab": null
+ },
+ "Eisgolem": {
+  "datei": "eis/eisgolem.png",
+  "kapitel": "Eis",
+  "stufe": "Dreiklang",
+  "elemente": "Eis + Erde + Licht",
+  "wirkung": "Beschwört einen Wächter aus Eis und Fels.",
+  "form": "beschwoerung",
+  "variante": "golem",
+  "bilder": 10,
+  "bild": [
+   80,
+   56
+  ],
+  "anker": "ziel",
+  "schleife_ab": null
+ },
+ "Spiegelsaal": {
+  "datei": "eis/spiegelsaal.png",
+  "kapitel": "Eis",
+  "stufe": "Dreiklang",
+  "elemente": "Eis + Licht + Wasser",
+  "wirkung": "Eiswände voller Trugbilder verwirren Verfolger.",
+  "form": "wall",
+  "variante": "spiegel",
+  "bilder": 10,
+  "bild": [
+   80,
+   56
+  ],
+  "anker": "ziel",
+  "schleife_ab": 5
+ },
+ "Schattenhagel": {
+  "datei": "eis/schattenhagel.png",
+  "kapitel": "Eis",
+  "stufe": "Dreiklang",
+  "elemente": "Eis + Schatten + Wind",
+  "wirkung": "Schwarze Hagelkörner durchschlagen Mana-Schilde.",
+  "form": "regen",
+  "variante": "hagel",
+  "bilder": 10,
+  "bild": [
+   80,
+   56
+  ],
+  "anker": "flaeche",
+  "schleife_ab": null
+ },
+ "Blitzeis": {
+  "datei": "eis/blitzeis.png",
+  "kapitel": "Eis",
+  "stufe": "Dreiklang",
+  "elemente": "Eis + Elektro + Erde",
+  "wirkung": "Gefrorener Boden leitet Stromschläge zu jedem, der ihn betritt.",
+  "form": "feld",
+  "variante": "blitz",
+  "bilder": 10,
+  "bild": [
+   80,
+   56
+  ],
+  "anker": "flaeche",
+  "schleife_ab": 3
+ },
+ "Ewiger Winter": {
+  "datei": "eis/ewiger_winter.png",
+  "kapitel": "Eis",
+  "stufe": "Vierklang",
+  "elemente": "Eis + Wind + Wasser + Schatten",
+  "wirkung": "Lässt eine Region monatelang einfrieren.",
+  "form": "himmel",
+  "variante": "winter",
+  "bilder": 10,
+  "bild": [
+   96,
+   64
+  ],
+  "anker": "flaeche",
+  "schleife_ab": 4
+ },
+ "Kristallkathedrale": {
+  "datei": "eis/kristallkathedrale.png",
+  "kapitel": "Eis",
+  "stufe": "Vierklang",
+  "elemente": "Eis + Licht + Erde + Wasser",
+  "wirkung": "Schutzbau aus Eis, hält einen Dungeon-Ausbruch auf.",
+  "form": "kuppel",
+  "variante": "gross",
+  "bilder": 10,
+  "bild": [
+   96,
+   64
+  ],
+  "anker": "zaubernder",
+  "schleife_ab": 4
+ },
+ "Weißer Tod": {
+  "datei": "eis/weisser_tod.png",
+  "kapitel": "Eis",
+  "stufe": "Vierklang",
+  "elemente": "Eis + Wind + Schatten + Elektro",
+  "wirkung": "Sturm, der allem Lebenden die Wärme raubt.",
+  "form": "wirbel",
+  "variante": "gross",
+  "bilder": 10,
+  "bild": [
+   96,
+   64
+  ],
+  "anker": "flaeche",
+  "schleife_ab": 3
+ },
+ "Ewiger Schlaf": {
+  "datei": "eis/ewiger_schlaf.png",
+  "kapitel": "Eis",
+  "stufe": "Vierklang",
+  "elemente": "Eis + Wasser + Licht + Dendro",
+  "wirkung": "Konserviert einen Körper wochenlang unverändert, bis Hilfe kommt.",
+  "form": "gefaengnis",
+  "variante": "kristall",
+  "bilder": 10,
+  "bild": [
+   96,
+   64
+  ],
+  "anker": "ziel",
+  "schleife_ab": null
+ },
+ "Gletscherherz": {
+  "datei": "eis/gletscherherz.png",
+  "kapitel": "Eis",
+  "stufe": "Vierklang",
+  "elemente": "Eis + Erde + Dendro + Schatten",
+  "wirkung": "Eis unter dem Boden zieht Feinde in die Tiefe.",
+  "form": "boden",
+  "variante": "eis",
+  "bilder": 10,
+  "bild": [
+   96,
+   64
+  ],
+  "anker": "flaeche",
+  "schleife_ab": 4
+ },
+ "Frostdrache": {
+  "datei": "eis/frostdrache.png",
+  "kapitel": "Eis",
+  "stufe": "Vierklang",
+  "elemente": "Eis + Wind + Licht + Elektro",
+  "wirkung": "Wesen aus Eis und Blitz, das eine Stunde lang kämpft.",
+  "form": "beschwoerung",
+  "variante": "drache",
+  "bilder": 10,
+  "bild": [
+   96,
+   64
+  ],
+  "anker": "ziel",
+  "schleife_ab": null
+ },
+ "Eismeer": {
+  "datei": "eis/eismeer.png",
+  "kapitel": "Eis",
+  "stufe": "Vierklang · Bruchklang",
+  "elemente": "Eis + Wasser + Erde + Elektro",
+  "wirkung": "Gefriert eine Bucht; Stromschläge brechen das Eis unberechenbar auf.",
+  "form": "boden",
+  "variante": "eis",
+  "bilder": 10,
+  "bild": [
+   96,
+   64
+  ],
+  "anker": "flaeche",
+  "schleife_ab": 4
+ },
+ "Diamantstaub": {
+  "datei": "eis/diamantstaub.png",
+  "kapitel": "Eis",
+  "stufe": "Vierklang",
+  "elemente": "Eis + Erde + Licht + Elektro",
+  "wirkung": "Wolke aus Eisdiamanten, die schneidet und blendet.",
+  "form": "wolke",
+  "variante": "glitzer",
+  "bilder": 10,
+  "bild": [
+   96,
+   64
+  ],
+  "anker": "flaeche",
+  "schleife_ab": 4
+ },
+ "Seelenfrost": {
+  "datei": "eis/seelenfrost.png",
+  "kapitel": "Eis",
+  "stufe": "Vierklang",
+  "elemente": "Eis + Schatten + Wasser + Dendro",
+  "wirkung": "Friert die Erinnerung eines Ziels ein; es vergisst die letzte Stunde.",
+  "form": "fluch",
+  "variante": "",
+  "bilder": 10,
+  "bild": [
+   96,
+   64
+  ],
+  "anker": "ziel",
+  "schleife_ab": null
+ },
+ "Nordwacht": {
+  "datei": "eis/nordwacht.png",
+  "kapitel": "Eis",
+  "stufe": "Vierklang",
+  "elemente": "Eis + Licht + Dendro + Wind",
+  "wirkung": "Frostbarriere um ein Lager, warnt bei Eindringlingen.",
+  "form": "wall",
+  "variante": "wind",
+  "bilder": 10,
+  "bild": [
+   96,
+   64
+  ],
+  "anker": "ziel",
+  "schleife_ab": 5
+ },
+ "Flutwelle": {
+  "datei": "wasser/flutwelle.png",
+  "kapitel": "Wasser",
+  "stufe": "Zweiklang",
+  "elemente": "Wasser + Wind",
+  "wirkung": "Wasserwand schwemmt Gegner fort.",
+  "form": "welle",
+  "variante": "",
+  "bilder": 10,
+  "bild": [
+   64,
+   48
+  ],
+  "anker": "linie",
+  "schleife_ab": null
+ },
+ "Schlammfalle": {
+  "datei": "wasser/schlammfalle.png",
+  "kapitel": "Wasser",
+  "stufe": "Zweiklang",
+  "elemente": "Wasser + Erde",
+  "wirkung": "Boden wird zu zähem Schlamm.",
+  "form": "boden",
+  "variante": "schlamm",
+  "bilder": 10,
+  "bild": [
+   64,
+   48
+  ],
+  "anker": "flaeche",
+  "schleife_ab": 4
+ },
+ "Lebensquell": {
+  "datei": "wasser/lebensquell.png",
+  "kapitel": "Wasser",
+  "stufe": "Zweiklang",
+  "elemente": "Wasser + Dendro",
+  "wirkung": "Lässt Pflanzen in Minuten wachsen; Nahrung für einen Trupp.",
+  "form": "wachstum",
+  "variante": "pflanzen",
+  "bilder": 10,
+  "bild": [
+   64,
+   48
+  ],
+  "anker": "flaeche",
+  "schleife_ab": 7
+ },
+ "Tiefendruck": {
+  "datei": "wasser/tiefendruck.png",
+  "kapitel": "Wasser",
+  "stufe": "Zweiklang",
+  "elemente": "Wasser + Schatten",
+  "wirkung": "Wasserkugel um den Kopf des Ziels; Ertrinken an Land.",
+  "form": "fluch",
+  "variante": "blase",
+  "bilder": 10,
+  "bild": [
+   64,
+   48
+  ],
+  "anker": "ziel",
+  "schleife_ab": null
+ },
+ "Läuterquell": {
+  "datei": "wasser/laeuterquell.png",
+  "kapitel": "Wasser",
+  "stufe": "Zweiklang",
+  "elemente": "Wasser + Licht",
+  "wirkung": "Reinigt Wasser von Gift und Fluch.",
+  "form": "heilung",
+  "variante": "reinigung",
+  "bilder": 10,
+  "bild": [
+   64,
+   48
+  ],
+  "anker": "ziel",
+  "schleife_ab": null
+ },
+ "Nebelbank": {
+  "datei": "wasser/nebelbank.png",
+  "kapitel": "Wasser",
+  "stufe": "Zweiklang",
+  "elemente": "Wasser + Wind",
+  "wirkung": "Dichter Nebel über einer großen Fläche.",
+  "form": "wolke",
+  "variante": "nebel",
+  "bilder": 10,
+  "bild": [
+   64,
+   48
+  ],
+  "anker": "flaeche",
+  "schleife_ab": 4
+ },
+ "Heißquelle": {
+  "datei": "wasser/heissquelle.png",
+  "kapitel": "Wasser",
+  "stufe": "Zweiklang",
+  "elemente": "Wasser + Feuer",
+  "wirkung": "Warme Quelle im Lager, heilt Erschöpfung.",
+  "form": "boden",
+  "variante": "quelle",
+  "bilder": 10,
+  "bild": [
+   64,
+   48
+  ],
+  "anker": "flaeche",
+  "schleife_ab": 4
+ },
+ "Eisregen": {
+  "datei": "wasser/eisregen.png",
+  "kapitel": "Wasser",
+  "stufe": "Zweiklang",
+  "elemente": "Wasser + Eis",
+  "wirkung": "Regen, der beim Aufprall gefriert.",
+  "form": "regen",
+  "variante": "hagel",
+  "bilder": 10,
+  "bild": [
+   64,
+   48
+  ],
+  "anker": "flaeche",
+  "schleife_ab": null
+ },
+ "Wasserpeitsche": {
+  "datei": "wasser/wasserpeitsche.png",
+  "kapitel": "Wasser",
+  "stufe": "Zweiklang",
+  "elemente": "Wasser + Dendro",
+  "wirkung": "Peitsche aus Wasser und Ranken, entwaffnet.",
+  "form": "ranke",
+  "variante": "peitsche",
+  "bilder": 10,
+  "bild": [
+   64,
+   48
+  ],
+  "anker": "ziel",
+  "schleife_ab": null
+ },
+ "Stromschnelle": {
+  "datei": "wasser/stromschnelle.png",
+  "kapitel": "Wasser",
+  "stufe": "Zweiklang · Bruchklang",
+  "elemente": "Wasser + Elektro",
+  "wirkung": "Geladenes Wasser trifft alle darin, auch Verbündete.",
+  "form": "welle",
+  "variante": "blitz",
+  "bilder": 10,
+  "bild": [
+   64,
+   48
+  ],
+  "anker": "linie",
+  "schleife_ab": null
+ },
+ "Sumpfgrab": {
+  "datei": "wasser/sumpfgrab.png",
+  "kapitel": "Wasser",
+  "stufe": "Dreiklang",
+  "elemente": "Wasser + Erde + Dendro",
+  "wirkung": "Zieht Gegner in ein Moor.",
+  "form": "boden",
+  "variante": "sumpf",
+  "bilder": 10,
+  "bild": [
+   80,
+   56
+  ],
+  "anker": "flaeche",
+  "schleife_ab": 4
+ },
+ "Mahlstrom": {
+  "datei": "wasser/mahlstrom.png",
+  "kapitel": "Wasser",
+  "stufe": "Dreiklang",
+  "elemente": "Wasser + Wind + Schatten",
+  "wirkung": "Strudel, der in die Dunkelheit zieht.",
+  "form": "wirbel",
+  "variante": "strudel",
+  "bilder": 10,
+  "bild": [
+   80,
+   56
+  ],
+  "anker": "flaeche",
+  "schleife_ab": 3
+ },
+ "Regenbogenheilung": {
+  "datei": "wasser/regenbogenheilung.png",
+  "kapitel": "Wasser",
+  "stufe": "Dreiklang",
+  "elemente": "Wasser + Licht + Dendro",
+  "wirkung": "Heilt mehrere Verletzte zugleich und schließt tiefe Wunden.",
+  "form": "heilung",
+  "variante": "regenbogen",
+  "bilder": 10,
+  "bild": [
+   80,
+   56
+  ],
+  "anker": "ziel",
+  "schleife_ab": null
+ },
+ "Geysirfeld": {
+  "datei": "wasser/geysirfeld.png",
+  "kapitel": "Wasser",
+  "stufe": "Dreiklang",
+  "elemente": "Wasser + Feuer + Erde",
+  "wirkung": "Kochende Fontänen schießen aus dem Boden.",
+  "form": "boden",
+  "variante": "geysir",
+  "bilder": 10,
+  "bild": [
+   80,
+   56
+  ],
+  "anker": "flaeche",
+  "schleife_ab": 4
+ },
+ "Blutwasser": {
+  "datei": "wasser/blutwasser.png",
+  "kapitel": "Wasser",
+  "stufe": "Dreiklang",
+  "elemente": "Wasser + Schatten + Dendro",
+  "wirkung": "Vergiftet einen Brunnen mit schleichender Fäulnis.",
+  "form": "fluch",
+  "variante": "",
+  "bilder": 10,
+  "bild": [
+   80,
+   56
+  ],
+  "anker": "ziel",
+  "schleife_ab": null
+ },
+ "Gezeitenruf": {
+  "datei": "wasser/gezeitenruf.png",
+  "kapitel": "Wasser",
+  "stufe": "Dreiklang",
+  "elemente": "Wasser + Wind + Licht",
+  "wirkung": "Hebt das Wasser einer Bucht für Schiffe oder Flucht.",
+  "form": "welle",
+  "variante": "gross",
+  "bilder": 10,
+  "bild": [
+   80,
+   56
+  ],
+  "anker": "linie",
+  "schleife_ab": null
+ },
+ "Frostflut": {
+  "datei": "wasser/frostflut.png",
+  "kapitel": "Wasser",
+  "stufe": "Dreiklang",
+  "elemente": "Wasser + Eis + Erde",
+  "wirkung": "Welle, die gefriert und als Mauer stehen bleibt.",
+  "form": "welle",
+  "variante": "gefriert",
+  "bilder": 10,
+  "bild": [
+   80,
+   56
+  ],
+  "anker": "linie",
+  "schleife_ab": null
+ },
+ "Tränen der Göttin": {
+  "datei": "wasser/traenen_der_goettin.png",
+  "kapitel": "Wasser",
+  "stufe": "Dreiklang",
+  "elemente": "Wasser + Licht + Eis",
+  "wirkung": "Kristalltropfen, die leichte Flüche lösen.",
+  "form": "regen",
+  "variante": "traenen",
+  "bilder": 10,
+  "bild": [
+   80,
+   56
+  ],
+  "anker": "flaeche",
+  "schleife_ab": null
+ },
+ "Wellengrab": {
+  "datei": "wasser/wellengrab.png",
+  "kapitel": "Wasser",
+  "stufe": "Dreiklang",
+  "elemente": "Wasser + Erde + Schatten",
+  "wirkung": "Unterirdischer See verschluckt einen Trupp.",
+  "form": "boden",
+  "variante": "see",
+  "bilder": 10,
+  "bild": [
+   80,
+   56
+  ],
+  "anker": "flaeche",
+  "schleife_ab": 4
+ },
+ "Nebelwandler": {
+  "datei": "wasser/nebelwandler.png",
+  "kapitel": "Wasser",
+  "stufe": "Dreiklang",
+  "elemente": "Wasser + Wind + Dendro",
+  "wirkung": "Der Zaubernde wird zu Nebel und gleitet durch Ritzen.",
+  "form": "aura",
+  "variante": "nebel",
+  "bilder": 10,
+  "bild": [
+   80,
+   56
+  ],
+  "anker": "zaubernder",
+  "schleife_ab": 3
+ },
+ "Sintflut": {
+  "datei": "wasser/sintflut.png",
+  "kapitel": "Wasser",
+  "stufe": "Vierklang · Bruchklang",
+  "elemente": "Wasser + Wind + Erde + Schatten",
+  "wirkung": "Wolkenbruch und Erdbeben zugleich; ganze Dörfer versinken.",
+  "form": "regen",
+  "variante": "sintflut",
+  "bilder": 10,
+  "bild": [
+   96,
+   64
+  ],
+  "anker": "flaeche",
+  "schleife_ab": null
+ },
+ "Ewige Quelle": {
+  "datei": "wasser/ewige_quelle.png",
+  "kapitel": "Wasser",
+  "stufe": "Vierklang",
+  "elemente": "Wasser + Licht + Dendro + Eis",
+  "wirkung": "Erweckt einen versiegten Fluss wieder zum Leben.",
+  "form": "boden",
+  "variante": "quelle",
+  "bilder": 10,
+  "bild": [
+   96,
+   64
+  ],
+  "anker": "flaeche",
+  "schleife_ab": 4
+ },
+ "Tiefseekönig": {
+  "datei": "wasser/tiefseekoenig.png",
+  "kapitel": "Wasser",
+  "stufe": "Vierklang",
+  "elemente": "Wasser + Schatten + Eis + Wind",
+  "wirkung": "Beschwört ein Meeresungeheuer aus dunklem Eis.",
+  "form": "beschwoerung",
+  "variante": "ungeheuer",
+  "bilder": 10,
+  "bild": [
+   96,
+   64
+  ],
+  "anker": "ziel",
+  "schleife_ab": null
+ },
+ "Mondflut": {
+  "datei": "wasser/mondflut.png",
+  "kapitel": "Wasser",
+  "stufe": "Vierklang",
+  "elemente": "Wasser + Licht + Wind + Feuer",
+  "wirkung": "Leuchtende Flut spült Dämonen aus Höhlen.",
+  "form": "welle",
+  "variante": "gross",
+  "bilder": 10,
+  "bild": [
+   96,
+   64
+  ],
+  "anker": "linie",
+  "schleife_ab": null
+ },
+ "Ozeanschild": {
+  "datei": "wasser/ozeanschild.png",
+  "kapitel": "Wasser",
+  "stufe": "Vierklang",
+  "elemente": "Wasser + Erde + Eis + Licht",
+  "wirkung": "Kuppel aus Wasser und Eis, hält einer Belagerung stand.",
+  "form": "kuppel",
+  "variante": "",
+  "bilder": 10,
+  "bild": [
+   96,
+   64
+  ],
+  "anker": "zaubernder",
+  "schleife_ab": 4
+ },
+ "Fäulnisstrom": {
+  "datei": "wasser/faeulnisstrom.png",
+  "kapitel": "Wasser",
+  "stufe": "Vierklang",
+  "elemente": "Wasser + Dendro + Schatten + Erde",
+  "wirkung": "Fluss aus Moder, lässt Felder sterben.",
+  "form": "boden",
+  "variante": "faeulnis",
+  "bilder": 10,
+  "bild": [
+   96,
+   64
+  ],
+  "anker": "flaeche",
+  "schleife_ab": 4
+ },
+ "Tropensturm": {
+  "datei": "wasser/tropensturm.png",
+  "kapitel": "Wasser",
+  "stufe": "Vierklang",
+  "elemente": "Wasser + Wind + Feuer + Dendro",
+  "wirkung": "Warmer Sturmregen lässt Dschungel wachsen und erstickt Feinde in Ranken.",
+  "form": "regen",
+  "variante": "ranken",
+  "bilder": 10,
+  "bild": [
+   96,
+   64
+  ],
+  "anker": "flaeche",
+  "schleife_ab": null
+ },
+ "Totenmoor": {
+  "datei": "wasser/totenmoor.png",
+  "kapitel": "Wasser",
+  "stufe": "Vierklang",
+  "elemente": "Wasser + Eis + Schatten + Dendro",
+  "wirkung": "Gefrorener Sumpf, in dem Gefallene als Wächter aufstehen.",
+  "form": "beschwoerung",
+  "variante": "untote",
+  "bilder": 10,
+  "bild": [
+   96,
+   64
+  ],
+  "anker": "ziel",
+  "schleife_ab": null
+ },
+ "Lebensstrom": {
+  "datei": "wasser/lebensstrom.png",
+  "kapitel": "Wasser",
+  "stufe": "Vierklang",
+  "elemente": "Wasser + Licht + Wind + Dendro",
+  "wirkung": "Heilender Regen über einem ganzen Schlachtfeld.",
+  "form": "regen",
+  "variante": "heilung",
+  "bilder": 10,
+  "bild": [
+   96,
+   64
+  ],
+  "anker": "flaeche",
+  "schleife_ab": null
+ },
+ "Nebelreich": {
+  "datei": "wasser/nebelreich.png",
+  "kapitel": "Wasser",
+  "stufe": "Vierklang",
+  "elemente": "Wasser + Wind + Schatten + Feuer",
+  "wirkung": "Warmer Nebel über einer Stadt, in dem sich jeder verirrt.",
+  "form": "wolke",
+  "variante": "nebel",
+  "bilder": 10,
+  "bild": [
+   96,
+   64
+  ],
+  "anker": "flaeche",
+  "schleife_ab": 4
+ },
+ "Dornenwall": {
+  "datei": "erde/dornenwall.png",
+  "kapitel": "Erde",
+  "stufe": "Zweiklang",
+  "elemente": "Erde + Dendro",
+  "wirkung": "Wall aus Dornen, hält Angreifer auf.",
+  "form": "wall",
+  "variante": "dornen",
+  "bilder": 10,
+  "bild": [
+   64,
+   48
+  ],
+  "anker": "ziel",
+  "schleife_ab": 5
+ },
+ "Magmaspalt": {
+  "datei": "erde/magmaspalt.png",
+  "kapitel": "Erde",
+  "stufe": "Zweiklang",
+  "elemente": "Erde + Feuer",
+  "wirkung": "Riss im Boden voller Glut.",
+  "form": "boden",
+  "variante": "riss",
+  "bilder": 10,
+  "bild": [
+   64,
+   48
+  ],
+  "anker": "flaeche",
+  "schleife_ab": 4
+ },
+ "Staubbeben": {
+  "datei": "erde/staubbeben.png",
+  "kapitel": "Erde",
+  "stufe": "Zweiklang · Bruchklang",
+  "elemente": "Erde + Wind",
+  "wirkung": "Beben mit Sandsturm; zerreißt die Manakanäle des Zaubernden.",
+  "form": "beben",
+  "variante": "staub",
+  "bilder": 10,
+  "bild": [
+   64,
+   48
+  ],
+  "anker": "flaeche",
+  "schleife_ab": null
+ },
+ "Kristallschild": {
+  "datei": "erde/kristallschild.png",
+  "kapitel": "Erde",
+  "stufe": "Zweiklang",
+  "elemente": "Erde + Licht",
+  "wirkung": "Leuchtender Schild aus Kristall.",
+  "form": "kuppel",
+  "variante": "schild",
+  "bilder": 10,
+  "bild": [
+   64,
+   48
+  ],
+  "anker": "zaubernder",
+  "schleife_ab": 4
+ },
+ "Grabesboden": {
+  "datei": "erde/grabesboden.png",
+  "kapitel": "Erde",
+  "stufe": "Zweiklang",
+  "elemente": "Erde + Schatten",
+  "wirkung": "Boden schluckt jeden Schritt; lautloses Gehen.",
+  "form": "feld",
+  "variante": "",
+  "bilder": 10,
+  "bild": [
+   64,
+   48
+  ],
+  "anker": "flaeche",
+  "schleife_ab": 3
+ },
+ "Lehmkugel": {
+  "datei": "erde/lehmkugel.png",
+  "kapitel": "Erde",
+  "stufe": "Zweiklang",
+  "elemente": "Erde + Wasser",
+  "wirkung": "Schwere Lehmkugel betäubt das Ziel.",
+  "form": "geschoss",
+  "variante": "stein",
+  "bilder": 10,
+  "bild": [
+   64,
+   48
+  ],
+  "anker": "linie",
+  "schleife_ab": null
+ },
+ "Magnetstein": {
+  "datei": "erde/magnetstein.png",
+  "kapitel": "Erde",
+  "stufe": "Zweiklang",
+  "elemente": "Erde + Elektro",
+  "wirkung": "Zieht Metallwaffen aus den Händen.",
+  "form": "feld",
+  "variante": "magnet",
+  "bilder": 10,
+  "bild": [
+   64,
+   48
+  ],
+  "anker": "flaeche",
+  "schleife_ab": 3
+ },
+ "Permafrost": {
+  "datei": "erde/permafrost.png",
+  "kapitel": "Erde",
+  "stufe": "Zweiklang",
+  "elemente": "Erde + Eis",
+  "wirkung": "Boden gefriert, Füße stecken fest.",
+  "form": "boden",
+  "variante": "eis",
+  "bilder": 10,
+  "bild": [
+   64,
+   48
+  ],
+  "anker": "flaeche",
+  "schleife_ab": 4
+ },
+ "Wurzelgriff": {
+  "datei": "erde/wurzelgriff.png",
+  "kapitel": "Erde",
+  "stufe": "Zweiklang",
+  "elemente": "Erde + Dendro",
+  "wirkung": "Wurzeln halten ein Ziel fest.",
+  "form": "ranke",
+  "variante": "wurzel",
+  "bilder": 10,
+  "bild": [
+   64,
+   48
+  ],
+  "anker": "ziel",
+  "schleife_ab": null
+ },
+ "Erzsinn": {
+  "datei": "erde/erzsinn.png",
+  "kapitel": "Erde",
+  "stufe": "Zweiklang",
+  "elemente": "Erde + Elektro",
+  "wirkung": "Spürt Erzadern und Kristalle tief im Fels.",
+  "form": "feld",
+  "variante": "puls",
+  "bilder": 10,
+  "bild": [
+   64,
+   48
+  ],
+  "anker": "flaeche",
+  "schleife_ab": 3
+ },
+ "Felsengolem": {
+  "datei": "erde/felsengolem.png",
+  "kapitel": "Erde",
+  "stufe": "Dreiklang",
+  "elemente": "Erde + Dendro + Licht",
+  "wirkung": "Beschwört einen Golem aus Fels und Moos.",
+  "form": "beschwoerung",
+  "variante": "golem",
+  "bilder": 10,
+  "bild": [
+   80,
+   56
+  ],
+  "anker": "ziel",
+  "schleife_ab": null
+ },
+ "Steinregen": {
+  "datei": "erde/steinregen.png",
+  "kapitel": "Erde",
+  "stufe": "Dreiklang",
+  "elemente": "Erde + Licht + Elektro",
+  "wirkung": "Leuchtende Felsbrocken fallen; beim Aufprall schlagen Blitze ein.",
+  "form": "regen",
+  "variante": "steine",
+  "bilder": 10,
+  "bild": [
+   80,
+   56
+  ],
+  "anker": "flaeche",
+  "schleife_ab": null
+ },
+ "Labyrinth": {
+  "datei": "erde/labyrinth.png",
+  "kapitel": "Erde",
+  "stufe": "Dreiklang",
+  "elemente": "Erde + Schatten + Dendro",
+  "wirkung": "Erschafft einen Irrgarten aus Fels und Hecken.",
+  "form": "wall",
+  "variante": "labyrinth",
+  "bilder": 10,
+  "bild": [
+   80,
+   56
+  ],
+  "anker": "ziel",
+  "schleife_ab": 5
+ },
+ "Heilschlamm": {
+  "datei": "erde/heilschlamm.png",
+  "kapitel": "Erde",
+  "stufe": "Dreiklang",
+  "elemente": "Erde + Wasser + Licht",
+  "wirkung": "Mineralschlamm richtet Knochenbrüche.",
+  "form": "heilung",
+  "variante": "",
+  "bilder": 10,
+  "bild": [
+   80,
+   56
+  ],
+  "anker": "ziel",
+  "schleife_ab": null
+ },
+ "Treibsand": {
+  "datei": "erde/treibsand.png",
+  "kapitel": "Erde",
+  "stufe": "Dreiklang",
+  "elemente": "Erde + Wasser + Schatten",
+  "wirkung": "Sandschlund verschluckt ein Ziel langsam.",
+  "form": "boden",
+  "variante": "treibsand",
+  "bilder": 10,
+  "bild": [
+   80,
+   56
+  ],
+  "anker": "flaeche",
+  "schleife_ab": 4
+ },
+ "Grabkammer": {
+  "datei": "erde/grabkammer.png",
+  "kapitel": "Erde",
+  "stufe": "Dreiklang",
+  "elemente": "Erde + Eis + Schatten",
+  "wirkung": "Versiegelt ein Ziel in einem eiskalten Steinsarg.",
+  "form": "gefaengnis",
+  "variante": "sarg",
+  "bilder": 10,
+  "bild": [
+   80,
+   56
+  ],
+  "anker": "ziel",
+  "schleife_ab": null
+ },
+ "Wurzelnetz": {
+  "datei": "erde/wurzelnetz.png",
+  "kapitel": "Erde",
+  "stufe": "Dreiklang",
+  "elemente": "Erde + Dendro + Elektro",
+  "wirkung": "Wurzeln leiten Blitze unterirdisch zum Ziel.",
+  "form": "blitz",
+  "variante": "boden",
+  "bilder": 10,
+  "bild": [
+   80,
+   56
+  ],
+  "anker": "linie",
+  "schleife_ab": null
+ },
+ "Erdenwacht": {
+  "datei": "erde/erdenwacht.png",
+  "kapitel": "Erde",
+  "stufe": "Dreiklang",
+  "elemente": "Erde + Elektro + Schatten",
+  "wirkung": "Spürt Bewegung unter der Erde, warnt vor Dungeon-Brut.",
+  "form": "feld",
+  "variante": "puls",
+  "bilder": 10,
+  "bild": [
+   80,
+   56
+  ],
+  "anker": "flaeche",
+  "schleife_ab": 3
+ },
+ "Bergsprenger": {
+  "datei": "erde/bergsprenger.png",
+  "kapitel": "Erde",
+  "stufe": "Dreiklang",
+  "elemente": "Erde + Feuer + Wasser",
+  "wirkung": "Dampf und Glut sprengen Tunnel durch den Fels.",
+  "form": "explosion",
+  "variante": "",
+  "bilder": 10,
+  "bild": [
+   80,
+   56
+  ],
+  "anker": "flaeche",
+  "schleife_ab": null
+ },
+ "Erdheilung": {
+  "datei": "erde/erdheilung.png",
+  "kapitel": "Erde",
+  "stufe": "Dreiklang",
+  "elemente": "Erde + Dendro + Licht",
+  "wirkung": "Macht vergifteten oder verbrannten Boden wieder fruchtbar.",
+  "form": "heilung",
+  "variante": "boden",
+  "bilder": 10,
+  "bild": [
+   80,
+   56
+  ],
+  "anker": "ziel",
+  "schleife_ab": null
+ },
+ "Bergerwachen": {
+  "datei": "erde/bergerwachen.png",
+  "kapitel": "Erde",
+  "stufe": "Vierklang",
+  "elemente": "Erde + Feuer + Schatten + Dendro",
+  "wirkung": "Ein Hügel steht auf und kämpft eine Stunde als Titan.",
+  "form": "beschwoerung",
+  "variante": "titan",
+  "bilder": 10,
+  "bild": [
+   96,
+   64
+  ],
+  "anker": "ziel",
+  "schleife_ab": null
+ },
+ "Zerreißer": {
+  "datei": "erde/zerreisser.png",
+  "kapitel": "Erde",
+  "stufe": "Vierklang · Bruchklang",
+  "elemente": "Erde + Wind + Elektro + Feuer",
+  "wirkung": "Erdbeben mit Blitzsturm, nach Sekunden nicht mehr zu kontrollieren.",
+  "form": "beben",
+  "variante": "blitz",
+  "bilder": 10,
+  "bild": [
+   96,
+   64
+  ],
+  "anker": "flaeche",
+  "schleife_ab": null
+ },
+ "Kristallfestung": {
+  "datei": "erde/kristallfestung.png",
+  "kapitel": "Erde",
+  "stufe": "Vierklang",
+  "elemente": "Erde + Licht + Eis + Dendro",
+  "wirkung": "Festung aus Kristall, in Minuten errichtet.",
+  "form": "wachstum",
+  "variante": "kristall",
+  "bilder": 10,
+  "bild": [
+   96,
+   64
+  ],
+  "anker": "flaeche",
+  "schleife_ab": 7
+ },
+ "Unterweltschlund": {
+  "datei": "erde/unterweltschlund.png",
+  "kapitel": "Erde",
+  "stufe": "Vierklang",
+  "elemente": "Erde + Schatten + Feuer + Wasser",
+  "wirkung": "Öffnet einen Schlund in tiefe Höhlensysteme.",
+  "form": "portal",
+  "variante": "schlund",
+  "bilder": 10,
+  "bild": [
+   96,
+   64
+  ],
+  "anker": "ziel",
+  "schleife_ab": null
+ },
+ "Weltenwurzel": {
+  "datei": "erde/weltenwurzel.png",
+  "kapitel": "Erde",
+  "stufe": "Vierklang",
+  "elemente": "Erde + Dendro + Wasser + Licht",
+  "wirkung": "Ein Riesenbaum wächst und schützt ein Dorf.",
+  "form": "wachstum",
+  "variante": "baum",
+  "bilder": 10,
+  "bild": [
+   96,
+   64
+  ],
+  "anker": "flaeche",
+  "schleife_ab": 7
+ },
+ "Steinerne Armee": {
+  "datei": "erde/steinerne_armee.png",
+  "kapitel": "Erde",
+  "stufe": "Vierklang",
+  "elemente": "Erde + Licht + Elektro + Feuer",
+  "wirkung": "Zwanzig Steinkrieger erheben sich für eine Schlacht.",
+  "form": "beschwoerung",
+  "variante": "armee",
+  "bilder": 10,
+  "bild": [
+   96,
+   64
+  ],
+  "anker": "ziel",
+  "schleife_ab": null
+ },
+ "Grabesruhe": {
+  "datei": "erde/grabesruhe.png",
+  "kapitel": "Erde",
+  "stufe": "Vierklang",
+  "elemente": "Erde + Schatten + Eis + Dendro",
+  "wirkung": "Hält Tote in ihren Gräbern; verhindert Wiedergänger.",
+  "form": "feld",
+  "variante": "siegel",
+  "bilder": 10,
+  "bild": [
+   96,
+   64
+  ],
+  "anker": "flaeche",
+  "schleife_ab": 3
+ },
+ "Schwerkraftbann": {
+  "datei": "erde/schwerkraftbann.png",
+  "kapitel": "Erde",
+  "stufe": "Vierklang",
+  "elemente": "Erde + Elektro + Schatten + Eis",
+  "wirkung": "Drückt Gegner mit zehnfachem Gewicht zu Boden.",
+  "form": "gefaengnis",
+  "variante": "druck",
+  "bilder": 10,
+  "bild": [
+   96,
+   64
+  ],
+  "anker": "ziel",
+  "schleife_ab": null
+ },
+ "Lavastrom": {
+  "datei": "erde/lavastrom.png",
+  "kapitel": "Erde",
+  "stufe": "Vierklang",
+  "elemente": "Erde + Feuer + Wasser + Dendro",
+  "wirkung": "Fließende Lava, die beim Erkalten neues fruchtbares Land bildet.",
+  "form": "boden",
+  "variante": "lava",
+  "bilder": 10,
+  "bild": [
+   96,
+   64
+  ],
+  "anker": "flaeche",
+  "schleife_ab": 4
+ },
+ "Erdwall der Reiche": {
+  "datei": "erde/erdwall_der_reiche.png",
+  "kapitel": "Erde",
+  "stufe": "Vierklang",
+  "elemente": "Erde + Licht + Wasser + Eis",
+  "wirkung": "Grenzmauer, meilenlang, hält ein Jahr.",
+  "form": "wall",
+  "variante": "fels",
+  "bilder": 10,
+  "bild": [
+   96,
+   64
+  ],
+  "anker": "ziel",
+  "schleife_ab": 5
+ },
+ "Rankenfessel": {
+  "datei": "dendro/rankenfessel.png",
+  "kapitel": "Dendro",
+  "stufe": "Zweiklang",
+  "elemente": "Dendro + Erde",
+  "wirkung": "Ranken binden ein Ziel.",
+  "form": "ranke",
+  "variante": "",
+  "bilder": 10,
+  "bild": [
+   64,
+   48
+  ],
+  "anker": "ziel",
+  "schleife_ab": null
+ },
+ "Sporenwolke": {
+  "datei": "dendro/sporenwolke.png",
+  "kapitel": "Dendro",
+  "stufe": "Zweiklang",
+  "elemente": "Dendro + Wind",
+  "wirkung": "Betäubende Sporen über einer Fläche.",
+  "form": "wolke",
+  "variante": "sporen",
+  "bilder": 10,
+  "bild": [
+   64,
+   48
+  ],
+  "anker": "flaeche",
+  "schleife_ab": 4
+ },
+ "Heilkraut": {
+  "datei": "dendro/heilkraut.png",
+  "kapitel": "Dendro",
+  "stufe": "Zweiklang",
+  "elemente": "Dendro + Licht",
+  "wirkung": "Lässt Heilpflanzen sprießen.",
+  "form": "wachstum",
+  "variante": "blumen",
+  "bilder": 10,
+  "bild": [
+   64,
+   48
+  ],
+  "anker": "flaeche",
+  "schleife_ab": 7
+ },
+ "Giftdorn": {
+  "datei": "dendro/giftdorn.png",
+  "kapitel": "Dendro",
+  "stufe": "Zweiklang",
+  "elemente": "Dendro + Schatten",
+  "wirkung": "Dorn mit lähmendem Gift.",
+  "form": "geschoss",
+  "variante": "dorn",
+  "bilder": 10,
+  "bild": [
+   64,
+   48
+  ],
+  "anker": "linie",
+  "schleife_ab": null
+ },
+ "Blütenfeuer": {
+  "datei": "dendro/bluetenfeuer.png",
+  "kapitel": "Dendro",
+  "stufe": "Zweiklang",
+  "elemente": "Dendro + Feuer",
+  "wirkung": "Explodierende Samenkapseln.",
+  "form": "geschoss",
+  "variante": "samen",
+  "bilder": 10,
+  "bild": [
+   64,
+   48
+  ],
+  "anker": "linie",
+  "schleife_ab": null
+ },
+ "Mooskissen": {
+  "datei": "dendro/mooskissen.png",
+  "kapitel": "Dendro",
+  "stufe": "Zweiklang",
+  "elemente": "Dendro + Wasser",
+  "wirkung": "Weiches Moos fängt Stürze ab und kühlt Wunden.",
+  "form": "feld",
+  "variante": "moos",
+  "bilder": 10,
+  "bild": [
+   64,
+   48
+  ],
+  "anker": "flaeche",
+  "schleife_ab": 3
+ },
+ "Frostblüte": {
+  "datei": "dendro/frostbluete.png",
+  "kapitel": "Dendro",
+  "stufe": "Zweiklang",
+  "elemente": "Dendro + Eis",
+  "wirkung": "Eisblumen speichern Kälte und geben sie bei Berührung ab.",
+  "form": "wachstum",
+  "variante": "eis",
+  "bilder": 10,
+  "bild": [
+   64,
+   48
+  ],
+  "anker": "flaeche",
+  "schleife_ab": 7
+ },
+ "Nervenranke": {
+  "datei": "dendro/nervenranke.png",
+  "kapitel": "Dendro",
+  "stufe": "Zweiklang",
+  "elemente": "Dendro + Elektro",
+  "wirkung": "Ranke, die bei Berührung einen Stromschlag gibt.",
+  "form": "ranke",
+  "variante": "blitz",
+  "bilder": 10,
+  "bild": [
+   64,
+   48
+  ],
+  "anker": "ziel",
+  "schleife_ab": null
+ },
+ "Blätterschleier": {
+  "datei": "dendro/blaetterschleier.png",
+  "kapitel": "Dendro",
+  "stufe": "Zweiklang",
+  "elemente": "Dendro + Wind",
+  "wirkung": "Wirbelnde Blätter verbergen eine Flucht.",
+  "form": "wirbel",
+  "variante": "blaetter",
+  "bilder": 10,
+  "bild": [
+   64,
+   48
+  ],
+  "anker": "flaeche",
+  "schleife_ab": 3
+ },
+ "Wurzelsicht": {
+  "datei": "dendro/wurzelsicht.png",
+  "kapitel": "Dendro",
+  "stufe": "Zweiklang",
+  "elemente": "Dendro + Erde",
+  "wirkung": "Spürt alles, was den Waldboden betritt.",
+  "form": "feld",
+  "variante": "puls",
+  "bilder": 10,
+  "bild": [
+   64,
+   48
+  ],
+  "anker": "flaeche",
+  "schleife_ab": 3
+ },
+ "Würgewald": {
+  "datei": "dendro/wuergewald.png",
+  "kapitel": "Dendro",
+  "stufe": "Dreiklang",
+  "elemente": "Dendro + Erde + Schatten",
+  "wirkung": "Bäume greifen nach Eindringlingen.",
+  "form": "ranke",
+  "variante": "baeume",
+  "bilder": 10,
+  "bild": [
+   80,
+   56
+  ],
+  "anker": "ziel",
+  "schleife_ab": null
+ },
+ "Lebensbaum": {
+  "datei": "dendro/lebensbaum.png",
+  "kapitel": "Dendro",
+  "stufe": "Dreiklang",
+  "elemente": "Dendro + Licht + Wasser",
+  "wirkung": "Baum, dessen Früchte Wunden heilen.",
+  "form": "wachstum",
+  "variante": "baum",
+  "bilder": 10,
+  "bild": [
+   80,
+   56
+  ],
+  "anker": "flaeche",
+  "schleife_ab": 7
+ },
+ "Pollensturm": {
+  "datei": "dendro/pollensturm.png",
+  "kapitel": "Dendro",
+  "stufe": "Dreiklang",
+  "elemente": "Dendro + Wind + Feuer",
+  "wirkung": "Brennende Pollen treiben über das Feld.",
+  "form": "wolke",
+  "variante": "sporen",
+  "bilder": 10,
+  "bild": [
+   80,
+   56
+  ],
+  "anker": "flaeche",
+  "schleife_ab": 4
+ },
+ "Schlingblüte": {
+  "datei": "dendro/schlingbluete.png",
+  "kapitel": "Dendro",
+  "stufe": "Dreiklang",
+  "elemente": "Dendro + Wasser + Schatten",
+  "wirkung": "Riesige Pflanze verschlingt ein Ziel.",
+  "form": "wachstum",
+  "variante": "maul",
+  "bilder": 10,
+  "bild": [
+   80,
+   56
+  ],
+  "anker": "flaeche",
+  "schleife_ab": 7
+ },
+ "Dornenhagel": {
+  "datei": "dendro/dornenhagel.png",
+  "kapitel": "Dendro",
+  "stufe": "Dreiklang",
+  "elemente": "Dendro + Wind + Eis",
+  "wirkung": "Gefrorene Dornen regnen herab.",
+  "form": "regen",
+  "variante": "dornen",
+  "bilder": 10,
+  "bild": [
+   80,
+   56
+  ],
+  "anker": "flaeche",
+  "schleife_ab": null
+ },
+ "Blitzbaum": {
+  "datei": "dendro/blitzbaum.png",
+  "kapitel": "Dendro",
+  "stufe": "Dreiklang",
+  "elemente": "Dendro + Elektro + Erde",
+  "wirkung": "Baum zieht Blitze an und schützt ein Lager vor Gewittern.",
+  "form": "wachstum",
+  "variante": "blitzbaum",
+  "bilder": 10,
+  "bild": [
+   80,
+   56
+  ],
+  "anker": "flaeche",
+  "schleife_ab": 7
+ },
+ "Waldgeist": {
+  "datei": "dendro/waldgeist.png",
+  "kapitel": "Dendro",
+  "stufe": "Dreiklang",
+  "elemente": "Dendro + Licht + Wind",
+  "wirkung": "Beschwört einen schützenden Geist des Waldes.",
+  "form": "beschwoerung",
+  "variante": "geist",
+  "bilder": 10,
+  "bild": [
+   80,
+   56
+  ],
+  "anker": "ziel",
+  "schleife_ab": null
+ },
+ "Fäulnisfluch": {
+  "datei": "dendro/faeulnisfluch.png",
+  "kapitel": "Dendro",
+  "stufe": "Dreiklang",
+  "elemente": "Dendro + Schatten + Wasser",
+  "wirkung": "Lässt Holz, Leder und Seile verrotten.",
+  "form": "fluch",
+  "variante": "",
+  "bilder": 10,
+  "bild": [
+   80,
+   56
+  ],
+  "anker": "ziel",
+  "schleife_ab": null
+ },
+ "Lichtmoos": {
+  "datei": "dendro/lichtmoos.png",
+  "kapitel": "Dendro",
+  "stufe": "Dreiklang",
+  "elemente": "Dendro + Licht + Erde",
+  "wirkung": "Leuchtendes Moos in Dungeons, macht Fallen sichtbar.",
+  "form": "feld",
+  "variante": "moos",
+  "bilder": 10,
+  "bild": [
+   80,
+   56
+  ],
+  "anker": "flaeche",
+  "schleife_ab": 3
+ },
+ "Zwielichtblüte": {
+  "datei": "dendro/zwielichtbluete.png",
+  "kapitel": "Dendro",
+  "stufe": "Dreiklang · Bruchklang",
+  "elemente": "Dendro + Licht + Schatten",
+  "wirkung": "Ihr Duft heilt oder tötet; niemand weiß vorher, was.",
+  "form": "wachstum",
+  "variante": "blumen",
+  "bilder": 10,
+  "bild": [
+   80,
+   56
+  ],
+  "anker": "flaeche",
+  "schleife_ab": 7
+ },
+ "Urwald": {
+  "datei": "dendro/urwald.png",
+  "kapitel": "Dendro",
+  "stufe": "Vierklang",
+  "elemente": "Dendro + Erde + Wasser + Licht",
+  "wirkung": "Lässt in einer Nacht einen Wald wachsen.",
+  "form": "wachstum",
+  "variante": "wald",
+  "bilder": 10,
+  "bild": [
+   96,
+   64
+  ],
+  "anker": "flaeche",
+  "schleife_ab": 7
+ },
+ "Seuchengarten": {
+  "datei": "dendro/seuchengarten.png",
+  "kapitel": "Dendro",
+  "stufe": "Vierklang",
+  "elemente": "Dendro + Schatten + Wasser + Wind",
+  "wirkung": "Sporenfeld, das Krankheit verbreitet.",
+  "form": "wolke",
+  "variante": "sporen",
+  "bilder": 10,
+  "bild": [
+   96,
+   64
+  ],
+  "anker": "flaeche",
+  "schleife_ab": 4
+ },
+ "Hüterbaum": {
+  "datei": "dendro/hueterbaum.png",
+  "kapitel": "Dendro",
+  "stufe": "Vierklang",
+  "elemente": "Dendro + Erde + Licht + Elektro",
+  "wirkung": "Ein alter Baum erwacht als Wächter.",
+  "form": "beschwoerung",
+  "variante": "baum",
+  "bilder": 10,
+  "bild": [
+   96,
+   64
+  ],
+  "anker": "ziel",
+  "schleife_ab": null
+ },
+ "Dschungelsturm": {
+  "datei": "dendro/dschungelsturm.png",
+  "kapitel": "Dendro",
+  "stufe": "Vierklang",
+  "elemente": "Dendro + Wind + Wasser + Feuer",
+  "wirkung": "Heißer Regen und peitschende Ranken.",
+  "form": "regen",
+  "variante": "ranken",
+  "bilder": 10,
+  "bild": [
+   96,
+   64
+  ],
+  "anker": "flaeche",
+  "schleife_ab": null
+ },
+ "Dornenmeer": {
+  "datei": "dendro/dornenmeer.png",
+  "kapitel": "Dendro",
+  "stufe": "Vierklang",
+  "elemente": "Dendro + Erde + Schatten + Eis",
+  "wirkung": "Feld aus schwarzen Frostdornen.",
+  "form": "wachstum",
+  "variante": "dornen",
+  "bilder": 10,
+  "bild": [
+   96,
+   64
+  ],
+  "anker": "flaeche",
+  "schleife_ab": 7
+ },
+ "Blütenregen": {
+  "datei": "dendro/bluetenregen.png",
+  "kapitel": "Dendro",
+  "stufe": "Vierklang",
+  "elemente": "Dendro + Licht + Wind + Wasser",
+  "wirkung": "Heilt alle Verbündeten in Sichtweite leicht.",
+  "form": "regen",
+  "variante": "blueten",
+  "bilder": 10,
+  "bild": [
+   96,
+   64
+  ],
+  "anker": "flaeche",
+  "schleife_ab": null
+ },
+ "Wurzelreich": {
+  "datei": "dendro/wurzelreich.png",
+  "kapitel": "Dendro",
+  "stufe": "Vierklang",
+  "elemente": "Dendro + Erde + Elektro + Schatten",
+  "wirkung": "Wurzelnetz spürt Bewegung meilenweit.",
+  "form": "feld",
+  "variante": "puls",
+  "bilder": 10,
+  "bild": [
+   96,
+   64
+  ],
+  "anker": "flaeche",
+  "schleife_ab": 3
+ },
+ "Mondgarten": {
+  "datei": "dendro/mondgarten.png",
+  "kapitel": "Dendro",
+  "stufe": "Vierklang",
+  "elemente": "Dendro + Licht + Eis + Wasser",
+  "wirkung": "Garten, der nur nachts blüht und Flüche aufsaugt.",
+  "form": "wachstum",
+  "variante": "blumen",
+  "bilder": 10,
+  "bild": [
+   96,
+   64
+  ],
+  "anker": "flaeche",
+  "schleife_ab": 7
+ },
+ "Grüner Tod": {
+  "datei": "dendro/gruener_tod.png",
+  "kapitel": "Dendro",
+  "stufe": "Vierklang",
+  "elemente": "Dendro + Wind + Elektro + Schatten",
+  "wirkung": "Sporensturm mit Blitzen, lähmt ganze Trupps.",
+  "form": "wolke",
+  "variante": "sturm",
+  "bilder": 10,
+  "bild": [
+   96,
+   64
+  ],
+  "anker": "flaeche",
+  "schleife_ab": 4
+ },
+ "Wildwuchs": {
+  "datei": "dendro/wildwuchs.png",
+  "kapitel": "Dendro",
+  "stufe": "Vierklang · Bruchklang",
+  "elemente": "Dendro + Erde + Wind + Wasser",
+  "wirkung": "Ungezähmtes Wachstum; Pflanzen sprengen Mauern, auch die eigenen.",
+  "form": "wachstum",
+  "variante": "wald",
+  "bilder": 10,
+  "bild": [
+   96,
+   64
+  ],
+  "anker": "flaeche",
+  "schleife_ab": 7
+ },
+ "Stille": {
+  "datei": "wind/stille.png",
+  "kapitel": "Wind",
+  "stufe": "Zweiklang",
+  "elemente": "Wind + Schatten",
+  "wirkung": "Schluckt jedes Geräusch in einem Umkreis.",
+  "form": "ring",
+  "variante": "stille",
+  "bilder": 10,
+  "bild": [
+   64,
+   48
+  ],
+  "anker": "zaubernder",
+  "schleife_ab": null
+ },
+ "Windklinge": {
+  "datei": "wind/windklinge.png",
+  "kapitel": "Wind",
+  "stufe": "Zweiklang",
+  "elemente": "Wind + Eis",
+  "wirkung": "Eiskalte Schneide aus Wind.",
+  "form": "geschoss",
+  "variante": "klinge",
+  "bilder": 10,
+  "bild": [
+   64,
+   48
+  ],
+  "anker": "linie",
+  "schleife_ab": null
+ },
+ "Aufwind": {
+  "datei": "wind/aufwind.png",
+  "kapitel": "Wind",
+  "stufe": "Zweiklang",
+  "elemente": "Wind + Feuer",
+  "wirkung": "Heiße Luft hebt den Zaubernden für weite Sprünge.",
+  "form": "aura",
+  "variante": "schweben",
+  "bilder": 10,
+  "bild": [
+   64,
+   48
+  ],
+  "anker": "zaubernder",
+  "schleife_ab": 3
+ },
+ "Sandschleier": {
+  "datei": "wind/sandschleier.png",
+  "kapitel": "Wind",
+  "stufe": "Zweiklang · Bruchklang",
+  "elemente": "Wind + Erde",
+  "wirkung": "Sandsturm, der die Kanäle reizt; der Zaubernde hustet Blut.",
+  "form": "wirbel",
+  "variante": "",
+  "bilder": 10,
+  "bild": [
+   64,
+   48
+  ],
+  "anker": "flaeche",
+  "schleife_ab": 3
+ },
+ "Pollenbrise": {
+  "datei": "wind/pollenbrise.png",
+  "kapitel": "Wind",
+  "stufe": "Zweiklang",
+  "elemente": "Wind + Dendro",
+  "wirkung": "Beruhigt wilde Tiere.",
+  "form": "wolke",
+  "variante": "sporen",
+  "bilder": 10,
+  "bild": [
+   64,
+   48
+  ],
+  "anker": "flaeche",
+  "schleife_ab": 4
+ },
+ "Sturmstoß": {
+  "datei": "wind/sturmstoss.png",
+  "kapitel": "Wind",
+  "stufe": "Zweiklang",
+  "elemente": "Wind + Wasser",
+  "wirkung": "Böe voller Gischt stößt Gegner um.",
+  "form": "welle",
+  "variante": "wind",
+  "bilder": 10,
+  "bild": [
+   64,
+   48
+  ],
+  "anker": "linie",
+  "schleife_ab": null
+ },
+ "Flüsterwind": {
+  "datei": "wind/fluesterwind.png",
+  "kapitel": "Wind",
+  "stufe": "Zweiklang",
+  "elemente": "Wind + Licht",
+  "wirkung": "Trägt eine Botschaft zu einem Verbündeten in Sichtweite.",
+  "form": "geschoss",
+  "variante": "wisp",
+  "bilder": 10,
+  "bild": [
+   64,
+   48
+  ],
+  "anker": "linie",
+  "schleife_ab": null
+ },
+ "Federfall": {
+  "datei": "wind/federfall.png",
+  "kapitel": "Wind",
+  "stufe": "Zweiklang",
+  "elemente": "Wind + Dendro",
+  "wirkung": "Bremst einen Sturz.",
+  "form": "aura",
+  "variante": "federn",
+  "bilder": 10,
+  "bild": [
+   64,
+   48
+  ],
+  "anker": "zaubernder",
+  "schleife_ab": 3
+ },
+ "Rückenwind": {
+  "datei": "wind/rueckenwind.png",
+  "kapitel": "Wind",
+  "stufe": "Zweiklang",
+  "elemente": "Wind + Licht",
+  "wirkung": "Der Trupp läuft eine Stunde lang schneller.",
+  "form": "aura",
+  "variante": "tempo",
+  "bilder": 10,
+  "bild": [
+   64,
+   48
+  ],
+  "anker": "zaubernder",
+  "schleife_ab": 3
+ },
+ "Nachtwind": {
+  "datei": "wind/nachtwind.png",
+  "kapitel": "Wind",
+  "stufe": "Zweiklang",
+  "elemente": "Wind + Schatten",
+  "wirkung": "Löscht alle Fackeln in einem Raum.",
+  "form": "ring",
+  "variante": "stille",
+  "bilder": 10,
+  "bild": [
+   64,
+   48
+  ],
+  "anker": "zaubernder",
+  "schleife_ab": null
+ },
+ "Wirbelsturm": {
+  "datei": "wind/wirbelsturm.png",
+  "kapitel": "Wind",
+  "stufe": "Dreiklang",
+  "elemente": "Wind + Eis + Wasser",
+  "wirkung": "Trichter aus Wind und Eisregen.",
+  "form": "wirbel",
+  "variante": "",
+  "bilder": 10,
+  "bild": [
+   80,
+   56
+  ],
+  "anker": "flaeche",
+  "schleife_ab": 3
+ },
+ "Totenstille": {
+  "datei": "wind/totenstille.png",
+  "kapitel": "Wind",
+  "stufe": "Dreiklang",
+  "elemente": "Wind + Schatten + Eis",
+  "wirkung": "Stille und Kälte; Gegner können keine Formeln sprechen.",
+  "form": "ring",
+  "variante": "stille",
+  "bilder": 10,
+  "bild": [
+   80,
+   56
+  ],
+  "anker": "zaubernder",
+  "schleife_ab": null
+ },
+ "Luftgeist": {
+  "datei": "wind/luftgeist.png",
+  "kapitel": "Wind",
+  "stufe": "Dreiklang",
+  "elemente": "Wind + Licht + Dendro",
+  "wirkung": "Beschwört einen Geist, der Pfeile ablenkt.",
+  "form": "beschwoerung",
+  "variante": "geist",
+  "bilder": 10,
+  "bild": [
+   80,
+   56
+  ],
+  "anker": "ziel",
+  "schleife_ab": null
+ },
+ "Gewitterwolke": {
+  "datei": "wind/gewitterwolke.png",
+  "kapitel": "Wind",
+  "stufe": "Dreiklang · Bruchklang",
+  "elemente": "Wind + Elektro + Wasser",
+  "wirkung": "Wolke über dem Ziel; Blitze springen wahllos.",
+  "form": "himmel",
+  "variante": "gewitter",
+  "bilder": 10,
+  "bild": [
+   80,
+   56
+  ],
+  "anker": "flaeche",
+  "schleife_ab": 4
+ },
+ "Hitzeflimmern": {
+  "datei": "wind/hitzeflimmern.png",
+  "kapitel": "Wind",
+  "stufe": "Dreiklang",
+  "elemente": "Wind + Feuer + Schatten",
+  "wirkung": "Trugbilder in heißer Luft.",
+  "form": "aura",
+  "variante": "flimmern",
+  "bilder": 10,
+  "bild": [
+   80,
+   56
+  ],
+  "anker": "zaubernder",
+  "schleife_ab": 3
+ },
+ "Sturmpfeil": {
+  "datei": "wind/sturmpfeil.png",
+  "kapitel": "Wind",
+  "stufe": "Dreiklang",
+  "elemente": "Wind + Elektro + Licht",
+  "wirkung": "Verstärkt Pfeile und Wurfspeere mit Blitz und Licht.",
+  "form": "waffe",
+  "variante": "pfeil",
+  "bilder": 10,
+  "bild": [
+   80,
+   56
+  ],
+  "anker": "zaubernder",
+  "schleife_ab": null
+ },
+ "Atemraub": {
+  "datei": "wind/atemraub.png",
+  "kapitel": "Wind",
+  "stufe": "Dreiklang",
+  "elemente": "Wind + Schatten + Wasser",
+  "wirkung": "Nimmt die Luft aus den Lungen des Ziels.",
+  "form": "fluch",
+  "variante": "sog",
+  "bilder": 10,
+  "bild": [
+   80,
+   56
+  ],
+  "anker": "ziel",
+  "schleife_ab": null
+ },
+ "Wolkenpfad": {
+  "datei": "wind/wolkenpfad.png",
+  "kapitel": "Wind",
+  "stufe": "Dreiklang",
+  "elemente": "Wind + Wasser + Licht",
+  "wirkung": "Begehbare Wolkenbrücke für einige Minuten.",
+  "form": "wall",
+  "variante": "wolke",
+  "bilder": 10,
+  "bild": [
+   80,
+   56
+  ],
+  "anker": "ziel",
+  "schleife_ab": 5
+ },
+ "Sporensturm": {
+  "datei": "wind/sporensturm.png",
+  "kapitel": "Wind",
+  "stufe": "Dreiklang",
+  "elemente": "Wind + Dendro + Schatten",
+  "wirkung": "Schwarze Sporen machen für Minuten blind.",
+  "form": "wolke",
+  "variante": "sturm",
+  "bilder": 10,
+  "bild": [
+   80,
+   56
+  ],
+  "anker": "flaeche",
+  "schleife_ab": 4
+ },
+ "Klingenwind": {
+  "datei": "wind/klingenwind.png",
+  "kapitel": "Wind",
+  "stufe": "Dreiklang",
+  "elemente": "Wind + Eis + Elektro",
+  "wirkung": "Sturm aus geladenen Eissplittern.",
+  "form": "wirbel",
+  "variante": "klingen",
+  "bilder": 10,
+  "bild": [
+   80,
+   56
+  ],
+  "anker": "flaeche",
+  "schleife_ab": 3
+ },
+ "Orkan der Götter": {
+  "datei": "wind/orkan_der_goetter.png",
+  "kapitel": "Wind",
+  "stufe": "Vierklang",
+  "elemente": "Wind + Elektro + Licht + Feuer",
+  "wirkung": "Sturm über einer Stadt, hebt Dächer ab.",
+  "form": "wirbel",
+  "variante": "gross",
+  "bilder": 10,
+  "bild": [
+   96,
+   64
+  ],
+  "anker": "flaeche",
+  "schleife_ab": 3
+ },
+ "Sturmkrone": {
+  "datei": "wind/sturmkrone.png",
+  "kapitel": "Wind",
+  "stufe": "Vierklang",
+  "elemente": "Wind + Elektro + Eis + Schatten",
+  "wirkung": "Eine Sturmwolke folgt dem Zaubernden eine Stunde lang.",
+  "form": "himmel",
+  "variante": "gewitter",
+  "bilder": 10,
+  "bild": [
+   96,
+   64
+  ],
+  "anker": "flaeche",
+  "schleife_ab": 4
+ },
+ "Leerer Himmel": {
+  "datei": "wind/leerer_himmel.png",
+  "kapitel": "Wind",
+  "stufe": "Vierklang",
+  "elemente": "Wind + Schatten + Wasser + Eis",
+  "wirkung": "Entzieht einem Raum die Luft.",
+  "form": "ring",
+  "variante": "sog",
+  "bilder": 10,
+  "bild": [
+   96,
+   64
+  ],
+  "anker": "zaubernder",
+  "schleife_ab": null
+ },
+ "Himmelsreise": {
+  "datei": "wind/himmelsreise.png",
+  "kapitel": "Wind",
+  "stufe": "Vierklang",
+  "elemente": "Wind + Licht + Wasser + Dendro",
+  "wirkung": "Trägt einen Trupp über Berge.",
+  "form": "aura",
+  "variante": "schweben",
+  "bilder": 10,
+  "bild": [
+   96,
+   64
+  ],
+  "anker": "zaubernder",
+  "schleife_ab": 3
+ },
+ "Seelenwind": {
+  "datei": "wind/seelenwind.png",
+  "kapitel": "Wind",
+  "stufe": "Vierklang · Bruchklang",
+  "elemente": "Wind + Licht + Schatten + Elektro",
+  "wirkung": "Reißt Seelen aus Körpern, oft auch die des Zaubernden.",
+  "form": "explosion",
+  "variante": "seele",
+  "bilder": 10,
+  "bild": [
+   96,
+   64
+  ],
+  "anker": "flaeche",
+  "schleife_ab": null
+ },
+ "Feuertornado": {
+  "datei": "wind/feuertornado.png",
+  "kapitel": "Wind",
+  "stufe": "Vierklang",
+  "elemente": "Wind + Feuer + Dendro + Elektro",
+  "wirkung": "Brennender Wirbel, der durch Wälder zieht.",
+  "form": "wirbel",
+  "variante": "gross",
+  "bilder": 10,
+  "bild": [
+   96,
+   64
+  ],
+  "anker": "flaeche",
+  "schleife_ab": 3
+ },
+ "Windwächter": {
+  "datei": "wind/windwaechter.png",
+  "kapitel": "Wind",
+  "stufe": "Vierklang",
+  "elemente": "Wind + Licht + Eis + Dendro",
+  "wirkung": "Unsichtbare Barriere aus Sturm um ein Lager.",
+  "form": "kuppel",
+  "variante": "",
+  "bilder": 10,
+  "bild": [
+   96,
+   64
+  ],
+  "anker": "zaubernder",
+  "schleife_ab": 4
+ },
+ "Höllendunst": {
+  "datei": "wind/hoellendunst.png",
+  "kapitel": "Wind",
+  "stufe": "Vierklang",
+  "elemente": "Wind + Feuer + Schatten + Wasser",
+  "wirkung": "Kochender schwarzer Nebel.",
+  "form": "wolke",
+  "variante": "nebel",
+  "bilder": 10,
+  "bild": [
+   96,
+   64
+  ],
+  "anker": "flaeche",
+  "schleife_ab": 4
+ },
+ "Schwebende Feste": {
+  "datei": "wind/schwebende_feste.png",
+  "kapitel": "Wind",
+  "stufe": "Vierklang",
+  "elemente": "Wind + Licht + Elektro + Eis",
+  "wirkung": "Hebt eine Festung oder ein Schiff für Minuten in die Luft.",
+  "form": "aura",
+  "variante": "schweben",
+  "bilder": 10,
+  "bild": [
+   96,
+   64
+  ],
+  "anker": "zaubernder",
+  "schleife_ab": 3
+ },
+ "Atem der Welt": {
+  "datei": "wind/atem_der_welt.png",
+  "kapitel": "Wind",
+  "stufe": "Vierklang",
+  "elemente": "Wind + Dendro + Wasser + Licht",
+  "wirkung": "Reinigt verseuchte Luft über einem Landstrich.",
+  "form": "heilung",
+  "variante": "reinigung",
+  "bilder": 10,
+  "bild": [
+   96,
+   64
+  ],
+  "anker": "ziel",
+  "schleife_ab": null
+ },
+ "Kettenblitz": {
+  "datei": "elektro/kettenblitz.png",
+  "kapitel": "Elektro",
+  "stufe": "Zweiklang",
+  "elemente": "Elektro + Wind",
+  "wirkung": "Blitz springt von Gegner zu Gegner.",
+  "form": "blitz",
+  "variante": "kette",
+  "bilder": 10,
+  "bild": [
+   64,
+   48
+  ],
+  "anker": "linie",
+  "schleife_ab": null
+ },
+ "Blitzspeer": {
+  "datei": "elektro/blitzspeer.png",
+  "kapitel": "Elektro",
+  "stufe": "Zweiklang",
+  "elemente": "Elektro + Licht",
+  "wirkung": "Speer aus Licht und Blitz, durchschlägt Rüstung.",
+  "form": "geschoss",
+  "variante": "lanze",
+  "bilder": 10,
+  "bild": [
+   64,
+   48
+  ],
+  "anker": "linie",
+  "schleife_ab": null
+ },
+ "Nervenschock": {
+  "datei": "elektro/nervenschock.png",
+  "kapitel": "Elektro",
+  "stufe": "Zweiklang",
+  "elemente": "Elektro + Schatten",
+  "wirkung": "Lähmt ein Ziel für Sekunden.",
+  "form": "blitz",
+  "variante": "",
+  "bilder": 10,
+  "bild": [
+   64,
+   48
+  ],
+  "anker": "linie",
+  "schleife_ab": null
+ },
+ "Magnetfeld": {
+  "datei": "elektro/magnetfeld.png",
+  "kapitel": "Elektro",
+  "stufe": "Zweiklang",
+  "elemente": "Elektro + Erde",
+  "wirkung": "Lenkt Pfeile und Bolzen ab.",
+  "form": "kuppel",
+  "variante": "",
+  "bilder": 10,
+  "bild": [
+   64,
+   48
+  ],
+  "anker": "zaubernder",
+  "schleife_ab": 4
+ },
+ "Funkenranke": {
+  "datei": "elektro/funkenranke.png",
+  "kapitel": "Elektro",
+  "stufe": "Zweiklang",
+  "elemente": "Elektro + Dendro",
+  "wirkung": "Geladene Ranke, die sich um Waffen wickelt.",
+  "form": "ranke",
+  "variante": "blitz",
+  "bilder": 10,
+  "bild": [
+   64,
+   48
+  ],
+  "anker": "ziel",
+  "schleife_ab": null
+ },
+ "Glutblitz": {
+  "datei": "elektro/glutblitz.png",
+  "kapitel": "Elektro",
+  "stufe": "Zweiklang",
+  "elemente": "Elektro + Feuer",
+  "wirkung": "Blitz, der alles Brennbare entzündet.",
+  "form": "blitz",
+  "variante": "",
+  "bilder": 10,
+  "bild": [
+   64,
+   48
+  ],
+  "anker": "linie",
+  "schleife_ab": null
+ },
+ "Frostschock": {
+  "datei": "elektro/frostschock.png",
+  "kapitel": "Elektro",
+  "stufe": "Zweiklang",
+  "elemente": "Elektro + Eis",
+  "wirkung": "Friert und lähmt zugleich.",
+  "form": "blitz",
+  "variante": "",
+  "bilder": 10,
+  "bild": [
+   64,
+   48
+  ],
+  "anker": "linie",
+  "schleife_ab": null
+ },
+ "Donnerschlag": {
+  "datei": "elektro/donnerschlag.png",
+  "kapitel": "Elektro",
+  "stufe": "Zweiklang",
+  "elemente": "Elektro + Wind",
+  "wirkung": "Schallwelle betäubt alle im Umkreis.",
+  "form": "ring",
+  "variante": "druck",
+  "bilder": 10,
+  "bild": [
+   64,
+   48
+  ],
+  "anker": "zaubernder",
+  "schleife_ab": null
+ },
+ "Blitzschritt": {
+  "datei": "elektro/blitzschritt.png",
+  "kapitel": "Elektro",
+  "stufe": "Zweiklang",
+  "elemente": "Elektro + Licht",
+  "wirkung": "Kurzer Sprint in Blitzgestalt, 20 Schritt.",
+  "form": "aura",
+  "variante": "sprint",
+  "bilder": 10,
+  "bild": [
+   64,
+   48
+  ],
+  "anker": "zaubernder",
+  "schleife_ab": 3
+ },
+ "Kurzschluss": {
+  "datei": "elektro/kurzschluss.png",
+  "kapitel": "Elektro",
+  "stufe": "Zweiklang · Bruchklang",
+  "elemente": "Elektro + Wasser",
+  "wirkung": "Elektrisiertes Wasser trifft alles, was es berührt, auch den Zaubernden.",
+  "form": "explosion",
+  "variante": "selbst",
+  "bilder": 10,
+  "bild": [
+   64,
+   48
+  ],
+  "anker": "flaeche",
+  "schleife_ab": null
+ },
+ "Gewitterspeer": {
+  "datei": "elektro/gewitterspeer.png",
+  "kapitel": "Elektro",
+  "stufe": "Dreiklang",
+  "elemente": "Elektro + Wind + Licht",
+  "wirkung": "Blitz aus dem Himmel, gelenkt auf ein Ziel.",
+  "form": "saeule",
+  "variante": "blitz",
+  "bilder": 10,
+  "bild": [
+   80,
+   56
+  ],
+  "anker": "ziel",
+  "schleife_ab": null
+ },
+ "Donnerfaust": {
+  "datei": "elektro/donnerfaust.png",
+  "kapitel": "Elektro",
+  "stufe": "Dreiklang",
+  "elemente": "Elektro + Erde + Feuer",
+  "wirkung": "Glühende Faust, die mit Donnerhall einschlägt.",
+  "form": "geschoss",
+  "variante": "faust",
+  "bilder": 10,
+  "bild": [
+   80,
+   56
+  ],
+  "anker": "linie",
+  "schleife_ab": null
+ },
+ "Sturmnetz": {
+  "datei": "elektro/sturmnetz.png",
+  "kapitel": "Elektro",
+  "stufe": "Dreiklang",
+  "elemente": "Elektro + Wind + Dendro",
+  "wirkung": "Netz aus geladenen Ranken.",
+  "form": "ranke",
+  "variante": "netz",
+  "bilder": 10,
+  "bild": [
+   80,
+   56
+  ],
+  "anker": "ziel",
+  "schleife_ab": null
+ },
+ "Schattenblitz": {
+  "datei": "elektro/schattenblitz.png",
+  "kapitel": "Elektro",
+  "stufe": "Dreiklang",
+  "elemente": "Elektro + Schatten + Wind",
+  "wirkung": "Unsichtbarer, lautloser Blitz.",
+  "form": "blitz",
+  "variante": "",
+  "bilder": 10,
+  "bild": [
+   80,
+   56
+  ],
+  "anker": "linie",
+  "schleife_ab": null
+ },
+ "Plasmakugel": {
+  "datei": "elektro/plasmakugel.png",
+  "kapitel": "Elektro",
+  "stufe": "Dreiklang",
+  "elemente": "Elektro + Feuer + Licht",
+  "wirkung": "Leuchtende Kugel, die beim Aufprall explodiert.",
+  "form": "geschoss",
+  "variante": "kugel",
+  "bilder": 10,
+  "bild": [
+   80,
+   56
+  ],
+  "anker": "linie",
+  "schleife_ab": null
+ },
+ "Eisblitz": {
+  "datei": "elektro/eisblitz.png",
+  "kapitel": "Elektro",
+  "stufe": "Dreiklang",
+  "elemente": "Elektro + Eis + Erde",
+  "wirkung": "Blitz, der den Boden um das Ziel gefrieren lässt.",
+  "form": "blitz",
+  "variante": "",
+  "bilder": 10,
+  "bild": [
+   80,
+   56
+  ],
+  "anker": "linie",
+  "schleife_ab": null
+ },
+ "Herzfunke": {
+  "datei": "elektro/herzfunke.png",
+  "kapitel": "Elektro",
+  "stufe": "Dreiklang",
+  "elemente": "Elektro + Licht + Dendro",
+  "wirkung": "Bringt ein stehendes Herz zurück, wenn es erst seit einer Minute steht.",
+  "form": "heilung",
+  "variante": "herz",
+  "bilder": 10,
+  "bild": [
+   80,
+   56
+  ],
+  "anker": "ziel",
+  "schleife_ab": null
+ },
+ "Kettensturm": {
+  "datei": "elektro/kettensturm.png",
+  "kapitel": "Elektro",
+  "stufe": "Dreiklang",
+  "elemente": "Elektro + Wind + Eis",
+  "wirkung": "Kettenblitz mit Hagel, trifft bis zu zehn Gegner.",
+  "form": "blitz",
+  "variante": "kette",
+  "bilder": 10,
+  "bild": [
+   80,
+   56
+  ],
+  "anker": "linie",
+  "schleife_ab": null
+ },
+ "Blitzkäfig": {
+  "datei": "elektro/blitzkaefig.png",
+  "kapitel": "Elektro",
+  "stufe": "Dreiklang",
+  "elemente": "Elektro + Erde + Schatten",
+  "wirkung": "Käfig aus Blitzen, der ein Ziel festhält.",
+  "form": "gefaengnis",
+  "variante": "kaefig",
+  "bilder": 10,
+  "bild": [
+   80,
+   56
+  ],
+  "anker": "ziel",
+  "schleife_ab": null
+ },
+ "Sturmquelle": {
+  "datei": "elektro/sturmquelle.png",
+  "kapitel": "Elektro",
+  "stufe": "Dreiklang · Bruchklang",
+  "elemente": "Elektro + Wasser + Licht",
+  "wirkung": "Wasserstrahl voller Blitze, explodiert bei Berührung.",
+  "form": "strahl",
+  "variante": "",
+  "bilder": 10,
+  "bild": [
+   80,
+   56
+  ],
+  "anker": "linie",
+  "schleife_ab": null
+ },
+ "Götterzorn": {
+  "datei": "elektro/goetterzorn.png",
+  "kapitel": "Elektro",
+  "stufe": "Vierklang",
+  "elemente": "Elektro + Wind + Licht + Feuer",
+  "wirkung": "Hunderte Blitze schlagen auf einer Fläche ein.",
+  "form": "regen",
+  "variante": "blitze",
+  "bilder": 10,
+  "bild": [
+   96,
+   64
+  ],
+  "anker": "flaeche",
+  "schleife_ab": null
+ },
+ "Ewiges Gewitter": {
+  "datei": "elektro/ewiges_gewitter.png",
+  "kapitel": "Elektro",
+  "stufe": "Vierklang",
+  "elemente": "Elektro + Wind + Eis + Dendro",
+  "wirkung": "Gewitter über einem Gebiet, tagelang.",
+  "form": "himmel",
+  "variante": "gewitter",
+  "bilder": 10,
+  "bild": [
+   96,
+   64
+  ],
+  "anker": "flaeche",
+  "schleife_ab": 4
+ },
+ "Blitzgolem": {
+  "datei": "elektro/blitzgolem.png",
+  "kapitel": "Elektro",
+  "stufe": "Vierklang",
+  "elemente": "Elektro + Erde + Feuer + Licht",
+  "wirkung": "Golem aus geladenem Erz, kämpft eine Stunde.",
+  "form": "beschwoerung",
+  "variante": "golem",
+  "bilder": 10,
+  "bild": [
+   96,
+   64
+  ],
+  "anker": "ziel",
+  "schleife_ab": null
+ },
+ "Nervenfluch": {
+  "datei": "elektro/nervenfluch.png",
+  "kapitel": "Elektro",
+  "stufe": "Vierklang",
+  "elemente": "Elektro + Schatten + Dendro + Eis",
+  "wirkung": "Lähmt ein Ziel für Tage.",
+  "form": "fluch",
+  "variante": "",
+  "bilder": 10,
+  "bild": [
+   96,
+   64
+  ],
+  "anker": "ziel",
+  "schleife_ab": null
+ },
+ "Blitzwald": {
+  "datei": "elektro/blitzwald.png",
+  "kapitel": "Elektro",
+  "stufe": "Vierklang",
+  "elemente": "Elektro + Erde + Licht + Dendro",
+  "wirkung": "Bäume aus leitendem Holz verteidigen ein Lager.",
+  "form": "wachstum",
+  "variante": "blitzbaum",
+  "bilder": 10,
+  "bild": [
+   96,
+   64
+  ],
+  "anker": "flaeche",
+  "schleife_ab": 7
+ },
+ "Sternschnuppe": {
+  "datei": "elektro/sternschnuppe.png",
+  "kapitel": "Elektro",
+  "stufe": "Vierklang",
+  "elemente": "Elektro + Licht + Feuer + Wind",
+  "wirkung": "Lichtblitz aus den Wolken trifft ein Ziel meilenweit entfernt.",
+  "form": "saeule",
+  "variante": "stern",
+  "bilder": 10,
+  "bild": [
+   96,
+   64
+  ],
+  "anker": "ziel",
+  "schleife_ab": null
+ },
+ "Höllenschmiede": {
+  "datei": "elektro/hoellenschmiede.png",
+  "kapitel": "Elektro",
+  "stufe": "Vierklang",
+  "elemente": "Elektro + Schatten + Feuer + Erde",
+  "wirkung": "Schwarze Blitze schmelzen magische Rüstung.",
+  "form": "waffe",
+  "variante": "schmelze",
+  "bilder": 10,
+  "bild": [
+   96,
+   64
+  ],
+  "anker": "zaubernder",
+  "schleife_ab": null
+ },
+ "Eisenstarre": {
+  "datei": "elektro/eisenstarre.png",
+  "kapitel": "Elektro",
+  "stufe": "Vierklang",
+  "elemente": "Elektro + Erde + Eis + Schatten",
+  "wirkung": "Metall friert am Körper fest; die Rüstung wird zum Gefängnis.",
+  "form": "gefaengnis",
+  "variante": "kristall",
+  "bilder": 10,
+  "bild": [
+   96,
+   64
+  ],
+  "anker": "ziel",
+  "schleife_ab": null
+ },
+ "Gewitterreiter": {
+  "datei": "elektro/gewitterreiter.png",
+  "kapitel": "Elektro",
+  "stufe": "Vierklang",
+  "elemente": "Elektro + Wind + Dendro + Licht",
+  "wirkung": "Der Zaubernde reitet auf einem Blitz über große Distanz.",
+  "form": "aura",
+  "variante": "sprint",
+  "bilder": 10,
+  "bild": [
+   96,
+   64
+  ],
+  "anker": "zaubernder",
+  "schleife_ab": 3
+ },
+ "Weltenstrom": {
+  "datei": "elektro/weltenstrom.png",
+  "kapitel": "Elektro",
+  "stufe": "Vierklang",
+  "elemente": "Elektro + Erde + Licht + Eis",
+  "wirkung": "Weckt Mana-Adern im Boden und lädt Kristalle auf.",
+  "form": "feld",
+  "variante": "adern",
+  "bilder": 10,
+  "bild": [
+   96,
+   64
+  ],
+  "anker": "flaeche",
+  "schleife_ab": 3
+ },
+ "Schattenschritt": {
+  "datei": "schatten/schattenschritt.png",
+  "kapitel": "Schatten",
+  "stufe": "Zweiklang",
+  "elemente": "Schatten + Wind",
+  "wirkung": "Kurzer Sprung von Schatten zu Schatten.",
+  "form": "aura",
+  "variante": "teleport",
+  "bilder": 10,
+  "bild": [
+   64,
+   48
+  ],
+  "anker": "zaubernder",
+  "schleife_ab": 3
+ },
+ "Schattenhand": {
+  "datei": "schatten/schattenhand.png",
+  "kapitel": "Schatten",
+  "stufe": "Zweiklang",
+  "elemente": "Schatten + Erde",
+  "wirkung": "Hand aus Dunkelheit greift aus dem Boden.",
+  "form": "ranke",
+  "variante": "hand",
+  "bilder": 10,
+  "bild": [
+   64,
+   48
+  ],
+  "anker": "ziel",
+  "schleife_ab": null
+ },
+ "Albtraumduft": {
+  "datei": "schatten/albtraumduft.png",
+  "kapitel": "Schatten",
+  "stufe": "Zweiklang",
+  "elemente": "Schatten + Dendro",
+  "wirkung": "Giftiger Duft, der Albträume und Schlaflosigkeit bringt.",
+  "form": "wolke",
+  "variante": "sporen",
+  "bilder": 10,
+  "bild": [
+   64,
+   48
+  ],
+  "anker": "flaeche",
+  "schleife_ab": 4
+ },
+ "Verblendung": {
+  "datei": "schatten/verblendung.png",
+  "kapitel": "Schatten",
+  "stufe": "Zweiklang · Bruchklang",
+  "elemente": "Schatten + Licht",
+  "wirkung": "Licht und Schatten flackern; blendet alle, der Zaubernde verliert oft das Augenlicht.",
+  "form": "explosion",
+  "variante": "licht",
+  "bilder": 10,
+  "bild": [
+   64,
+   48
+  ],
+  "anker": "flaeche",
+  "schleife_ab": null
+ },
+ "Schwarzeis": {
+  "datei": "schatten/schwarzeis.png",
+  "kapitel": "Schatten",
+  "stufe": "Zweiklang",
+  "elemente": "Schatten + Eis",
+  "wirkung": "Unsichtbares Eis, auf dem Gegner stürzen.",
+  "form": "boden",
+  "variante": "eis",
+  "bilder": 10,
+  "bild": [
+   64,
+   48
+  ],
+  "anker": "flaeche",
+  "schleife_ab": 4
+ },
+ "Seelenbrand": {
+  "datei": "schatten/seelenbrand.png",
+  "kapitel": "Schatten",
+  "stufe": "Zweiklang",
+  "elemente": "Schatten + Feuer",
+  "wirkung": "Feuer, das nicht den Körper, sondern den Willen verbrennt.",
+  "form": "fluch",
+  "variante": "",
+  "bilder": 10,
+  "bild": [
+   64,
+   48
+  ],
+  "anker": "ziel",
+  "schleife_ab": null
+ },
+ "Manadieb": {
+  "datei": "schatten/manadieb.png",
+  "kapitel": "Schatten",
+  "stufe": "Zweiklang",
+  "elemente": "Schatten + Elektro",
+  "wirkung": "Saugt Mana aus Sklaven-Batterien und Artefakten.",
+  "form": "fluch",
+  "variante": "sog",
+  "bilder": 10,
+  "bild": [
+   64,
+   48
+  ],
+  "anker": "ziel",
+  "schleife_ab": null
+ },
+ "Schattenmantel": {
+  "datei": "schatten/schattenmantel.png",
+  "kapitel": "Schatten",
+  "stufe": "Zweiklang",
+  "elemente": "Schatten + Wind",
+  "wirkung": "Macht unsichtbar, solange der Zaubernde still steht.",
+  "form": "aura",
+  "variante": "unsichtbar",
+  "bilder": 10,
+  "bild": [
+   64,
+   48
+  ],
+  "anker": "zaubernder",
+  "schleife_ab": 3
+ },
+ "Schwarzwasser": {
+  "datei": "schatten/schwarzwasser.png",
+  "kapitel": "Schatten",
+  "stufe": "Zweiklang",
+  "elemente": "Schatten + Wasser",
+  "wirkung": "Trübt Wasser; Wesen darin verlieren die Orientierung.",
+  "form": "boden",
+  "variante": "see",
+  "bilder": 10,
+  "bild": [
+   64,
+   48
+  ],
+  "anker": "flaeche",
+  "schleife_ab": 4
+ },
+ "Fluchdorn": {
+  "datei": "schatten/fluchdorn.png",
+  "kapitel": "Schatten",
+  "stufe": "Zweiklang",
+  "elemente": "Schatten + Dendro",
+  "wirkung": "Die Wunde dieses Dorns heilt nicht von selbst.",
+  "form": "geschoss",
+  "variante": "dorn",
+  "bilder": 10,
+  "bild": [
+   64,
+   48
+  ],
+  "anker": "linie",
+  "schleife_ab": null
+ },
+ "Schattenkerker": {
+  "datei": "schatten/schattenkerker.png",
+  "kapitel": "Schatten",
+  "stufe": "Dreiklang",
+  "elemente": "Schatten + Erde + Eis",
+  "wirkung": "Kerker aus Dunkelheit und Eis unter der Erde.",
+  "form": "gefaengnis",
+  "variante": "kerker",
+  "bilder": 10,
+  "bild": [
+   80,
+   56
+  ],
+  "anker": "ziel",
+  "schleife_ab": null
+ },
+ "Marionette": {
+  "datei": "schatten/marionette.png",
+  "kapitel": "Schatten",
+  "stufe": "Dreiklang",
+  "elemente": "Schatten + Elektro + Dendro",
+  "wirkung": "Lenkt für Sekunden die Muskeln eines Ziels.",
+  "form": "fluch",
+  "variante": "faeden",
+  "bilder": 10,
+  "bild": [
+   80,
+   56
+  ],
+  "anker": "ziel",
+  "schleife_ab": null
+ },
+ "Dunkle Saat": {
+  "datei": "schatten/dunkle_saat.png",
+  "kapitel": "Schatten",
+  "stufe": "Dreiklang",
+  "elemente": "Schatten + Dendro + Erde",
+  "wirkung": "Pflanze, die Lebenskraft aus allem in der Nähe stiehlt.",
+  "form": "wachstum",
+  "variante": "maul",
+  "bilder": 10,
+  "bild": [
+   80,
+   56
+  ],
+  "anker": "flaeche",
+  "schleife_ab": 7
+ },
+ "Nachtgestalt": {
+  "datei": "schatten/nachtgestalt.png",
+  "kapitel": "Schatten",
+  "stufe": "Dreiklang",
+  "elemente": "Schatten + Wind + Wasser",
+  "wirkung": "Der Zaubernde wird zur Nebelgestalt.",
+  "form": "aura",
+  "variante": "nebel",
+  "bilder": 10,
+  "bild": [
+   80,
+   56
+  ],
+  "anker": "zaubernder",
+  "schleife_ab": 3
+ },
+ "Fluchfeuer": {
+  "datei": "schatten/fluchfeuer.png",
+  "kapitel": "Schatten",
+  "stufe": "Dreiklang",
+  "elemente": "Schatten + Feuer + Wind",
+  "wirkung": "Schwarzes Feuer, das vom Wind getragen wird.",
+  "form": "kegel",
+  "variante": "",
+  "bilder": 10,
+  "bild": [
+   80,
+   56
+  ],
+  "anker": "linie",
+  "schleife_ab": null
+ },
+ "Schattenspiegel": {
+  "datei": "schatten/schattenspiegel.png",
+  "kapitel": "Schatten",
+  "stufe": "Dreiklang",
+  "elemente": "Schatten + Wasser + Eis",
+  "wirkung": "Spiegel, der die Geheimnisse eines Ziels zeigt.",
+  "form": "feld",
+  "variante": "spiegel",
+  "bilder": 10,
+  "bild": [
+   80,
+   56
+  ],
+  "anker": "flaeche",
+  "schleife_ab": 3
+ },
+ "Grabeshauch": {
+  "datei": "schatten/grabeshauch.png",
+  "kapitel": "Schatten",
+  "stufe": "Dreiklang",
+  "elemente": "Schatten + Eis + Wind",
+  "wirkung": "Eisiger Atem, der Lebende altern lässt.",
+  "form": "kegel",
+  "variante": "",
+  "bilder": 10,
+  "bild": [
+   80,
+   56
+  ],
+  "anker": "linie",
+  "schleife_ab": null
+ },
+ "Phantomtrupp": {
+  "datei": "schatten/phantomtrupp.png",
+  "kapitel": "Schatten",
+  "stufe": "Dreiklang",
+  "elemente": "Schatten + Wind + Elektro",
+  "wirkung": "Trugbilder eines ganzen Trupps lenken Feinde ab.",
+  "form": "beschwoerung",
+  "variante": "gestalten",
+  "bilder": 10,
+  "bild": [
+   80,
+   56
+  ],
+  "anker": "ziel",
+  "schleife_ab": null
+ },
+ "Blutpakt": {
+  "datei": "schatten/blutpakt.png",
+  "kapitel": "Schatten",
+  "stufe": "Dreiklang",
+  "elemente": "Schatten + Wasser + Feuer",
+  "wirkung": "Zieht Mana aus dem Blut eines Freiwilligen.",
+  "form": "fluch",
+  "variante": "blut",
+  "bilder": 10,
+  "bild": [
+   80,
+   56
+  ],
+  "anker": "ziel",
+  "schleife_ab": null
+ },
+ "Zwielichtriss": {
+  "datei": "schatten/zwielichtriss.png",
+  "kapitel": "Schatten",
+  "stufe": "Dreiklang · Bruchklang",
+  "elemente": "Schatten + Licht + Erde",
+  "wirkung": "Riss zwischen Licht und Dunkel; unberechenbar, was hindurchkommt.",
+  "form": "portal",
+  "variante": "riss",
+  "bilder": 10,
+  "bild": [
+   80,
+   56
+  ],
+  "anker": "ziel",
+  "schleife_ab": null
+ },
+ "Ewige Nacht": {
+  "datei": "schatten/ewige_nacht.png",
+  "kapitel": "Schatten",
+  "stufe": "Vierklang",
+  "elemente": "Schatten + Wind + Wasser + Eis",
+  "wirkung": "Dunkelheit über einer Stadt, tagelang.",
+  "form": "himmel",
+  "variante": "nacht",
+  "bilder": 10,
+  "bild": [
+   96,
+   64
+  ],
+  "anker": "flaeche",
+  "schleife_ab": 4
+ },
+ "Dämonenpforte": {
+  "datei": "schatten/daemonenpforte.png",
+  "kapitel": "Schatten",
+  "stufe": "Vierklang",
+  "elemente": "Schatten + Feuer + Erde + Elektro",
+  "wirkung": "Öffnet für Augenblicke ein Tor zu den Dämonen.",
+  "form": "portal",
+  "variante": "",
+  "bilder": 10,
+  "bild": [
+   96,
+   64
+  ],
+  "anker": "ziel",
+  "schleife_ab": null
+ },
+ "Seelenkette": {
+  "datei": "schatten/seelenkette.png",
+  "kapitel": "Schatten",
+  "stufe": "Vierklang",
+  "elemente": "Schatten + Elektro + Dendro + Eis",
+  "wirkung": "Bindet zwei Seelen; was einer erleidet, spürt der andere.",
+  "form": "fluch",
+  "variante": "kette",
+  "bilder": 10,
+  "bild": [
+   96,
+   64
+  ],
+  "anker": "ziel",
+  "schleife_ab": null
+ },
+ "Totenheer": {
+  "datei": "schatten/totenheer.png",
+  "kapitel": "Schatten",
+  "stufe": "Vierklang",
+  "elemente": "Schatten + Erde + Eis + Dendro",
+  "wirkung": "Gefallene erheben sich für eine Nacht.",
+  "form": "beschwoerung",
+  "variante": "untote",
+  "bilder": 10,
+  "bild": [
+   96,
+   64
+  ],
+  "anker": "ziel",
+  "schleife_ab": null
+ },
+ "Albtraumwald": {
+  "datei": "schatten/albtraumwald.png",
+  "kapitel": "Schatten",
+  "stufe": "Vierklang",
+  "elemente": "Schatten + Wind + Feuer + Dendro",
+  "wirkung": "Brennender schwarzer Wald, in dem jeder seine größte Angst sieht.",
+  "form": "wachstum",
+  "variante": "wald",
+  "bilder": 10,
+  "bild": [
+   96,
+   64
+  ],
+  "anker": "flaeche",
+  "schleife_ab": 7
+ },
+ "Siechtum": {
+  "datei": "schatten/siechtum.png",
+  "kapitel": "Schatten",
+  "stufe": "Vierklang",
+  "elemente": "Schatten + Wasser + Dendro + Erde",
+  "wirkung": "Langsamer Fluch, der über Wochen schwächt.",
+  "form": "fluch",
+  "variante": "",
+  "bilder": 10,
+  "bild": [
+   96,
+   64
+  ],
+  "anker": "ziel",
+  "schleife_ab": null
+ },
+ "Mondfinsternis": {
+  "datei": "schatten/mondfinsternis.png",
+  "kapitel": "Schatten",
+  "stufe": "Vierklang · Bruchklang",
+  "elemente": "Schatten + Licht + Eis + Wind",
+  "wirkung": "Verschlingt jedes Licht im Umkreis; zerreißt oft den Zaubernden.",
+  "form": "himmel",
+  "variante": "finsternis",
+  "bilder": 10,
+  "bild": [
+   96,
+   64
+  ],
+  "anker": "flaeche",
+  "schleife_ab": 4
+ },
+ "Schattenkönig": {
+  "datei": "schatten/schattenkoenig.png",
+  "kapitel": "Schatten",
+  "stufe": "Vierklang",
+  "elemente": "Schatten + Elektro + Feuer + Wind",
+  "wirkung": "Der Zaubernde wird für eine Stunde zum Schattenwesen.",
+  "form": "aura",
+  "variante": "schatten",
+  "bilder": 10,
+  "bild": [
+   96,
+   64
+  ],
+  "anker": "zaubernder",
+  "schleife_ab": 3
+ },
+ "Leere": {
+  "datei": "schatten/leere.png",
+  "kapitel": "Schatten",
+  "stufe": "Vierklang",
+  "elemente": "Schatten + Eis + Elektro + Erde",
+  "wirkung": "Löscht jede Magie in einer Zone.",
+  "form": "ring",
+  "variante": "sog",
+  "bilder": 10,
+  "bild": [
+   96,
+   64
+  ],
+  "anker": "zaubernder",
+  "schleife_ab": null
+ },
+ "Herzensdieb": {
+  "datei": "schatten/herzensdieb.png",
+  "kapitel": "Schatten",
+  "stufe": "Vierklang",
+  "elemente": "Schatten + Wasser + Feuer + Dendro",
+  "wirkung": "Raubt die Lebenskraft eines Ziels und heilt damit den Zaubernden.",
+  "form": "fluch",
+  "variante": "sog",
+  "bilder": 10,
+  "bild": [
+   96,
+   64
+  ],
+  "anker": "ziel",
+  "schleife_ab": null
+ },
+ "Heilung": {
+  "datei": "licht/heilung.png",
+  "kapitel": "Licht",
+  "stufe": "Zweiklang",
+  "elemente": "Licht + Wasser",
+  "wirkung": "Schließt Fleischwunden; auch für Mana C erlernbar.",
+  "form": "heilung",
+  "variante": "",
+  "bilder": 10,
+  "bild": [
+   64,
+   48
+  ],
+  "anker": "ziel",
+  "schleife_ab": null
+ },
+ "Blendung": {
+  "datei": "licht/blendung.png",
+  "kapitel": "Licht",
+  "stufe": "Zweiklang",
+  "elemente": "Licht + Feuer",
+  "wirkung": "Greller Lichtblitz blendet für Minuten.",
+  "form": "explosion",
+  "variante": "licht",
+  "bilder": 10,
+  "bild": [
+   64,
+   48
+  ],
+  "anker": "flaeche",
+  "schleife_ab": null
+ },
+ "Lichtschild": {
+  "datei": "licht/lichtschild.png",
+  "kapitel": "Licht",
+  "stufe": "Zweiklang",
+  "elemente": "Licht + Erde",
+  "wirkung": "Leuchtender Schild hält Schläge und Schattenzauber ab.",
+  "form": "kuppel",
+  "variante": "schild",
+  "bilder": 10,
+  "bild": [
+   64,
+   48
+  ],
+  "anker": "zaubernder",
+  "schleife_ab": 4
+ },
+ "Lichtpfeil": {
+  "datei": "licht/lichtpfeil.png",
+  "kapitel": "Licht",
+  "stufe": "Zweiklang",
+  "elemente": "Licht + Wind",
+  "wirkung": "Pfeil aus Licht, trifft auch um Ecken.",
+  "form": "geschoss",
+  "variante": "pfeil",
+  "bilder": 10,
+  "bild": [
+   64,
+   48
+  ],
+  "anker": "linie",
+  "schleife_ab": null
+ },
+ "Segen": {
+  "datei": "licht/segen.png",
+  "kapitel": "Licht",
+  "stufe": "Zweiklang",
+  "elemente": "Licht + Dendro",
+  "wirkung": "Stärkt Körper und Ausdauer eines Verbündeten.",
+  "form": "aura",
+  "variante": "stark",
+  "bilder": 10,
+  "bild": [
+   64,
+   48
+  ],
+  "anker": "zaubernder",
+  "schleife_ab": 3
+ },
+ "Bannstrahl": {
+  "datei": "licht/bannstrahl.png",
+  "kapitel": "Licht",
+  "stufe": "Zweiklang",
+  "elemente": "Licht + Elektro",
+  "wirkung": "Vertreibt Geister und schwache Dämonen.",
+  "form": "strahl",
+  "variante": "",
+  "bilder": 10,
+  "bild": [
+   64,
+   48
+  ],
+  "anker": "linie",
+  "schleife_ab": null
+ },
+ "Klarsicht": {
+  "datei": "licht/klarsicht.png",
+  "kapitel": "Licht",
+  "stufe": "Zweiklang",
+  "elemente": "Licht + Eis",
+  "wirkung": "Sieht durch Illusionen und Trugbilder.",
+  "form": "feld",
+  "variante": "auge",
+  "bilder": 10,
+  "bild": [
+   64,
+   48
+  ],
+  "anker": "flaeche",
+  "schleife_ab": 3
+ },
+ "Weihwasser": {
+  "datei": "licht/weihwasser.png",
+  "kapitel": "Licht",
+  "stufe": "Zweiklang",
+  "elemente": "Licht + Wasser",
+  "wirkung": "Weiht Wasser gegen Untote.",
+  "form": "heilung",
+  "variante": "reinigung",
+  "bilder": 10,
+  "bild": [
+   64,
+   48
+  ],
+  "anker": "ziel",
+  "schleife_ab": null
+ },
+ "Morgenröte": {
+  "datei": "licht/morgenroete.png",
+  "kapitel": "Licht",
+  "stufe": "Zweiklang",
+  "elemente": "Licht + Feuer",
+  "wirkung": "Wärmt und vertreibt Angst.",
+  "form": "aura",
+  "variante": "stark",
+  "bilder": 10,
+  "bild": [
+   64,
+   48
+  ],
+  "anker": "zaubernder",
+  "schleife_ab": 3
+ },
+ "Zwiespalt": {
+  "datei": "licht/zwiespalt.png",
+  "kapitel": "Licht",
+  "stufe": "Zweiklang · Bruchklang",
+  "elemente": "Licht + Schatten",
+  "wirkung": "Löscht Zauber beider Seiten aus; die Kirche straft ihn mit dem Tod.",
+  "form": "explosion",
+  "variante": "",
+  "bilder": 10,
+  "bild": [
+   64,
+   48
+  ],
+  "anker": "flaeche",
+  "schleife_ab": null
+ },
+ "Bannlicht": {
+  "datei": "licht/bannlicht.png",
+  "kapitel": "Licht",
+  "stufe": "Dreiklang",
+  "elemente": "Licht + Wind + Feuer",
+  "wirkung": "Grundlage der Bannmagie; bannt Dämonen und Flüche.",
+  "form": "ring",
+  "variante": "bann",
+  "bilder": 10,
+  "bild": [
+   80,
+   56
+  ],
+  "anker": "zaubernder",
+  "schleife_ab": null
+ },
+ "Große Heilung": {
+  "datei": "licht/grosse_heilung.png",
+  "kapitel": "Licht",
+  "stufe": "Dreiklang",
+  "elemente": "Licht + Wasser + Dendro",
+  "wirkung": "Schließt Knochenbrüche und innere Verletzungen.",
+  "form": "heilung",
+  "variante": "gross",
+  "bilder": 10,
+  "bild": [
+   80,
+   56
+  ],
+  "anker": "ziel",
+  "schleife_ab": null
+ },
+ "Heiliger Schild": {
+  "datei": "licht/heiliger_schild.png",
+  "kapitel": "Licht",
+  "stufe": "Dreiklang",
+  "elemente": "Licht + Erde + Eis",
+  "wirkung": "Kristallschild für einen ganzen Trupp.",
+  "form": "kuppel",
+  "variante": "",
+  "bilder": 10,
+  "bild": [
+   80,
+   56
+  ],
+  "anker": "zaubernder",
+  "schleife_ab": 4
+ },
+ "Lichtsäule": {
+  "datei": "licht/lichtsaeule.png",
+  "kapitel": "Licht",
+  "stufe": "Dreiklang",
+  "elemente": "Licht + Feuer + Elektro",
+  "wirkung": "Säule aus Licht und Blitz verbrennt Untote.",
+  "form": "saeule",
+  "variante": "",
+  "bilder": 10,
+  "bild": [
+   80,
+   56
+  ],
+  "anker": "ziel",
+  "schleife_ab": null
+ },
+ "Reinigung": {
+  "datei": "licht/reinigung.png",
+  "kapitel": "Licht",
+  "stufe": "Dreiklang",
+  "elemente": "Licht + Wasser + Wind",
+  "wirkung": "Entgiftet und löst mittlere Flüche.",
+  "form": "heilung",
+  "variante": "reinigung",
+  "bilder": 10,
+  "bild": [
+   80,
+   56
+  ],
+  "anker": "ziel",
+  "schleife_ab": null
+ },
+ "Engelsflügel": {
+  "datei": "licht/engelsfluegel.png",
+  "kapitel": "Licht",
+  "stufe": "Dreiklang",
+  "elemente": "Licht + Wind + Dendro",
+  "wirkung": "Lässt den Zaubernden schweben.",
+  "form": "aura",
+  "variante": "fluegel",
+  "bilder": 10,
+  "bild": [
+   80,
+   56
+  ],
+  "anker": "zaubernder",
+  "schleife_ab": 3
+ },
+ "Wahrheitslicht": {
+  "datei": "licht/wahrheitslicht.png",
+  "kapitel": "Licht",
+  "stufe": "Dreiklang",
+  "elemente": "Licht + Elektro + Eis",
+  "wirkung": "Wer lügt, leuchtet auf.",
+  "form": "feld",
+  "variante": "auge",
+  "bilder": 10,
+  "bild": [
+   80,
+   56
+  ],
+  "anker": "flaeche",
+  "schleife_ab": 3
+ },
+ "Läuterfeuer": {
+  "datei": "licht/laeuterfeuer.png",
+  "kapitel": "Licht",
+  "stufe": "Dreiklang",
+  "elemente": "Licht + Feuer + Erde",
+  "wirkung": "Verbrennt Fäulnis in Dungeon-Erde.",
+  "form": "feld",
+  "variante": "flamme",
+  "bilder": 10,
+  "bild": [
+   80,
+   56
+  ],
+  "anker": "flaeche",
+  "schleife_ab": 3
+ },
+ "Sonnenkuppel": {
+  "datei": "licht/sonnenkuppel.png",
+  "kapitel": "Licht",
+  "stufe": "Dreiklang",
+  "elemente": "Licht + Erde + Dendro",
+  "wirkung": "Schutzkuppel gegen Schattenwesen.",
+  "form": "kuppel",
+  "variante": "",
+  "bilder": 10,
+  "bild": [
+   80,
+   56
+  ],
+  "anker": "zaubernder",
+  "schleife_ab": 4
+ },
+ "Grenzlicht": {
+  "datei": "licht/grenzlicht.png",
+  "kapitel": "Licht",
+  "stufe": "Dreiklang · Bruchklang",
+  "elemente": "Licht + Schatten + Wind",
+  "wirkung": "Lässt Schatten im Licht brennen; endet oft in einer Explosion.",
+  "form": "explosion",
+  "variante": "",
+  "bilder": 10,
+  "bild": [
+   80,
+   56
+  ],
+  "anker": "flaeche",
+  "schleife_ab": null
+ },
+ "Läuterung": {
+  "datei": "licht/laeuterung.png",
+  "kapitel": "Licht",
+  "stufe": "Vierklang",
+  "elemente": "Licht + Wasser + Erde + Dendro",
+  "wirkung": "Reinigt Krater und verseuchtes Land.",
+  "form": "heilung",
+  "variante": "boden",
+  "bilder": 10,
+  "bild": [
+   96,
+   64
+  ],
+  "anker": "ziel",
+  "schleife_ab": null
+ },
+ "Heiliges Gericht": {
+  "datei": "licht/heiliges_gericht.png",
+  "kapitel": "Licht",
+  "stufe": "Vierklang",
+  "elemente": "Licht + Feuer + Wind + Elektro",
+  "wirkung": "Lichtregen vernichtet Dämonen in einem Gebiet.",
+  "form": "regen",
+  "variante": "licht",
+  "bilder": 10,
+  "bild": [
+   96,
+   64
+  ],
+  "anker": "flaeche",
+  "schleife_ab": null
+ },
+ "Göttliche Wacht": {
+  "datei": "licht/goettliche_wacht.png",
+  "kapitel": "Licht",
+  "stufe": "Vierklang",
+  "elemente": "Licht + Erde + Eis + Wasser",
+  "wirkung": "Schutzwall aus Licht um eine Stadt.",
+  "form": "kuppel",
+  "variante": "gross",
+  "bilder": 10,
+  "bild": [
+   96,
+   64
+  ],
+  "anker": "zaubernder",
+  "schleife_ab": 4
+ },
+ "Segensregen": {
+  "datei": "licht/segensregen.png",
+  "kapitel": "Licht",
+  "stufe": "Vierklang",
+  "elemente": "Licht + Wasser + Wind + Dendro",
+  "wirkung": "Heilt eine ganze Armee leicht.",
+  "form": "regen",
+  "variante": "heilung",
+  "bilder": 10,
+  "bild": [
+   96,
+   64
+  ],
+  "anker": "flaeche",
+  "schleife_ab": null
+ },
+ "Bannkreis": {
+  "datei": "licht/bannkreis.png",
+  "kapitel": "Licht",
+  "stufe": "Vierklang",
+  "elemente": "Licht + Feuer + Erde + Elektro",
+  "wirkung": "Versiegelt einen Dungeon-Eingang für Tage.",
+  "form": "feld",
+  "variante": "siegel",
+  "bilder": 10,
+  "bild": [
+   96,
+   64
+  ],
+  "anker": "flaeche",
+  "schleife_ab": 3
+ },
+ "Sonnenaufgang": {
+  "datei": "licht/sonnenaufgang.png",
+  "kapitel": "Licht",
+  "stufe": "Vierklang",
+  "elemente": "Licht + Feuer + Dendro + Wind",
+  "wirkung": "Erschöpfte Kämpfer haben eine Stunde lang volle Kraft.",
+  "form": "himmel",
+  "variante": "sonne",
+  "bilder": 10,
+  "bild": [
+   96,
+   64
+  ],
+  "anker": "flaeche",
+  "schleife_ab": 4
+ },
+ "Kristallgefängnis": {
+  "datei": "licht/kristallgefaengnis.png",
+  "kapitel": "Licht",
+  "stufe": "Vierklang",
+  "elemente": "Licht + Eis + Erde + Elektro",
+  "wirkung": "Versiegelt einen Dämon in Kristall.",
+  "form": "gefaengnis",
+  "variante": "kristall",
+  "bilder": 10,
+  "bild": [
+   96,
+   64
+  ],
+  "anker": "ziel",
+  "schleife_ab": null
+ },
+ "Seelenspiegel": {
+  "datei": "licht/seelenspiegel.png",
+  "kapitel": "Licht",
+  "stufe": "Vierklang",
+  "elemente": "Licht + Wasser + Eis + Dendro",
+  "wirkung": "Zeigt Seelen; erkennt Halbwesen sofort an ihren zwei Flüssen.",
+  "form": "feld",
+  "variante": "spiegel",
+  "bilder": 10,
+  "bild": [
+   96,
+   64
+  ],
+  "anker": "flaeche",
+  "schleife_ab": 3
+ },
+ "Aurelions Zorn": {
+  "datei": "licht/aurelions_zorn.png",
+  "kapitel": "Licht",
+  "stufe": "Vierklang",
+  "elemente": "Licht + Elektro + Erde + Dendro",
+  "wirkung": "Lanze aus Licht vom Himmel, trifft auch Dämonen von Rang S.",
+  "form": "saeule",
+  "variante": "lanze",
+  "bilder": 10,
+  "bild": [
+   96,
+   64
+  ],
+  "anker": "ziel",
+  "schleife_ab": null
+ },
+ "Morgenstern": {
+  "datei": "licht/morgenstern.png",
+  "kapitel": "Licht",
+  "stufe": "Vierklang",
+  "elemente": "Licht + Wind + Eis + Elektro",
+  "wirkung": "Leuchtender Stern über dem Schlachtfeld; Verbündete sehen alles.",
+  "form": "himmel",
+  "variante": "stern",
+  "bilder": 10,
+  "bild": [
+   96,
+   64
+  ],
+  "anker": "flaeche",
+  "schleife_ab": 4
+ },
+ "Grundzauber: Feuerball": {
+  "element": "feuer",
+  "teile": {
+   "entstehen": {
+    "datei": "grund/feuer_entstehen.png",
+    "bilder": 4,
+    "bild": [
+     32,
+     32
+    ]
+   },
+   "flug": {
+    "datei": "grund/feuer_flug.png",
+    "bilder": 4,
+    "bild": [
+     32,
+     32
+    ]
+   },
+   "einschlag": {
+    "datei": "grund/feuer_einschlag.png",
+    "bilder": 6,
+    "bild": [
+     40,
+     40
+    ]
+   }
+  }
+ },
+ "Grundzauber: Eissplitter": {
+  "element": "eis",
+  "teile": {
+   "entstehen": {
+    "datei": "grund/eis_entstehen.png",
+    "bilder": 4,
+    "bild": [
+     32,
+     32
+    ]
+   },
+   "flug": {
+    "datei": "grund/eis_flug.png",
+    "bilder": 4,
+    "bild": [
+     32,
+     32
+    ]
+   },
+   "einschlag": {
+    "datei": "grund/eis_einschlag.png",
+    "bilder": 6,
+    "bild": [
+     40,
+     40
+    ]
+   }
+  }
+ },
+ "Grundzauber: Wasserkugel": {
+  "element": "wasser",
+  "teile": {
+   "entstehen": {
+    "datei": "grund/wasser_entstehen.png",
+    "bilder": 4,
+    "bild": [
+     32,
+     32
+    ]
+   },
+   "flug": {
+    "datei": "grund/wasser_flug.png",
+    "bilder": 4,
+    "bild": [
+     32,
+     32
+    ]
+   },
+   "einschlag": {
+    "datei": "grund/wasser_einschlag.png",
+    "bilder": 6,
+    "bild": [
+     40,
+     40
+    ]
+   }
+  }
+ },
+ "Grundzauber: Felsbrocken": {
+  "element": "erde",
+  "teile": {
+   "entstehen": {
+    "datei": "grund/erde_entstehen.png",
+    "bilder": 4,
+    "bild": [
+     32,
+     32
+    ]
+   },
+   "flug": {
+    "datei": "grund/erde_flug.png",
+    "bilder": 4,
+    "bild": [
+     32,
+     32
+    ]
+   },
+   "einschlag": {
+    "datei": "grund/erde_einschlag.png",
+    "bilder": 6,
+    "bild": [
+     40,
+     40
+    ]
+   }
+  }
+ },
+ "Grundzauber: Dornensaat": {
+  "element": "dendro",
+  "teile": {
+   "entstehen": {
+    "datei": "grund/dendro_entstehen.png",
+    "bilder": 4,
+    "bild": [
+     32,
+     32
+    ]
+   },
+   "flug": {
+    "datei": "grund/dendro_flug.png",
+    "bilder": 4,
+    "bild": [
+     32,
+     32
+    ]
+   },
+   "einschlag": {
+    "datei": "grund/dendro_einschlag.png",
+    "bilder": 6,
+    "bild": [
+     40,
+     40
+    ]
+   }
+  }
+ },
+ "Grundzauber: Windsichel": {
+  "element": "wind",
+  "teile": {
+   "entstehen": {
+    "datei": "grund/wind_entstehen.png",
+    "bilder": 4,
+    "bild": [
+     32,
+     32
+    ]
+   },
+   "flug": {
+    "datei": "grund/wind_flug.png",
+    "bilder": 4,
+    "bild": [
+     32,
+     32
+    ]
+   },
+   "einschlag": {
+    "datei": "grund/wind_einschlag.png",
+    "bilder": 6,
+    "bild": [
+     40,
+     40
+    ]
+   }
+  }
+ },
+ "Grundzauber: Blitzkugel": {
+  "element": "elektro",
+  "teile": {
+   "entstehen": {
+    "datei": "grund/elektro_entstehen.png",
+    "bilder": 4,
+    "bild": [
+     32,
+     32
+    ]
+   },
+   "flug": {
+    "datei": "grund/elektro_flug.png",
+    "bilder": 4,
+    "bild": [
+     32,
+     32
+    ]
+   },
+   "einschlag": {
+    "datei": "grund/elektro_einschlag.png",
+    "bilder": 6,
+    "bild": [
+     40,
+     40
+    ]
+   }
+  }
+ },
+ "Grundzauber: Schattenkugel": {
+  "element": "schatten",
+  "teile": {
+   "entstehen": {
+    "datei": "grund/schatten_entstehen.png",
+    "bilder": 4,
+    "bild": [
+     32,
+     32
+    ]
+   },
+   "flug": {
+    "datei": "grund/schatten_flug.png",
+    "bilder": 4,
+    "bild": [
+     32,
+     32
+    ]
+   },
+   "einschlag": {
+    "datei": "grund/schatten_einschlag.png",
+    "bilder": 6,
+    "bild": [
+     40,
+     40
+    ]
+   }
+  }
+ },
+ "Grundzauber: Lichtkugel": {
+  "element": "licht",
+  "teile": {
+   "entstehen": {
+    "datei": "grund/licht_entstehen.png",
+    "bilder": 4,
+    "bild": [
+     32,
+     32
+    ]
+   },
+   "flug": {
+    "datei": "grund/licht_flug.png",
+    "bilder": 4,
+    "bild": [
+     32,
+     32
+    ]
+   },
+   "einschlag": {
+    "datei": "grund/licht_einschlag.png",
+    "bilder": 6,
+    "bild": [
+     40,
+     40
+    ]
+   }
+  }
+ },
+ "_hinweis": {
+  "anker": {
+   "linie": "Bildmitte links = Hand des Zaubernden, Effekt läuft nach rechts (für links spiegeln)",
+   "ziel": "unten Mitte auf den Zielpunkt legen",
+   "flaeche": "unten Mitte auf die Mitte der Fläche",
+   "zaubernder": "unten Mitte auf die Füße des Zaubernden"
+  },
+  "schleife_ab": "Dauerzauber: ab diesem Bild bis zum Ende in Schleife abspielen, solange der Zauber wirkt"
+ }
+}
