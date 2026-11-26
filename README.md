@@ -19,6 +19,7 @@ Reihenfolge der Animationen, FPS und Bodenpunkt. Immer zuerst die JSON lesen.
 | **Monster** | `monster/sprites/<Rang>/` | alle 600 Monster aus dem Bestiarium, Seitenansicht: idle, move, attack, hurt, death | `monster/sprites/monster.json` |
 | **Bosse** | `monster/sprites/bosse/` | 12 SS-Bosse groß: idle, bewegen, angriff_nah, angriff_spezial, bruellen (Phasenwechsel), benommen, treffer, tod | `bosse.json` |
 | Gebäude | `buildings/` | Tag/Nacht, animiert (`anim/`), Türen (`doors/`) | `doors/tueren.json` |
+| Portal | `objects/portal/` | Stehendes Oval, halbtransparent, 4 Farben: öffnen, offen (Schleife), Durchgang, schließen | `portal.json` |
 | Objekte & Licht | `objects/` | Wasserfall, Dungeon-Tür, Lagerfeuer, Laternen, Fackeln, Lichtkreise | `objekte.json`, `licht/licht.json` |
 | Requisiten | `props/` | Dorf-Requisiten | – |
 | Level / Tiles | `level/` | Terrain-Autotiles (Wang 4x4), Rückwände, Schrägen, Plattformen, Leiter, Stacheln, Parallax-Ebenen | `level.json` |
@@ -50,4 +51,4 @@ cd monster && python3 build.py && python3 boss.py   # Monster + Bosse
 
 Weitere Skripte: `generate.py` (Basis/Gebäude), `walk.py`, `idle.py`, `shops.py`, `animate.py`, `doors.py`, `objects.py`, `lights.py`,
 `races.py`, `combat.py`, `platformer.py`, `magic.py`, `zauber/spells.py`, `dungeon.py`, `world.py`, `gags.py`, `sidetiles.py`,
-`sidetraps.py`, `icons.py`, `status.py`, `portraits.py`, `work.py`, `extras.py`, `particles.py`.
+`sidetraps.py`, `portal.py`, `icons.py`, `status.py`, `portraits.py`, `work.py`, `extras.py`, `particles.py`.
