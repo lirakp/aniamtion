@@ -12,6 +12,7 @@ Reihenfolge der Animationen, FPS und Bodenpunkt. Immer zuerst die JSON lesen.
 | Bereich | Ordner | Beschreibung | Metadaten |
 |---|---|---|---|
 | **Spieler (groß)** | `characters/held/` | 48x48-Zellen, ~40 px, 14 Völker × Tunika/Rüstung, 17 Animationen (stehen, rennen, Sprung, fallen, landen, Dash, Wand, Angriffe vorne/oben/unten, Treffer, Tod, Heilen, ducken) | `characters/held/held.json` |
+| Spieler: Item-Benutzung | `characters/held/items/` | 13 Animationen im Held-Raster: Heil-/Manatrank trinken, essen, Trank werfen, Schriftrolle, aufheben + hochhalten, pflücken, Spitzhacke, Holz hacken, graben, Sichel, gießen, angeln | `held_items.json` |
 | Völker (klein) Plattformer | `characters/voelker/plattformer/` | 18x26-Figuren, Plattformer-Animationen | `plattformer.json` |
 | Völker laufen/idle/Kampf/Magie | `characters/voelker/`, `characters/voelker/kampf/` | 4 Richtungen bzw. Seitenansicht | – |
 | Dorfbewohner bei der Arbeit | `characters/arbeit/` | 10 Arbeitsschleifen, 8 Frames, 48x34 | `arbeit.json` |
@@ -54,4 +55,4 @@ cd monster && python3 build.py && python3 boss.py   # Monster + Bosse
 
 Weitere Skripte: `generate.py` (Basis/Gebäude), `walk.py`, `idle.py`, `shops.py`, `animate.py`, `doors.py`, `objects.py`, `lights.py`,
 `races.py`, `combat.py`, `platformer.py`, `magic.py`, `zauber/spells.py`, `dungeon.py`, `world.py`, `gags.py`, `sidetiles.py`,
-`sidetraps.py`, `portal.py`, `sammeln.py`, `interiors.py`, `icons.py`, `icons_mehr.py`, `status.py`, `portraits.py`, `work.py`, `extras.py`, `particles.py`.
+`sidetraps.py`, `portal.py`, `sammeln.py`, `interiors.py`, `hero_items.py`, `icons.py`, `icons_mehr.py`, `status.py`, `portraits.py`, `work.py`, `extras.py`, `particles.py`.

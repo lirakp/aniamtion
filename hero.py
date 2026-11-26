@@ -54,6 +54,7 @@ def draw(race, outfit, P):
     neck = pt(hip, 180 - lean, tor)  # nach oben
     sho = pt(hip, 180 - lean, tor - 2)
     head = pt(neck, 180 - lean * .6, 6 if not dwarf else 6)
+    P['_head'] = head
 
     # Umhang (hinter allem)
     cv = P['cape']  # -1 = hängt / weht nach hinten unten, +1 = weht nach oben (Fall)
@@ -163,6 +164,8 @@ def draw(race, outfit, P):
     # Vorderes Bein & Arm + Schwert
     leg(P['fl'], True)
     hd, ang = arm(P['fa'], True)
+    P['_hand'], P['_hand_ang'] = hd, ang
+    if P.get('item'): P['item'](im, d, hd, ang, P)  # Gegenstand in der vorderen Hand (siehe hero_items.py)
     if P['sword'] is not None:
         sa = P['sword']; tip = pt(hd, sa, 13); gd = pt(hd, sa, 2)
         cap(d, hd, pt(hd, sa + 180, 2), .7, C('#6a4a3a'))
