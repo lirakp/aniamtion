@@ -1,0 +1,224 @@
+{
+ "groesse": [
+  320,
+  180
+ ],
+ "anim_frames": 6,
+ "fps": 7,
+ "boden_y": 150,
+ "hinweis": "Ebenen: hintergrund → anim (Frame nach Zeit) → Spieler/NPCs → vordergrund. tuer = [x, y, b, h] des Ausgangs; ladenbesitzer = Fußpunkt hinter der Theke.",
+ "raeume": {
+  "alchemie": {
+   "boden_y": 150,
+   "tuer": [
+    14,
+    95,
+    26,
+    55
+   ],
+   "theke": [
+    118,
+    118,
+    104,
+    32
+   ],
+   "ladenbesitzer": [
+    170,
+    150
+   ]
+  },
+  "ausruestung": {
+   "boden_y": 150,
+   "tuer": [
+    14,
+    95,
+    26,
+    55
+   ],
+   "theke": [
+    124,
+    118,
+    96,
+    32
+   ],
+   "ladenbesitzer": [
+    172,
+    150
+   ]
+  },
+  "magie": {
+   "boden_y": 150,
+   "tuer": [
+    14,
+    95,
+    26,
+    55
+   ],
+   "theke": [
+    124,
+    118,
+    94,
+    32
+   ],
+   "ladenbesitzer": [
+    171,
+    150
+   ]
+  },
+  "ruestung_waffen": {
+   "boden_y": 150,
+   "tuer": [
+    14,
+    95,
+    26,
+    55
+   ],
+   "theke": [
+    124,
+    118,
+    90,
+    32
+   ],
+   "ladenbesitzer": [
+    169,
+    150
+   ]
+  },
+  "schmiede_waffen": {
+   "boden_y": 150,
+   "tuer": [
+    14,
+    95,
+    26,
+    55
+   ],
+   "theke": [
+    232,
+    118,
+    74,
+    32
+   ],
+   "ladenbesitzer": [
+    269,
+    150
+   ]
+  },
+  "schmiede_ruestung": {
+   "boden_y": 150,
+   "tuer": [
+    14,
+    95,
+    26,
+    55
+   ],
+   "theke": [
+    268,
+    118,
+    38,
+    32
+   ],
+   "ladenbesitzer": [
+    287,
+    150
+   ]
+  },
+  "baeckerei": {
+   "boden_y": 150,
+   "tuer": [
+    14,
+    95,
+    26,
+    55
+   ],
+   "theke": [
+    120,
+    118,
+    94,
+    32
+   ],
+   "ladenbesitzer": [
+    167,
+    150
+   ]
+  },
+  "taverne": {
+   "boden_y": 150,
+   "tuer": [
+    14,
+    95,
+    26,
+    55
+   ],
+   "theke": [
+    60,
+    116,
+    90,
+    34
+   ],
+   "ladenbesitzer": [
+    105,
+    150
+   ]
+  },
+  "gilde_abenteuer": {
+   "boden_y": 150,
+   "tuer": [
+    14,
+    95,
+    26,
+    55
+   ],
+   "theke": [
+    200,
+    118,
+    100,
+    32
+   ],
+   "ladenbesitzer": [
+    250,
+    150
+   ]
+  },
+  "gilde_handel": {
+   "boden_y": 150,
+   "tuer": [
+    14,
+    95,
+    26,
+    55
+   ],
+   "theke": [
+    196,
+    118,
+    104,
+    32
+   ],
+   "ladenbesitzer": [
+    248,
+    150
+   ]
+  },
+  "kirche": {
+   "boden_y": 150,
+   "tuer": [
+    14,
+    95,
+    26,
+    55
+   ],
+   "ladenbesitzer": [
+    165,
+    150
+   ]
+  },
+  "wohnhaus": {
+   "boden_y": 150,
+   "tuer": [
+    14,
+    95,
+    26,
+    55
+   ]
+  }
+ }
+}

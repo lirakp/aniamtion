@@ -33,6 +33,8 @@ Reihenfolge der Animationen, FPS und Bodenpunkt. Immer zuerst die JSON lesen.
 | Übergänge | `ui/uebergaenge/` | 6 Szenenübergänge, 12 Masken à 320x180 | `uebergaenge.json` |
 | Kartensymbole | `ui/karte/` | 24 Symbole 12x12 | `karte.json` |
 | Gegenstands-Icons | `icons/` | ~130 Icons 16x16 (Waffen/Rüstung je Rang D–SS, Tränke, Beute …) | `icons.json` |
+| Weitere Icons | `icons/` (`traenke_mehr`, `werkzeuge`, `monsterteile`, `magisch`, `edelsteine`, `gekocht_getraenke`, `taschen_quest`) | ~100 Icons 16x16: Spezialtränke, Elixiere, Wurftränke, Werkzeuge, Monsterteile, Schriftrollen, Edelsteine, Gerichte, Getränke, Taschen, Quest-Items | `icons/icons_mehr.json` |
+| Innenräume | `level/innenraeume/<raum>/` | 12 Räume 320x180 (Alchemie, Ausrüstung, Magie, Rüstung/Waffen, 2 Schmieden, Bäckerei, Taverne, 2 Gilden, Kirche, Wohnhaus): hintergrund + anim (6 Frames) + vordergrund | `innenraeume.json` |
 | Statuseffekte | `status/` | 15 Effekte: 9x9-Icons + Overlays 32x32 + Tönung | `status.json` |
 | Dialog-Porträts | `portraits/` | 40x40, 14 Völker × 2 Outfits, 6 Ausdrücke × (zu, spricht, blinzeln) | `portraits.json` |
 | Vorschauen | `preview_*.gif/png` | Übersichtsbilder aller Gruppen (nicht fürs Spiel) | – |
@@ -52,4 +54,4 @@ cd monster && python3 build.py && python3 boss.py   # Monster + Bosse
 
 Weitere Skripte: `generate.py` (Basis/Gebäude), `walk.py`, `idle.py`, `shops.py`, `animate.py`, `doors.py`, `objects.py`, `lights.py`,
 `races.py`, `combat.py`, `platformer.py`, `magic.py`, `zauber/spells.py`, `dungeon.py`, `world.py`, `gags.py`, `sidetiles.py`,
-`sidetraps.py`, `portal.py`, `sammeln.py`, `icons.py`, `status.py`, `portraits.py`, `work.py`, `extras.py`, `particles.py`.
+`sidetraps.py`, `portal.py`, `sammeln.py`, `interiors.py`, `icons.py`, `icons_mehr.py`, `status.py`, `portraits.py`, `work.py`, `extras.py`, `particles.py`.
