@@ -26,6 +26,7 @@ Reihenfolge der Animationen, FPS und Bodenpunkt. Immer zuerst die JSON lesen.
 | Tag-Nacht | `level/tageszeit/` | 4 Himmel + Tönung je Stunde | `tageszeit.json` |
 | Umgebungs-Partikel | `level/partikel/` | 13 loopende Overlays 320x180 (Regen, Schnee, Glühwürmchen, Nebel …) | `partikel.json` |
 | Dungeon | `dungeon/` | Fallen, Truhen, Details, Geister; `fallen_seite/` = Fallen in Seitenansicht | `dungeon.json`, `fallen_seite.json` |
+| Sammel-Items | `welt/sammeln/` | 22 Fundstücke (Beeren, Weizen, Pilze, Kräuter, Erze, Kristall, Eier, Honig …): idle, ernten, leer, nachwachsen + 16x16-Icons | `sammeln.json` |
 | Welt-Details & Gags | `welt/` | Brunnen-Münze, Bäume, Blitz, wütender Baum, Gags … | `welt.json` |
 | Magie | `effects/magie/`, `zauber/` | Element-Effekte, Bruchklang, Mehrklang; alle 270 Zauber | `effekte.json`, `zauber/sprites/zauber.json` |
 | UI | `ui/` | Herzen, Mana, Rangabzeichen, Schadenszahlen, 9-Slice-Rahmen, Knöpfe, Banner | `ui.json` |
@@ -51,4 +52,4 @@ cd monster && python3 build.py && python3 boss.py   # Monster + Bosse
 
 Weitere Skripte: `generate.py` (Basis/Gebäude), `walk.py`, `idle.py`, `shops.py`, `animate.py`, `doors.py`, `objects.py`, `lights.py`,
 `races.py`, `combat.py`, `platformer.py`, `magic.py`, `zauber/spells.py`, `dungeon.py`, `world.py`, `gags.py`, `sidetiles.py`,
-`sidetraps.py`, `portal.py`, `icons.py`, `status.py`, `portraits.py`, `work.py`, `extras.py`, `particles.py`.
+`sidetraps.py`, `portal.py`, `sammeln.py`, `icons.py`, `status.py`, `portraits.py`, `work.py`, `extras.py`, `particles.py`.
